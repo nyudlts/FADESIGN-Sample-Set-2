@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">wag_032</eadid><filedesc><titlestmt><titleproper>Guide to the New York City Police Department Detectives Endowment Association Records <num>WAG.032</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:49:15 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>New York City Police Department Detectives Endowment Association Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Detectives Endowment Association (New York, N.Y.)</corpname>
+    </origination>
+    <unitid>WAG.032</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">11.25 Linear Feet</extent>
+      <extent altrender="carrier">(12 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial id="aspace_48c3f851c2766586768febb6b05a53ef">Materials are in English</langmaterial>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_07a97ded26ad5a911a8f3ef759c8e990" label="Mixed Materials [31142062730406]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_eca86465f792c421fb5521cb75b82426" label="Mixed Materials [31142063411717]" type="Box">2</container>
+    <container altrender="Record carton" id="aspace_c9c26e7bfeee6daf31223dfe5daf91b2" label="Mixed Materials [31142063295508]" type="Box">3</container>
+    <container altrender="Record carton" id="aspace_c36c6d272f746d18f23233cc36ff320f" label="Mixed Materials [31142063411741]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_0820af338ff5bb66753f75f809ba3661" label="Mixed Materials [31142063411758]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_ad554637e756bb1f6ff7e35dd444232d" label="Mixed Materials [31142063411774]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_f05e6c7db03dc57813c7fbe6af581483" label="Mixed Materials [31142063411808]" type="Box">7</container>
+    <container altrender="Record carton" id="aspace_86ba03789a161303237a2df24cadeba2" label="Mixed Materials [31142063411782]" type="Box">8</container>
+    <container altrender="Record carton" id="aspace_b192ee6f75ed76dffc1ab47ddd836727" label="Mixed Materials [31142063411766]" type="Box">9</container>
+    <container altrender="Record carton" id="aspace_a97385b5b8256cf49eb2bbedf867cc3c" label="Mixed Materials [31142063411733]" type="Box">10</container>
+    <container altrender="Record carton" id="aspace_1420052275210192e135b44dfd7eb5f1" label="Mixed Materials [31142063411725]" type="Box">11</container>
+    <container altrender="Record carton" id="aspace_a1f7bdb4d43e8b5e70be4150d41a0957" label="Mixed Materials [31142063411790]" type="Box">12</container>
+  </did>
+  <bioghist id="aspace_41694d13f6beadeef8395a692bf16020">
+    <head>Historical/Biographical Note</head>
+<p>The Detectives Endowment Association (DEA) of the Police Department of the City of New York was organized in February, 1917. It was certified for collective bargaining on August 7, 1963. </p><p>Among its activities, the DEA unsuccessfully opposed efforts by the police department to institute "specialization". From 1972 through 1978, precinct squads were supplanted by specialized squads for robbery, homicide, etc. The DEA formerly belonged to the health and welfare plans run first by the Superior Officers Committee, then by the Police Benevolent Association. It pulled out of the PBA plan in 1979 and now operates its own plan. The DEA negotiates with the Uniformed Forces Coalition, a coalition of police and fire unions in New York City. Membership currently (1985) stands at 2,900 active members.</p>  </bioghist>
+  <prefercite id="aspace_cdca43438808c0228122dee69cef2e47">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; New York City Police Department: Detectives Endowment Association Records; WAG 032; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_74db0faff3a6b11e6798b53c00f50338">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <scopecontent id="aspace_50502725e93e9798b5321e62f7b5b83e">
+    <head>Scope and Content Note</head>
+<p>The collection includes contracts (1966-76), the DEA's bulletin, The Gold Shield (1967), arbitrations, and newspaper clippings.</p>  </scopecontent>
+  <userestrict id="aspace_85d4f30cdb731d2cc3a73f3e4a377af9">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the New York City Police Department Detectives Endowment Association was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <acqinfo id="aspace_54fef536a34de49653ced7c950d4b871">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials were likely donated by the New York City Police Department Detectives Endowment Association in 1985. The accession number associated with these materials is 1985.012.</p>  </acqinfo>
+  <phystech id="aspace_8af34b19d184a93d8b0db5b27e42a383">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <genreform source="aat">Contracts</genreform>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <genreform source="aat">Clippings files.</genreform>
+    <subject source="lcsh">Police |x Labor unions |z New York (State) |z New York.</subject>
+    <corpname source="local">Police Benevolent Association (New York, N.Y.)</corpname>
+    <corpname source="naf">New York (N.Y.). Police Dept.</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

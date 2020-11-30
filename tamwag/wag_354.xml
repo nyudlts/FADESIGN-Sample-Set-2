@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_354">wag_354</eadid><filedesc><titlestmt><titleproper>Guide to the Andolan (Organizing South Asian Workers) Records <num>WAG.354</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>July 2018</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:13:30 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Andolan (Organizing South Asian Workers) Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Andolan (Organization)</corpname>
+    </origination>
+    <unitid>WAG.354</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">8.5 linear feet</extent>
+      <extent altrender="carrier">in 7 record cartons, 1 manuscript box, and 1 oversize flat box</extent>
+    </physdesc>
+    <unitdate normal="1998/2007" type="inclusive">1998-2007</unitdate>
+    <abstract id="aspace_aede14e99b0f5bc73d805fb4449b1f72">Andolan (Organizing South Asian Workers) is a non-governmental, membership based group in New York City that organizes and advocates on behalf of South Asian immigrant workers, with particular focus on Bangladeshi, Pakistani, Indian, Nepalese, and Sri Lankan workers in the retail, food service, and domestic work industries, many of whom are women. Founded in 1998 by low-wage South Asians, Andolan's goal is to support and empower working-class communities to realize their rights and overcome obstacles such as language barriers, discrimination, immigration status, and gaps in social services for legal assistance and other types of support. The Andolan (Organizing South Asian Workers) Records (dated 1998-2007) consists of materials created and collected by Andolan documenting the organization's activism and advocacy on behalf of South Asian workers in New York City in the domestic work, restaurant, and retail industries. Materials in this collection include photographs,  administrative records, client court case files, financial records, grant applications, and ephemera from demonstrations and other events. The majority of the collection consists of court files documenting Andolan's role in legal services on behalf of low-wage South Asian workers related to wage compensation, political asylum, and domestic violence.</abstract>
+    <langmaterial id="aspace_178c5e88b3a1acab008ef43ff4a5fd5a">Majority of materials are in English, with some newspapers and ephemera in Hindi and Bengali. Some items are bi-lingual.</langmaterial>
+    <container altrender="Record carton" id="aspace_2c6b1f49f72c40ca53ca797e4856062e" label="Mixed Materials [31142063577780]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_10778d3fb0aec087ff1483a3016013eb" label="Mixed Materials [31142063577798]" type="Box">2</container>
+    <container altrender="Record carton" id="aspace_a9fde0cabaf237dd17225c47154d7acf" label="Mixed Materials [31142063577806]" type="Box">3</container>
+    <container altrender="Record carton" id="aspace_48a518897447cb8f7d8c948bccbf49c9" label="Mixed Materials [31142063577814]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_d545eef754dabfd61f1ee944e030717d" label="Mixed Materials [31142063577822]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_db391b252c10abb79bc0af291c5230b4" label="Mixed Materials [31142063577830]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_6f4a2927a3d66bf9d112bfd00797f473" label="Mixed Materials [31142063577855]" type="Box">7</container>
+    <container altrender="Manuscript box - Legal" id="aspace_8e9f17e1ed744abc200aebd209c92d6f" label="Mixed Materials [31142063577848]" type="Box">8</container>
+    <container altrender="Flat OS Box - 17 - 3.5h" id="aspace_0a0932330415a3ca36467b9bc7f109ed" label="Mixed Materials [31142063577772]" type="Box">9</container>
+  </did>
+  <scopecontent id="aspace_f62c28be8d326053700d44d4bc8f82bf">
+    <head>Scope and Contents</head>
+<p>The Andolan (Organizing South Asian Workers) Records (dated 1998-2007) consists of materials created and collected by Andolan documenting the organization's activism and advocacy on behalf of South Asian workers in New York City in the domestic work, restaurant, and retail industries. Materials in this collection include photographs,  administrative records, client court case files, financial records, grant applications, and ephemera from demonstrations and other events. The majority of the collection consists of court files documenting Andolan's role in legal services on behalf of low-wage South Asian workers related to wage compensation, political asylum, and domestic violence. Court files include client intake files, court transcripts, attorney correspondence, court petitions, affidavits of support, and other documents describing the client's personal backgrounds. Many of these documents are in Hindi and Bengali. Administrative files include meeting minutes, agendas, by-laws, board evaluations of the organization's progress; financial records include grant contracts, interim progress reports, budget sheet narratives, fundraising plans, and tax records. The collection also includes a small amount of the organization's project files documenting global and local initiatives related to domestic violence, human trafficking, and human rights abuses in the domestic workers industry. Materials include reports, newspaper clippings from domestic and international publications, and ephemera.</p>  </scopecontent>
+  <acqinfo id="aspace_b658c0f6eba0752839ba0dbc04f2a234">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Sehana Prakash Mehta in July 2018; the accession number associated with this gift is 2018.097.</p>  </acqinfo>
+  <accessrestrict id="aspace_b52f6d50cb9127d9a19409ef76233ca7">
+    <head>Conditions Governing Access</head>
+<p>Some items may require access restrictions due to attorney-client privilege and personally identifiable information.</p>  </accessrestrict>
+  <userestrict id="aspace_034e28a152a956129cb568dac9a4d987">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Andolan was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <arrangement id="aspace_75a2199902b51a8106900edec9e9e5d3">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <prefercite id="aspace_e5ca4b34efa6f81aabd6ac76bd96ecc9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Andolan (Organizing South Asian Workers) Records; WAG 354; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_7b66b9fce252a783c1d4ba43110ef423">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes and folders, and described on the collection-level. No other arrangement, description, or physical interventions have taken place.</p>  </processinfo>
+  <bioghist id="aspace_89e506510444326db32ed2df75813f9e">
+    <head>Historical Note</head>
+<p>Andolan (Organizing South Asian Workers) is a non-governmental, membership based group in New York City that organizes and advocates on behalf of South Asian immigrant workers, with particular focus on Bangladeshi, Pakistani, Indian, Nepalese, and Sri Lankan workers in the retail, food service, and domestic work industries, many of whom are women. Founded in 1998 by low-wage South Asians, Andolan's goal is to support and empower working-class communities to realize their rights and overcome obstacles such as language barriers, discrimination, immigration status, and gaps in social services for legal assistance and other types of support. Andolan's major program areas include providing support to workers, promoting legal advocacy, and community campaigning through meetings, educational workshops, referrals for medical assistance, counseling, and translation services. The group supports members navigating the legal process against abusive employers for wage violations, sexual harassment, assault, domestic violence, and imprisonment. Andolan works in coalition with other organizations on campaigns related to worker's rights and human rights, such as the Campaign to Increase the Minimum Wage and the Campaign Against Diplomatic Immunity of UN Employees.</p><p>Sources:</p><p>Asian American Federation. "Human Services Directory: Adolan - Organizing South Asian Workers." http://www.aafederation.org/directory/search.asp?agencyid=64 (retrieved July 27, 2018).</p><p>Asian/Pacific American Archives Survey Project. "Andolan Records." http://apa.nyu.edu/survey/?p=1280 (retrieved July 27, 2018).</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Household employees -- United States</subject>
+    <subject source="lcsh">Women household employees</subject>
+    <subject source="lcsh">Women immigrants</subject>
+    <subject source="lcsh">Women immigrants -- Economic conditions</subject>
+    <subject source="lcsh">Women foreign workers</subject>
+    <subject source="lcsh">Household employees -- Legal status, laws, etc.</subject>
+    <subject source="lcsh">Labor economics -- United States</subject>
+    <subject source="lcsh">Emigration and immigration law -- United States.</subject>
+    <subject source="lcsh">South Asian Americans -- Legal status, laws, etc.</subject>
+    <subject source="lcsh">South Asian Americans -- Political activity</subject>
+    <subject source="lcsh">South Asian Americans -- Economic conditions</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

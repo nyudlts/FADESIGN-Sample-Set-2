@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_363">wag_363</eadid><filedesc><titlestmt><titleproper>Guide to the Frank Goldsmith Papers <num>WAG.363</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>June 2019</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:17:57 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Frank Goldsmith Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Goldsmith, Frank</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="naf">Goldsmith, Frank</persname>
+    </origination>
+    <unitid>WAG.363</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5.5 linear feet</extent>
+      <extent altrender="carrier">in 5 record cartons and 1 manuscript box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4.7 Gigabytes</extent>
+    </physdesc>
+    <unitdate normal="2002/2016" type="inclusive">2002-2016</unitdate>
+    <abstract id="aspace_0da69b163f5c76254bdfd918c273db51">Dr. Frank Goldsmith is the Director, Occupational Health for Transport Workers Union, Local 100. The Frank Goldsmith Papers (dated approximately 2002-2016) consists of materials created and collected by Goldsmith documenting his activities related to occupational health and safety and international labor organizing, with particular emphasis on his engagement with Transport Workers Union Local 100 in New York City. Materials related to TWU Local 100 include meeting agendas, memoranda, research notes and articles, and New York State Public Employment Board opinions and awards related to the unions collective bargaining agreement and campaigns to improve occupational health and safety. Materials related to the World Federation of Trade Unions and international labor organizing include newsletters, news articles, and conference materials. This collection also includes training and workshop materials for courses taught by Goldsmith, many of which were offered through the Murphy Institute at the CUNY School of Labor and Urban Studies.</abstract>
+    <langmaterial id="aspace_71ffb3d13f8ac2a58c739e7c16c3919f">The majority of these materials are in English; some materials related to the World Federation of Trade Unions are in other languages.</langmaterial>
+  </did>
+  <scopecontent id="aspace_43e25a1fa8c27e60c44e5bd36cbcd139">
+    <head>Scope and Contents</head>
+<p>The Frank Goldsmith Papers (dated approximately 2002-2016) consists of materials created and collected by Goldsmith documenting his activities related to occupational health and safety and international labor organizing, with particular emphasis on his engagement with Transport Workers Union Local 100 in New York City. Materials related to TWU Local 100 include meeting agendas, memoranda, research notes and articles, and New York State Public Employment Board opinions and awards related to the unions collective bargaining agreement and campaigns to improve occupational health and safety. Materials related to the World Federation of Trade Unions and international labor organizing include newsletters, news articles, and conference materials. This collection also includes training and workshop materials for courses taught by Goldsmith, many of which were offered through the Murphy Institute at the CUNY School of Labor and Urban Studies.</p>  </scopecontent>
+  <arrangement id="aspace_5b90915e5fea89fb3533d67031c13dae">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <accessrestrict id="aspace_a380778f9789da9160264d9a34eeb304">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_c0ec267018aabafe9d734aabd9c10e5c">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_fddc615e6a17fa8dc3a2c94c392c7372">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Frank Goldsmith in May 2019; the accession number associated with this gift is 2019.074.</p>  </acqinfo>
+  <prefercite id="aspace_0fbbf381272862bafaece178aa4d6374">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Frank Goldsmith Papers; WAG 363; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_4d7ec6556485bed2fc0ae564213755b5">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes and folders, and described on the collection-level. One born-digital object was identified, physically separated, and inventoried, but has not yet been forensically imaged, analyzed, or described. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.</p>  </processinfo>
+  <phystech id="aspace_7ff64ea7f6d1b618059139435769011e">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Advance notice is required for the use of computer records.  Original physical digital media is restricted. Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <bioghist id="aspace_0d427e5be6fa87e87bb1e93a83ecfc72">
+    <head>Biographical Note</head>
+<p>Dr. Frank Goldsmith is the Director, Occupational Health for Transport Workers Union, Local 100.</p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Employment &amp; social affairs -- Health and safety at work.</subject>
+    <subject source="lcsh">Collective bargaining.</subject>
+    <subject source="lcsh">Collective bargaining -- Transport workers -- United States.</subject>
+    <subject source="lcsh">Collective labor agreements -- Transport workers -- United States.</subject>
+    <subject source="lcsh">Transport workers -- New York (State) -- New York.</subject>
+    <persname role="dnr" source="naf">Goldsmith, Frank</persname>
+    <corpname source="naf">Transport Workers Union of America. Local 100</corpname>
+    <corpname source="naf">World Federation of Trade Unions</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_cfaff9c4d16b0579926f991f4f1d11ec" level="file"><did><unittitle>Transport Workers Union, Local 100 -- Occupational Health and Collective Bargaining</unittitle><unitdate normal="2002/2015" type="inclusive">2002-2015</unitdate><container altrender="Record carton" id="aspace_0ff14be3078928bd339ac6ffd9355368" label="Mixed Materials [31142063351145]" type="Box">1</container><container altrender="Record carton" id="aspace_241b85105900fb78f8296764f1c1f3d6" label="Mixed Materials [31142063351152]" type="Box">4</container></did></c><c id="aspace_465d9875c5f610e9161c37241450db68" level="file"><did><unittitle>World Federation of Trade Unions</unittitle><unitdate normal="2007/2016" type="inclusive">2007-2016</unitdate><container altrender="Record carton" id="aspace_ac0665685013e51ef8b98b9588d36af4" label="Mixed Materials [31142063351137]" type="Box">2</container><container altrender="Record carton" id="aspace_6125d712fd80b8ca933e74962930bd62" label="Mixed Materials [31142063351160]" type="Box">3</container><container altrender="Record carton" id="aspace_64e319dc96c495de8e47883fb2fd3a33" label="Mixed Materials [31142063351111]" type="Box">5</container><container altrender="Manuscript box - Legal" id="aspace_4aa1dd03d3728c901d4609b626990f99" label="Mixed Materials [31142063351129]" type="Box">6</container></did></c></dsc>
+</archdesc>
+</ead>

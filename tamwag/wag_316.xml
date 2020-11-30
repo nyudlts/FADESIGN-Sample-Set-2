@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_316/">wag_316</eadid><filedesc><titlestmt><titleproper>Guide to the Dennis Serrette Papers <num>WAG.316</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:08:42 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Dennis Serrette Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Serrette, Dennis</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Serrette, Dennis</persname>
+    </origination>
+    <unitid>WAG.316</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+      <extent altrender="carrier">(10 boxes)</extent>
+    </physdesc>
+    <unitdate>c. early 1980s to mid 200s</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_c346285e47f50934d0173f132a1e15de" label="Mixed Materials [31142063295250]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_f4acd35f9a63d362c11d95ff27d77844" label="Mixed Materials [31142063295193]" type="Box">2</container>
+    <container altrender="Record carton" id="aspace_11ee3c1c09401a98c5a440b70724fb12" label="Mixed Materials [31142063295219]" type="Box">3</container>
+    <container altrender="Record carton" id="aspace_b213e53a1326ed866b658d49e823d422" label="Mixed Materials [31142063295201]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_d4b006a13b36f43252fb098c98c643d9" label="Mixed Materials [31142063295227]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_04fa30f6021b2e878f1d5f3dbaa6a709" label="Mixed Materials [31142063295268]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_9a89dd7155aefc5b96895d025a050368" label="Mixed Materials [31142063295235]" type="Box">7</container>
+    <container altrender="Record carton" id="aspace_5bab1c52c93276826a6768af32619c3c" label="Mixed Materials [31142063295243]" type="Box">8</container>
+    <container altrender="Manuscript box - Letter" id="aspace_d330c18fa28a4b1797afe4bd6a11d16f" label="Mixed Materials [31142063295276]" type="Box">9</container>
+    <container altrender="Manuscript box - Legal" id="aspace_650f5b7f417de6fa574b7192c5f85fd0" label="Mixed Materials [31142063295284]" type="Box">10</container>
+  </did>
+  <acqinfo id="aspace_2a8e247e6f6f5bbc64c5a52c06b4b08d">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Dennis Serrette, 2011. The accession numbers associated with this gift are 2010.100 and 2011.123.</p>  </acqinfo>
+  <prefercite id="aspace_901fc91105ecefac865f1732886b4c0d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Dennis Serrette Papers; WAG 316; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_967d95f8eca9aea6e0babf8d7653b547">
+    <head>Scope and Contents</head>
+<p>The papers of Dennis Serrette covering his labor and political activities at the CWA and elsewhere.  Contains material on his 1984 Presidential campaign, African-Americans in labor and politics, and Vietnam.</p>  </scopecontent>
+  <accessrestrict id="aspace_de51d974de98bb2ab3bc3eaf79e03033">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_40089c4bb1fe733ae11c6bdd733eed7f">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Dennis Serrette were transferred to New York University in 2011 by Dennis Serrette. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Serrette, Dennis</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

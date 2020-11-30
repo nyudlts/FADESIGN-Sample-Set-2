@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_313/">wag_313</eadid><filedesc><titlestmt><titleproper>International Brotherhood of Teamsters Election Files<num>WAG.313</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:08:37 -0500</date>.</creation><langusage>English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>International Brotherhood of Teamsters Election Files</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">International Brotherhood of Teamsters</corpname>
+    </origination>
+    <unitid>WAG.313</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1992/2002" type="inclusive">1992-2002</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_90f49ce7e40a6b85c454133bffb960d6">
+    <head>Scope and Contents</head>
+<p>Reports of election officers for the IBT.</p>  </scopecontent>
+  <userestrict id="aspace_a784484b69c1f203d255faad46dc27b9">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1992-2002, are expected to enter the public domain in 2123.</p>  </userestrict>
+  <acqinfo id="aspace_48f047ed188755d05e80bf34b921b767">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 2010.087.</p><p>The accession number NPA.2005.128 and NPA.2005.213 are also associated with this collection.</p>  </acqinfo>
+  <accessrestrict id="aspace_5f9e64339a5e3349fb8fc7d75a174f4f">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <prefercite id="aspace_0429eaceada18fcd61fac232474c19d2">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; International Brotherhood of Teamsters Election Files; WAG 313; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <phystech id="aspace_c3839e95dccf964b299e176417367360">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <dsc><c id="aspace_3bda1dcf53c5e1d16342f760bbddd7b1" level="file"><did><unittitle>Unprocessed Videos</unittitle><container altrender="Record carton" id="aspace_ec80536b1ce6213ec7f99caca17e207e" label="Moving Images [31142062732261]" type="Box">Shared Tamiment 024</container></did></c><c id="aspace_4e4d7f27ed353b46905a44860c3ef7d1" level="file"><did><unittitle>Unprocessed Records</unittitle><container altrender="Manuscript box - Legal" id="aspace_86110da730d15e20370fcd5157dde4b8" label="Mixed Materials [31142062774354]" type="Box">1</container><container altrender="Manuscript box - Letter - Half" id="aspace_fed3e0aaf08f3d6fc043290789391f49" label="Mixed Materials [31142062774362]" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>

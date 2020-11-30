@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_793">tam_793</eadid><filedesc><titlestmt><titleproper>Guide to the William Blum Papers <num>TAM.793</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>April 2019</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:17:52 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>William Blum Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Blum, William</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Alcoff, Sam</persname>
+    </origination>
+    <unitid>TAM.793</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">14.5 linear feet</extent>
+      <extent altrender="carrier">in 14 record cartons and 1 media box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">30 videocassettes (vhs)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">99.55 Gigabytes</extent>
+    </physdesc>
+    <unitdate normal="1965/2018" type="inclusive">1965-2018</unitdate>
+    <abstract id="aspace_83ad6b73b5ab1170e588018ed267201d">William Blum (1933-2018) was an author, historian, and former employee of the United States Department of State. Blum left his government position in 1967 because of his opposition to United States involvement in Vietnam, and became one of the founders and editors of the <emph render="italic">Washington Free Press</emph>, an alternative bi-weekly newspaper. As a freelance journalist, Blum frequently wrote about the CIA and the agency's involvement with foreign governments. He spent 1972-1973 in Chile where he reported on Salvador Allende's presidency. The William Blum Papers (dated 1965-2018) consists of materials created and collected by Blum documenting his career as a critic of United States foreign policy. The bulk of this collection consists of Blum's research files on the CIA, with particular emphasis on the agency's involvement with foreign governments.</abstract>
+    <physloc id="aspace_1bc8a485d6277c8f799ccbf364e57a05">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_4fbbefa4ec01d93851a6a9b279d85c27">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_43304ea9dd0d6605f21094f1cd57ccee">
+    <head>Scope and Contents</head>
+<p>The William Blum Papers (dated 1965-2018) consists of materials created and collected by William Blum documenting his career as an author, historian, and critic of United States foreign policy. The bulk of this collection consists of Blum's research files on the CIA, with particular emphasis on the agency's involvement with foreign governments. This collection also includes video recordings of documentaries about the CIA.</p>  </scopecontent>
+  <arrangement id="aspace_38c8b3a793ce7a2be51767a6469c0d35">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_1b5065804d1de04ae08d714a0d5b308f">
+    <head>Biographical Note</head>
+<p>William Blum (1933-2018) was an author, historian, and former employee of the United States Department of State. Blum left his government position in 1967 because of his opposition to United States involvement in Vietnam, and became one of the founders and editors of the <emph render="italic">Washington Free Press</emph>, an alternative bi-weekly newspaper. As a freelance journalist, Blum frequently wrote about the CIA and the agency's involvement with foreign governments. He spent 1972-1973 in Chile where he reported on Salvador Allende's presidency.</p>  </bioghist>
+  <accessrestrict id="aspace_1daf2fbb259ab45cf45c67f7d0efca6e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_abfee3c7b6f4b841a6ff6f357537a05a">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by William Blum, the creator of this collection, were relinquished and transferred to the public domain in 2019 by Sam Alcoff. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/</p>  </userestrict>
+  <acqinfo id="aspace_ea80de31f9785391da3e4e1df20eaef5">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Sam Alcoff in January 2019; the accession number associated with this gift is 2019.052.</p>  </acqinfo>
+  <prefercite id="aspace_c50e4452ac846261f8fed98ec5505ae9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; William Blum Papers; TAM 793; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_72a0c4ebe60a322a8166ad73d31abeea">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were rehoused in archival boxes and described on the collection-level with a box-list. Born-digital items were identified, physically separated, and inventoried. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.</p>  </processinfo>
+  <phystech id="aspace_cd2f5fc1c42cafcca12955bbe5e129d8">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <phystech id="aspace_0b53e42cec6f862e87b592b09e79d1e1">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Advance notice is required for the use of computer records.  Original physical digital media is restricted. Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <geogname source="lcsh">United States -- Foreign relations.</geogname>
+    <subject source="lcsh">International relations.</subject>
+    <persname role="dnr" rules="dacs" source="local">Alcoff, Sam</persname>
+    <corpname source="naf">United States. Central Intelligence Agency</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_3460f2ad17a38f3c14a6a5b6242e0c26" level="file"><did><unittitle>Television Recordings and "Inside the CIA" Documentary</unittitle><unitdate normal="1990/1997" type="inclusive">1990-1997</unitdate><container altrender="Record carton" id="aspace_18906304503f22972169c2e80158d133" label="Mixed Materials [31142063341658]" type="Box">1</container></did></c><c id="aspace_6d0d36016d693be7d6dcab8ccf1683bd" level="file"><did><unittitle>Screenplays, Novels, and Vern Lyon Binder</unittitle><unitdate normal="1990/2008" type="inclusive">1990-2008</unitdate><container altrender="Record carton" id="aspace_504c5fe4744e5c8a186f5a2e98dc22ae" label="Mixed Materials [31142063341641]" type="Box">2</container></did></c><c id="aspace_54725c79561b365304cfe3dc24553f51" level="file"><did><unittitle>Research Files, Correspondence, Handwritten Notes</unittitle><unitdate normal="1997/2008" type="inclusive">1997-2008</unitdate><container altrender="Record carton" id="aspace_945f3396ad33d4e1460dfad919c1a4c5" label="Mixed Materials [31142063341633]" type="Box">3</container></did></c><c id="aspace_ae09131d0197fdf2e3fe74ac3b99838a" level="file"><did><unittitle>Research Files -- Foreign Governments</unittitle><unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate><container altrender="Record carton" id="aspace_c834201e7b3fd30dca2bcbd740a89a7c" label="Mixed Materials [31142063341625]" type="Box">4</container><container altrender="Record carton" id="aspace_2782bbb2ff6fd5cba120c976dc97e8af" label="Mixed Materials [31142063341617]" type="Box">5</container></did></c><c id="aspace_bba3441b488eebe6f48d852d138009eb" level="file"><did><unittitle>Research Files -- CIA</unittitle><unitdate normal="1978/2000" type="inclusive">1978-2000</unitdate><container altrender="Record carton" id="aspace_b7d663250d4a4bc1da42484fd6e675fd" label="Mixed Materials [31142063341609]" type="Box">6</container></did></c><c id="aspace_8abe933f4aceea9fc3585754d90f8ab7" level="file"><did><unittitle>Research Files -- Foreign Governments</unittitle><unitdate normal="1989/2002" type="inclusive">1989-2002</unitdate><container altrender="Record carton" id="aspace_a7de0d7226e30f103044d2f85037b9f2" label="Mixed Materials [31142063341591]" type="Box">7</container><container altrender="Record carton" id="aspace_c6c878bb9a1f65c80232ea801ec158d2" label="Mixed Materials [31142063341583]" type="Box">8</container></did></c><c id="aspace_91ff54ad9f955933d6155e904ee54630" level="file"><did><unittitle>Photocopied Government Documents</unittitle><unitdate normal="1998/2018" type="inclusive">1998-2018</unitdate><container altrender="Record carton" id="aspace_afa8125d33709ef0315554a4f2fe3dcf" label="Mixed Materials [31142063341575]" type="Box">9</container></did></c><c id="aspace_22ab5e33e5a0ad675d0d11ffcaacc9ee" level="file"><did><unittitle>Research Files -- Contemporary Politics and International Relations</unittitle><unitdate normal="1993/2000" type="inclusive">1993-2000</unitdate><container altrender="Record carton" id="aspace_4634ef757346757047cb070fcd70027a" label="Mixed Materials [31142063341567]" type="Box">10</container></did></c><c id="aspace_90136409fd94fc8aebf727aa57adb333" level="file"><did><unittitle>Research Files -- United States Foreign Policy</unittitle><unitdate normal="1965/1998" type="inclusive">1965-1998</unitdate><container altrender="Record carton" id="aspace_cb5885d2132b873de31bbf939fcc4b3c" label="Mixed Materials [31142063341559]" type="Box">11</container></did></c><c id="aspace_396d7fcf9b29174f46313a812948b0b1" level="file"><did><unittitle>Research Binders -- Lester Coleman and Pan Am Bombing</unittitle><unitdate normal="1983/1997" type="inclusive">1983-1997</unitdate><container altrender="Record carton" id="aspace_5ce741cbb24dd7484c933b89616828f9" label="Mixed Materials [31142063341542]" type="Box">12</container></did></c><c id="aspace_f2bc9656f82996da0d926661cad33308" level="file"><did><unittitle>Research Files -- Foreign Governments</unittitle><unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate><container altrender="Record carton" id="aspace_7980e68925549f432b983da09fc8c01c" label="Mixed Materials [31142063341534]" type="Box">13</container></did></c><c id="aspace_7c3143cb46b6e76dc88061d0dc888aa9" level="file"><did><unittitle>Research Files -- Foreign Governments; Articles; Correspondence</unittitle><unitdate normal="1993/2001" type="inclusive">1993-2001</unitdate><container altrender="Record carton" id="aspace_cba9bd905a17d09ccf18d58c52756f42" label="Mixed Materials [31142063341526]" type="Box">14</container></did></c><c id="aspace_676e051a0dad24c7366cf51596313f23" level="file"><did><unittitle>Optical Discs</unittitle><unitdate normal="2001/2006" type="inclusive">2001-2006</unitdate><container altrender="Media Box 5.5" id="aspace_a251491b9c911656eb5d2f5230021c9c" label="Mixed Materials [31142063341518]" type="Box">15</container></did></c></dsc>
+</archdesc>
+</ead>

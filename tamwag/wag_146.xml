@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_146/">wag_146</eadid><filedesc><titlestmt><titleproper>Guide to the John Gladstone Papers <num>WAG.146</num></titleproper><author>Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:58:24 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>John Gladstone Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Gladstone, John, 1917-</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Gladstone, John, 1917-</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Hernandez, Ideal </persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Zieger, Robert H. </persname>
+    </origination>
+    <unitid>WAG.146</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5.25 Linear Feet</extent>
+      <extent altrender="carrier">(6 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <abstract id="aspace_13257637fbd2c2f0e41acb60a19f8e96">John Gladstone was a member of the National Maritime Union and the Communist Party until 1949, when he was expelled from both organizations. He later became a publisher and editor at Engineer's Press, as well as an artist, and art historian. This collection includes correspondence, clippings, research notes, postcards, photographs and personal papers.</abstract>
+    <langmaterial id="aspace_f0739bacdfab9adab15da6f85445df93">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_35d5a6bd83a1358043347bc3e9fa8d42">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_3074c74eb2f90cf218af340697c8533a">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by John Gladstone in 2001. The accession number associated with this gift is 2008.030.</p><p>Additional materials were donated by Ideal Hernandez in 2006 and 2009. The accession number associated with this gift is 2009.067.</p><p>One folder of correspondence was possibly donated by Robert H. Zieger in 2009. The accession number associated with this material is 2009.020.</p>  </acqinfo>
+  <userestrict id="aspace_28eb83c3e2022212b85dcc3c2ea05168">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by John Gladstone was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <prefercite id="aspace_ab398ed472362b9f660c5ac436cef544">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; John Gladstone Papers; WAG 146; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_f75b9aaec8173d8975d28e68f7019b9e">
+    <head>Scope and Content Note</head>
+<p>This collection includes correspondence, clippings, research notes, postcards, photographs and personal papers.</p>  </scopecontent>
+  <bioghist id="aspace_3002ceca8e28b73ccefbc5cc9e082e0f">
+    <head>Historical/Biographical Note</head>
+<p>John Gladstone was a member of the National Maritime Union and the Communist Party until 1949, when he was expelled from both organizations. He later became a publisher and editor at Engineer's Press, as well as an artist, and art historian.</p>  </bioghist>
+  <arrangement id="aspace_fbb66c1d834562d258ec1d82da8af5a8">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Industrial technicians |x Labor unions |z United States.</subject>
+    <subject source="lcsh">Kent State Massacre |z Kent, Ohio |y 1970</subject>
+    <subject source="lcsh">Merchant mariners |x Labor unions |z United States.</subject>
+    <corpname source="naf">National Maritime Union of America</corpname>
+    <persname rules="dacs" source="local">Gladstone, John, 1917-</persname>
+    <persname source="naf">Nelson, Bruce, 1940-</persname>
+    <persname rules="dacs" source="local">Hernandez, Ideal </persname>
+    <persname role="dnr" rules="dacs" source="local">Gladstone, John, 1917-</persname>
+    <persname role="dnr" rules="dacs" source="local">Hernandez, Ideal </persname>
+    <persname role="dnr" rules="dacs" source="local">Zieger, Robert H. </persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref8" level="file"><did><unittitle>Box 1</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_7f858e3477228896dbd78358c40c1c0c" label="Mixed Materials [31142063293099]" type="box">1</container></did><odd id="aspace_131d844c0884e2afb7b25fbeac6b696c"><head>General</head><p>McElroy Correspondence</p><p>Published Technical Works</p><p>Sun-Sentinel</p><p>Hawsepipe – Welch</p><p>Correspondence:  Norval Welch '88-'90</p><p>Joe Doyle Correspondence</p><p>Bruce Nelson (I)</p><p>Bruce Nelson (II)</p><p>Bruce Nelson (III)</p><p>Correspondence:  Harry Rubin</p><p>An exchange between Greta and Barney Lynch and Joe Curran</p><p>Op-Ed Letters to the Miami Herald</p><p>National Maritime Union</p><p>National Maritime Union: FBI File</p><p>Letters on Public Affairs</p><p>Correspondence Re The Hawsepipe</p><p>Obituaries</p><p>Kent State Massacre</p><p>Book Reviews</p><p>Essays</p><p>Autobiography of George Perpich</p></odd></c><c id="aspace_ref10" level="file"><did><unittitle>Box 2</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_753fb237ebe41db2e3297fd7fbbd635e" label="Mixed Materials [31142063293156]" type="box">2</container></did><odd id="aspace_b508f7b9abe8ab50f5c6ad2063fb511c"><head>General</head><p>N.M.U. membership booklets and identification</p><p>Certificates, shore leave passes, clippings</p><p>Documents, leaflets, handbills</p><p>Photographs (maritime)</p><p>Proceedings of N.M.U. Conventions 1937, 1941, 1943</p><p>Pamphlets, magazines</p></odd></c><c id="aspace_ref12" level="file"><did><unittitle>Box 3</unittitle><unitdate>undated</unitdate><container altrender="OS Flat Box - 17 thin" id="aspace_52c1e894364e13322927b206f350bce3" label="Mixed Materials [31142062757482]" type="box">3</container></did><odd id="aspace_cbead3387a1e6ee0081199309ef56211"><head>General</head><p>Newspapers, magazines, map, portrait</p></odd></c><c id="aspace_ref14" level="file"><did><unittitle>Box 4</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_2b3325e783ed34b136e7d283c46af5e4" label="Mixed Materials [31142063293149]" type="box">4</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Box 5</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_5e930e8365f7c3360d6d96c0c5617d79" label="Mixed Materials [31142063293107]" type="box">5</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Box 6</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_b7185a75cc50709c111a7b4adfa2d201" label="Mixed Materials [31142063293164]" type="box">6</container></did></c></dsc>
+</archdesc>
+</ead>

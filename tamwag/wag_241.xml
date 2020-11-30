@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_241">wag_241</eadid><filedesc><titlestmt><titleproper>Workers Defense League Records <num>WAG.241</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:03:34 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Workers' Defense League Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Workers' Defense League</corpname>
+    </origination>
+    <unitid>WAG.241</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
+      <extent altrender="carrier">(8 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_6995b3e3bdc9e352e34ccb32af6d074c" label="Mixed Materials [31142062899524]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_73855fac135e81deaf4d06046f91041a" label="Mixed Materials [31142063293768]" type="Box">2</container>
+    <container altrender="Record carton" id="aspace_368ff444f8e6117cd02f6e4851986a26" label="Mixed Materials [31142063293818]" type="Box">3</container>
+    <container altrender="Record carton" id="aspace_28a6d81280e982fdf60e8d34d32d94b5" label="Mixed Materials [31142062899540]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_7b6cb3841036eab060589c6fd1b7af4e" label="Mixed Materials [31142063293784]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_9653b094f3743500d8ff9e10fdb25a82" label="Mixed Materials [31142062899532]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_fb37db74930411979927204475d8996d" label="Mixed Materials [31142062899557]" type="Box">7</container>
+    <container altrender="Record carton" id="aspace_53f64e0c6e287514da0a9c1b6296df2f" label="Mixed Materials [31142063293776]" type="Box">8</container>
+  </did>
+  <accessrestrict id="aspace_634aba5f7a7bb8438f4926f5c0d084e3">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_5f98ee94a45cdb72002e3c4d4672a7f1">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection are expected to enter the public domain in 120 years after the date of creation.</p>  </userestrict>
+  <acqinfo id="aspace_bb4f3d826251692ff6fa884f5102f266">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession numbers associated with this collection are 2005.031 and NPA.2006.007.</p>  </acqinfo>
+  <phystech id="aspace_d348ca62bfae045bc83044507337b67a">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <dsc><c id="aspace_a43dbd0ff8975fb13e756efe36da33df" level="series"><did><unittitle>Unprocessed</unittitle><container altrender="Card Box - 5.5" id="aspace_9f32b67add5fd12fcc6c11083c6623af" label="Moving Images [31142063426236]" type="Box">9</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_323/">wag_323</eadid><filedesc><titlestmt><titleproper>Guide to the Kevin Lynch Moving Image and Audio Materials <num>WAG.323</num></titleproper><author>Administrative information updated by Heather Mulliner </author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>05/27/2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:08:58 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Kevin Lynch Moving Image and Audio Materials</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Lynch, Kevin</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Lynch, Kevin</persname>
+    </origination>
+    <unitid>WAG.323</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">45 Linear Feet</extent>
+      <extent altrender="carrier">(45 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1988/1990" type="inclusive">1988-1990</unitdate>
+    <langmaterial id="aspace_1dc930893577f619586303b181e99940">Materials are in English.</langmaterial>
+    <container altrender="Record carton" id="aspace_108fde648fcb13562d8fd6b47efebfbf" label="Mixed Materials [31142063170453]" type="box">40</container>
+    <container altrender="Record carton" id="aspace_80ed3ffa853d0af4e20ad1c11664d7ae" label="Mixed Materials [31142063170446]" type="box">24</container>
+    <container altrender="Record carton" id="aspace_567a27234ec231bc0ac551f7e0ae0bfc" label="Mixed Materials [31142063170420]" type="box">43</container>
+    <container altrender="Record carton" id="aspace_d586076207e7ae55e48728fbefd8f1cd" label="Mixed Materials [31142063170438]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_2a7ca8ff85d4fb7c9123b7ae81b9a4eb" label="Mixed Materials [31142063170776]" type="box">42</container>
+    <container altrender="Record carton" id="aspace_24ab28af29e6d903271d8a321aab86d4" label="Mixed Materials [31142063170412]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_0adcfbd28bf240b87e7b42e1bb4c21d3" label="Mixed Materials [31142063170404]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_ea760d1a0c0eec281100391475b0cb2c" label="Mixed Materials [31142063170396]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_a001e72f9d294dfabda5ac5a725acaea" label="Mixed Materials [31142063170388]" type="box">37</container>
+    <container altrender="Record carton" id="aspace_a35e501dd7ff86fa3682d2e97075ce2e" label="Mixed Materials [31142063170370]" type="box">30</container>
+    <container altrender="Record carton" id="aspace_5a3e88e49a3bde5afceabebd936d6596" label="Mixed Materials [31142063170362]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_ad45b57dbb6cb6a4907cb874367d0a76" label="Mixed Materials [31142063170354]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_c3c0770b75bd86699a20856d562576e5" label="Mixed Materials [31142063170347]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_194b94bc2d0f1212907ae2ed5bf4ec99" label="Mixed Materials [31142063170479]" type="box">27</container>
+    <container altrender="Record carton" id="aspace_78d21175102c68dbbda38f8375ac3621" label="Mixed Materials [31142063170487]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_2be0d3b7b07406512b9406dbd7ecaca5" label="Mixed Materials [31142063170495]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_02ce0fd4d7f2669dff0a0f63af7ef74e" label="Mixed Materials [31142063170503]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_d000fde9facc9e0f82307c196ea924c1" label="Mixed Materials [31142063170511]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_e6da066189c630773bd3b8fc3de76572" label="Mixed Materials [31142063170529]" type="box">28</container>
+    <container altrender="Record carton" id="aspace_d0ca70cee6ff3a1a12f48082ebce4d32" label="Mixed Materials [31142063170537]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_81d5948a022d3f13b57c3eec890e231e" label="Mixed Materials [31142063170545]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_6f2a6aaf48e66811b0d1093ab4426b32" label="Mixed Materials [31142063170552]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_379670d90ffd940920f187ffce078992" label="Mixed Materials [31142063170560]" type="box">33</container>
+    <container altrender="Record carton" id="aspace_b6c072ee69c56fcb397b0b07af53c86e" label="Mixed Materials [31142063170586]" type="box">21</container>
+    <container altrender="Record carton" id="aspace_d9fd7750ffea189305a759f5ac453deb" label="Mixed Materials [31142063170578]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_a1ff95175744b7ac7ac3144e0c73493b" label="Mixed Materials [31142063170602]" type="box">36</container>
+    <container altrender="Record carton" id="aspace_5ac381fd9ff49b86eb7567540a158791" label="Mixed Materials [31142063170594]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_cc35ac68ea6b9ca83bc3b76df577e93f" label="Mixed Materials [31142063170610]" type="box">32</container>
+    <container altrender="Record carton" id="aspace_445ed8b2edf3587273f44009a7f4e53f" label="Mixed Materials [31142063170628]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_433f00b0619dc0d20512448a9146b6bd" label="Mixed Materials [31142063170636]" type="box">41</container>
+    <container altrender="Record carton" id="aspace_e9c64f5dcd56c17d72d0cea25ecf86cc" label="Mixed Materials [31142063170644]" type="box">20</container>
+    <container altrender="Record carton" id="aspace_c25e077ca5dddf49cba4bdb4fb5f8fc5" label="Mixed Materials [31142063170651]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_0a9613226a57e34b24c47a4f829890b4" label="Mixed Materials [31142063170669]" type="box">34</container>
+    <container altrender="Record carton" id="aspace_07d5bde2f718ab67c6388ac693b2ccfe" label="Mixed Materials [31142063170677]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_ca11a50fc41abb8becbb117f4b1cbc21" label="Mixed Materials [31142063170685]" type="box">39</container>
+    <container altrender="Record carton" id="aspace_bdcb398d25b9db1cbd7e5da5e064c367" label="Mixed Materials [31142063170693]" type="box">35</container>
+    <container altrender="Record carton" id="aspace_2df9160cc3517fca7ed429fe3380470d" label="Mixed Materials [31142063170701]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_e808b3ba7ed64274f2cf63885a6082c3" label="Mixed Materials [31142063170719]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_98334a75bbdf38d72c9cd78e6d6faa70" label="Mixed Materials [31142063170727]" type="box">38</container>
+    <container altrender="Record carton" id="aspace_1c8732bc3933b09fac56f756dcca3528" label="Mixed Materials [31142063170735]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_ac7592faf6c2db544af06b3b078f97d2" label="Mixed Materials [31142063170743]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_9409283e5d740801b3676090e1a11252" label="Mixed Materials [31142063170750]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_ffaad96e664e52a411a25ba8f7c0fc62" label="Mixed Materials [31142063170768]" type="box">29</container>
+    <container altrender="Record carton" id="aspace_710d05ca7cd208c4b4c4ef80d5684fe7" label="Mixed Materials [31142063170461]" type="box">44</container>
+  </did>
+  <scopecontent id="aspace_fb11d11f0c5f30e654575b7f5ee7e2e9">
+    <head>Scope and Contents</head>
+<p>The collection consists of VHS tapes produced by the Communication Action Associates, mostly of the "People Working for People" program. There are also tapes of the "Irish Arts" program, a few audio tapes, and a reel of unmarked film.</p>  </scopecontent>
+  <userestrict id="aspace_61ad5edbe4a27e491cfa0350df5e3538">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Kevin Lynch were transferred to New York University in 2011 by Kevin Lynch. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
+  <acqinfo id="aspace_24d4e93735a77345b224f65b05b2ce35">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Kevin Lynch, 2011. The accession numbers associated with this gift are 2011.142 and NPA.2000.235.</p>  </acqinfo>
+  <accessrestrict id="aspace_fd7d02a8cb97e59da352c7218df0752c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <phystech id="aspace_f079c6be2a0f92fcdd17232c1c9c6e81">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Lynch, Kevin</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

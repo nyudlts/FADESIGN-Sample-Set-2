@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_304">alba_304</eadid><filedesc><titlestmt><titleproper>Guide to the Abraham Lincoln Brigade Field Medic Battlefield Stretcher <num>ALBA.304</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>September 2017</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:11:47 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Abraham Lincoln Brigade Field Medic Battlefield Stretcher</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    </origination>
+    <unitid>ALBA.304</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+    <abstract id="aspace_c56f8b064645b290cb903a50cf9c9363">The Abraham Lincoln Brigade (also known as the Lincoln Battalion) refers to American volunteers in various units of the XV International Brigade who served in the Spanish Civil War in support of Spanish Republican forces against the Nationalists led by General Francisco Franco. Approximately 2,800 Americans joined in this effort, serving as soldiers, medical personnel, engineers, and humanitarian aid workers, as well as news correspondents and photographers. Many of these volunteers were affiliated with communist or socialist groups, and joined in this effort believing that conflict was a front line in the war against fascism. This collection consists of a single item, a field medic stretcher used by the Abraham Lincoln Brigade during the Spanish Civil War, including the 1937 Battle of Brunete.</abstract>
+    <langmaterial id="aspace_ba53107940e8008b651f470a3f413a94">Materials are in English.</langmaterial>
+    <container id="aspace_11b0272101adca6794dbb5984d834608" label="Mixed Materials" type="Item">1</container>
+  </did>
+  <scopecontent id="aspace_00a6e6f9d4a1db1fc4487afabee820ac">
+    <head>Scope and Contents</head>
+<p>This collection consists of a single item, a field medic stretcher used by the Abraham Lincoln Brigade (a battalion of the XV International Brigade) during the Spanish Civil War, including the 1937 Battle of Brunete. The stretcher was made by the Gold Medal Corporation and is decorated with illustrations of the Statue of Liberty and George Washington (in reference to the George Washington Battalion which later merged with the Lincoln Battalion), as well as a written inscription to James Miller, the previous owner, and Captain Paul Bastado, Aide de Camp to President Franklin Delano Roosevelt. Following its direct use in the war, it was later displayed at various locations, including the Casa de Americas in Madrid and for use as a prop in a theatrical production of Ernest Hemingway's The Fifth Column.</p>  </scopecontent>
+  <arrangement id="aspace_0075fe167ccb75df5f4e8b898d774474">
+    <head>Arrangement</head>
+<p>This collection consists of a single item; it has not been arranged by an archivist.</p>  </arrangement>
+  <bioghist id="aspace_d791c0385e8a05018eb3423360aa6ef6">
+    <head>Biographical / Historical</head>
+<p>The Abraham Lincoln Brigade (also known as the Lincoln Battalion) refers to American volunteers in various units of the XV International Brigade who served in the Spanish Civil War in support of Spanish Republican forces against the Nationalists led by General Francisco Franco. Approximately 2,800 Americans joined in this effort, serving as soldiers, medical personnel, engineers, and humanitarian aid workers, as well as news correspondents and photographers. Many of these volunteers were affiliated with communist or socialist groups, and joined in this effort believing that conflict was a front line in the war against fascism. The term Abraham Lincoln Brigade is often used collectively to refer to members of the Lincoln Battalion, as well as other units of the Fifteenth International Brigade, transport groups like the Regiment de Tren, and organizations like the American Medical Bureau that provided medical and humanitarian aid.</p>  </bioghist>
+  <accessrestrict id="aspace_f854b3401e7d88b2752ad67f3f5989c0">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_af1c28d889f9e4c41f5409ab0a61b476">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection, which were created in 1937 are expected to enter the public domain in 2057. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <acqinfo id="aspace_690f1a85d6b64b114545a8a913b939b3">
+    <head>Immediate Source of Acquisition</head>
+<p>This artifact was purchased from Le Passe a Nouveau in June 2017 for the Tamiment Library's Abraham Lincoln Brigade Archives (ALBA) collection through the efforts of the Blaustein and Nahman families in honor of Samuel Nahman (also known as Manny Harriman), a Veteran of the Fifteenth Battalion of the Abraham Lincoln Brigade), and the Friends and Families of the Veterans of the Abraham Lincoln Brigade.</p>  </acqinfo>
+  <prefercite id="aspace_422cb86748f789d9efb6e09582c0158d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Abraham Lincoln Brigade Field Medic Battlefield Stretcher; ALBA 303; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_3dd441367df7369380edde77c0f1268a">
+    <head>Processing Information</head>
+<p>[Add text about Preservation treatment and/or rehousing].</p>  </processinfo>
+  <custodhist id="aspace_bda6a75401e3beffaf15f4fc948f2d6f">
+    <head>Custodial History</head>
+<p>This stretcher was used during the Battle of Brunete and in other events in and around Madrid during the Spanish Civil War. After the war it was treated as a collector's object, and was displayed at Casa de America in Madrid and used as a prop in a New York City theater production of Ernest Hemingway's <emph render="italic">The Fifth Column</emph>. It was last owned by Jason Miller, the nephew of United Press correspondent James Miller who covered the Spanish Civil War and the efforts of the Abraham Lincoln Brigade. This artifact was purchased from Le Passe a Nouveau in June 2017 for the Tamiment Library's Abraham Lincoln Brigade Archives (ALBA) collection through the efforts of the Blaustein and Nahman families in honor of Samuel Nahman (also known as Manny Harriman), a Veteran of the Fifteenth Battalion of the Abraham Lincoln Brigade), and the Friends and Families of the Veterans of the Abraham Lincoln Brigade.</p>  </custodhist>
+  <controlaccess>
+    <genreform source="aat">stretchers (conveyances)</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
+    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Medical care.</geogname>
+    <corpname source="ingest">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV.</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

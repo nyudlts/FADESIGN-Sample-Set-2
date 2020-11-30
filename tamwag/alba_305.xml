@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unprocessed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_305">alba_305</eadid><filedesc><titlestmt><titleproper>Guide to the Judith Montell Papers <num>ALBA.305</num></titleproper><author>Heather Mulliner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2/21/2018</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:12:09 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Judith Montell Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Montell, Judith</persname>
+    </origination>
+    <unitid>ALBA.305</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">12.25 Linear Feet</extent>
+      <extent altrender="carrier">in 11 record cartons, 2 manuscript boxes, 1 half manuscript box, and 1 oversize folder</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4.1 Gigabytes</extent>
+      <extent altrender="carrier">on 6 CD-R disks</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">6 videodiscs (dvd)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">97 videocassettes (vhs)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">19 videocassettes (u-matic)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">20 videocassettes (digital betacam)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">7 videocassettes (hi8)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 videocassettes (dvcam)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 videocassettes (minidv)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4 dvd-r disks</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 sound tape reels</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">12 audiocassette</extent>
+    </physdesc>
+    <unitdate normal="1990/2003" type="inclusive">1990-2003</unitdate>
+    <abstract id="aspace_ad262ec30c51eddd5395ca8ca67accc3">This collection contains interview transcripts, collected photographs, ephemera, and video clips for Judith Montell's documentaries about the Veterans of the Abraham Lincoln Brigades (VALB). Judith Montell is a documentary filmmaker who has made three films about the Abraham Lincoln Brigades including, <emph render="italic">Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade</emph>, which received an Academy Award Nomination for Best Achievement in Documentary Feature. Two boxes contain transcripts of interviews with Abraham Lincoln Brigade veterans, as well as images created and collected by Montell of VALB events. The bulk of the collection consists of video tapes, which include original footage shot by Montell, collected footage, copies of her documentary <emph render="italic">Forever Activists</emph>, and videos of VALB related films produced by others.</abstract>
+    <langmaterial id="aspace_07403372d242bc09a24acf3974894150">Materials are in English.</langmaterial>
+    <container altrender="Record carton - lengthwise" id="aspace_e73b5a2add97fbfac60ef1e3346627cc" label="Mixed Materials [31142063253622]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_ddfcfd6da770649ffcaf4f0c4275ab21" label="Mixed Materials [31142063253630]" type="Box">2</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_0fac07025c1f44910c45d0a3cbc7befc" label="Mixed Materials [31142063253648]" type="Box">3</container>
+    <container altrender="Record carton" id="aspace_21fa650ba93ebc44c63c35ef2e7e8449" label="videos [31142063253655]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_0479584c186689624635dd6110f2c544" label="videos [31142063253663]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_45cf1c70d8e3d1ae2160542c30400a14" label="videos [31142063253671]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_32cd1575f3d7b869ef272cbc24dc5346" label="videos [31142063253689]" type="Box">7</container>
+    <container altrender="Record carton" id="aspace_7e90819c1a9663fd0a8d18efaa38f5db" label="videos [31142063253697]" type="Box">8</container>
+    <container altrender="Manuscript box - Legal" id="aspace_8b683cb1fb2f311396d00fa5fffa9ba3" label="videos [31142063253705]" type="Box">9</container>
+    <container altrender="Oversize Folder - Full Case" id="aspace_f1a9919e64b26f04b1c597e52450d3ed" label="Mixed Materials [31142062668812]" type="Flat-File-Folder">2</container>
+    <container altrender="Record carton" id="aspace_74496287c862e33dc08f581afa593551" label="Mixed Materials [31142062723658]" type="Box">10</container>
+    <container altrender="Record carton" id="aspace_252f5a7232d8fc52ae0a4384a793aa76" label="Mixed Materials [31142062723666]" type="Box">11</container>
+    <container altrender="Record carton" id="aspace_e4464b572cd295d93541f1e2c9a55ce4" label="Mixed Materials [31142062723674]" type="Box">12</container>
+    <container altrender="Record carton" id="aspace_4353b0a552e9e06b8e69192c0a4bba38" label="Mixed Materials [31142062723682]" type="Box">13</container>
+    <container altrender="Record carton" id="aspace_6166ddffb13c7e80d72ae369d954a195" label="Mixed Materials [31142062723690]" type="Box">14</container>
+  </did>
+  <accessrestrict id="aspace_c20dc3bfa6c8bab07d9ec17c4c11b89a">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_dbd4877719cbbf72128904e0d3c21ba5">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by the Abraham Lincoln Brigade Archives in January 2018. The accession number associated with this gift is 2018.016. 5 boxes of videos from the film <emph render="italic">Forever Activists</emph> are also included in this collection. Tamiment does not have information about the acquisition of these materials. The accession number associated with these videos is 1950.045.</p>  </acqinfo>
+  <arrangement id="aspace_6e6841af0882e2e75fbdc9447f416b4c">
+    <head>Arrangement</head>
+<p>Materials are in the order in which the were received by the donor. These materials have not been arranged by an archivist.</p>  </arrangement>
+  <bioghist id="aspace_160ded09ac367346eb74e274f8f7feef">
+    <head>Biographical Note</head>
+<p>Judith Montell is a documentary filmmaker. Her first feature-length film <emph render="italic">Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade</emph>, released in 1990, received an Academy Award Nomination for Best Achievement in Documentary Feature. She has made several other documentaries about the Abraham Lincoln Brigades including a sequel to <emph render="italic">Forever Activists</emph>, <emph render="italic">You are History, You Are Legend</emph>, which she released for the 60th Anniversary of the Spanish Civil War, and the film <emph render="italic">Professional Revolutionary: The Life of Saul Wellman</emph> about the Abraham Lincoln Brigades veteran. She is an honorary board member of the Abraham Lincoln Brigades Archives.</p>  </bioghist>
+  <prefercite id="aspace_d5f0204b0238c50fe4183141e06656cc">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Judith Montell Papers; ALBA 305; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_7711ca247b7e9f8f4dc82ea7d4548968">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials in the collection were moved into archival housing, and described at the collection level. Six CD-R disks have been inventoried but have not been forensically imaged. Files on these disks have not been arranged. New York University Libraries follow professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity and authenticity of the content.</p><p>5 boxes of video tapes were originally established as the Forever Activists: Judith Montell Videos Collection (ALBA VIDEO 001). This collection remained unprocessed, and in 2018 these materials were identified as the same collection as ALBA 305 and were added to this collection.</p>  </processinfo>
+  <scopecontent id="aspace_ebaed64ab3c8e050f73d7fa4c7c82036">
+    <head>Scope and Contents</head>
+<p>This collection contains interview transcripts, collected photographs, ephemera, and video clips for Judith Montell's documentaries about the Veterans of the Abraham Lincoln Brigades (VALB). Two boxes contain transcripts of interviews with Abraham Lincoln Brigade veterans, as well as images created and collected by Montell of VALB events. The bulk of the collection consists of video tapes, which include original footage shot by Montell, collected footage, copies of her documentary <emph render="italic">Forever Activists</emph>, and videos of VALB related films produced by others.</p>  </scopecontent>
+  <phystech id="aspace_92c32d6256b89899a1404640b8dfdac5">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_4fe4ea67be47192302434b820e5c032e">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Judy Montell was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <phystech id="aspace_31c0df7522ed9a6bff4084f386279dce">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Advance notice is required for the use of computer records.  Original physical digital media is restricted. Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Veterans.</geogname>
+    <subject source="lcsh">Documentary films -- History and criticism</subject>
+    <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
+    <corpname source="ingest">Veterans of the Abraham Lincoln Brigade.</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

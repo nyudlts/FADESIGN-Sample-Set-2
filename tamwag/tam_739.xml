@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_739">tam_739</eadid><filedesc><titlestmt><titleproper>Guide to the Deborah Gerson Oral History Collection <num>TAM.739</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>November 2017</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:12:01 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Deborah Gerson Oral History Collection</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="local">Gerson, Deborah</persname>
+    </origination>
+    <unitid>TAM.739</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.25 linear feet</extent>
+      <extent altrender="carrier">in 1 media box</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">8 audiocassettes</extent>
+    </physdesc>
+    <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+    <abstract id="aspace_683d2e808f82d85d30d4458e30d5a3c9">Deborah Gerson is a sociology professor at San Francisco State University. She studied at the University of California, Berkeley, and earned her Ph.D. in sociology from San Francisco State University with her dissertation, "Practice from Pain: Building a Women's Movement through Consciousness Raising." She has also taught courses in Womens Studies at the City College of San Francisco. She is the daughter of Communist Party of the United States (CPUSA) activists Simon and Sophie Gerson, and participated in political, cultural, educational activities led or supported by the Party during her childhood. This collection consists of eight sound recordings on audio cassette. The recordings consists of oral history interviews by Deborah Gerson with family members Sophie Gerson and Bill Gerson, as well as other activists affiliated with the CPUSA: elder rights activist Rose Kryzack, CPUSA Families Committee organizer Monette Solataroff Weinstone, organizer and author Peggy Dennis, and civil rights activist Esther Cooper Jackson. Topics and themes addressed in the interviews include teenage political activities, the Smith Act trials of Communist Party leaders, surveillance of CPUSA members, and the impact of surveillance of activist social movements on individuals and families.</abstract>
+    <langmaterial id="aspace_55bfb40c3766eee21e988e1f052397a0">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_a70484f75bf4aba5704e736700b1c97c">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a0570169a94e25dbfc70cfd8a5063518">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Deborah Gerson in November 2017 The accession number associated with this gift is 2017.071.</p>  </acqinfo>
+  <arrangement id="aspace_560b7d8ab260ad8a183b55361cafe173">
+    <head>Arrangement</head>
+<p>This collection is arranged by tape number assigned by the creator.</p>  </arrangement>
+  <bioghist id="aspace_4a8449654e7af0c828b809452ef8da7c">
+    <head>Biographical Note</head>
+<p>Deborah Gerson is a sociology professor at San Francisco State University. She studied at the University of California, Berkeley, and earned her Ph.D. in sociology from San Francisco State University with her dissertation, "Practice from Pain: Building a Women's Movement through Consciousness Raising." She has also taught courses in Womens Studies at the City College of San Francisco. She is the daughter of Communist Party of the United States (CPUSA) activists Simon and Sophie Gerson, and participated in political, cultural, educational activities led or supported by the Party during her childhood.</p>  </bioghist>
+  <prefercite id="aspace_05a8abcbb580c4836fbc1db02de8ca11">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Deborah Gerson Oral History Collection; TAM 739; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_fd7cb4bb352befb309e2a5cadfbb73d6">
+    <head>Processing Information</head>
+<p>At the time of accessioning materials were rehoused in an archival box and described on the collection-level with an item-level inventory.</p>  </processinfo>
+  <scopecontent id="aspace_e783ca1200a0eb5a9835fa1299b3d25c">
+    <head>Scope and Contents</head>
+<p>This collection consists of eight sound recordings on audio cassette. The recordings consists of oral history interviews by Deborah Gerson with her mother Sophie Gerson and brother Bill Gerson, as well as other activists affiliated with the Communist Party, USA: elder rights activist Rose Kryzack, CPUSA Families Committee organizer Monette Solataroff Weinstone, organizer and author Peggy Dennis, and civil rights activist Esther Cooper Jackson. Topics and themes addressed in the interviews include teenage political activities, the Smith Act trials of Communist Party leaders, surveillance of CPUSA members, and the impact of surveillance of activist social movements on individuals and families.</p>  </scopecontent>
+  <phystech id="aspace_b77ddcd869003d9e0f48ae9fc122cb55">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_9391a461b4f15c85919e235927993479">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Deborah Gerson, the creator of this collection, were relinquished and transferred to the public domain in 2017 by the donor. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Oral histories (document genres)</genreform>
+    <subject source="lcsh">Communism -- History.</subject>
+    <subject source="lcsh">Communism -- United States -- History -- 20th century.</subject>
+    <subject source="lcsh">Communism and culture -- United States.</subject>
+    <subject source="lcsh"> Communism and families -- United States.</subject>
+    <subject source="lcsh">Communist Trial, New York, N.Y., 1952-1953</subject>
+    <subject source="lcsh">Communist trials.</subject>
+    <persname rules="dacs" source="local">Gerson, Sophie</persname>
+    <persname source="naf">Jackson, Esther Cooper</persname>
+    <persname source="naf">Dennis, Peggy</persname>
+    <persname source="naf">Weinstone, Monette Solataroff</persname>
+    <persname rules="dacs" source="local">Gerson, Bill</persname>
+    <persname rules="dacs" source="local">Kryzack, Rose</persname>
+  </controlaccess>
+  <dsc><c id="aspace_86975f82c2d9c39655f365430c37a56a" level="file"><did><unittitle>Sophie Gerson</unittitle><unitdate normal="1960/2017" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_e7684f8f2701293f49aeb581545176b0" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_21f27016779c8b14fd009c32f036d574" parent="aspace_e7684f8f2701293f49aeb581545176b0" type="cassette">1</container></did></c><c id="aspace_334f4658a0e83f1e0027b3b27f7f8b36" level="file"><did><unittitle>Rose Kryzack and Sophie Gerson</unittitle><unitdate normal="1982-01-09/1982-01-09">1982-01-09</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_ff4b9adc8d03f1bcbdf7f5aa5e252128" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_74ec0cf509424672c82d9c9b1713f80c" parent="aspace_ff4b9adc8d03f1bcbdf7f5aa5e252128" type="cassette">2</container></did></c><c id="aspace_dd8b56d66a144df2eba1200dc2ea2dae" level="file"><did><unittitle>Bill Gerson</unittitle><unitdate normal="1960/2017" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_fa51a869a5ed18a4717db735383423f5" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_eaee2a695e0c8805f2b35477ecdd22e3" parent="aspace_fa51a869a5ed18a4717db735383423f5" type="cassette">3</container></did></c><c id="aspace_c20b497f5da4e903dba218ba3ab2c412" level="file"><did><unittitle>Bill Gerson</unittitle><unitdate normal="1960/2017" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_9046eaf1b26e56c25a7df8888f9bd8aa" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_a04da27841b0a5c79259da3ee92261e8" parent="aspace_9046eaf1b26e56c25a7df8888f9bd8aa" type="cassette">4</container></did></c><c id="aspace_95466ad8b80cd7c225041b8f34bcc478" level="file"><did><unittitle>Monette Weinstone</unittitle><unitdate normal="1982-07-19/1982-07-19">1982-07-19</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_de07458756a73f33c982630c9cb862d8" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_ca653838edae927537878e92db4157f6" parent="aspace_de07458756a73f33c982630c9cb862d8" type="cassette">5</container></did></c><c id="aspace_11a6f738fcb8662a5420b27c1406151c" level="file"><did><unittitle>Peggy Dennis</unittitle><unitdate normal="1983-11-18/1983-11-18">1983-11-18</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_6469200f92e8de480a36bb3b2ab878cb" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_988d05348ebe9955b6f8f1a4eb43a47d" parent="aspace_6469200f92e8de480a36bb3b2ab878cb" type="cassette">6</container></did></c><c id="aspace_95a5006df26097c258caecd8e77136f4" level="file"><did><unittitle>Peggy Dennis</unittitle><unitdate normal="1960/2017" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_e195b9fb85587b6f6e1af866a2b996e5" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_34560ba70d8d8360c647a99163937851" parent="aspace_e195b9fb85587b6f6e1af866a2b996e5" type="cassette">7</container></did></c><c id="aspace_06d40ed3b7c7eb76c51ee387fb9c4c20" level="file"><did><unittitle>Esther Cooper Jackson</unittitle><unitdate normal="1960/2017" type="inclusive">undated</unitdate><container altrender="Hollinger Cassette Box 5" id="aspace_39f8fe0b003afae99aceda719500dc22" label="master cassette [31142063133824]" type="Box">Shared Cassette Box 18</container><container id="aspace_a3bf656a28630e2cb86c9b3003451f91" parent="aspace_39f8fe0b003afae99aceda719500dc22" type="cassette">8</container></did></c></dsc>
+</archdesc>
+</ead>

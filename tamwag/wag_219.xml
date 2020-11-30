@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_219/">wag_219</eadid><filedesc><titlestmt><titleproper>Guide to the <emph render="italic">They Were Not Silent</emph> Project Files <num>WAG.219</num></titleproper><author>Administrative information written by Heather Mulliner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>Aug 2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:01:41 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle><emph render="italic">They Were Not Silent</emph> Project Files</unittitle>
+    <unitid>WAG.219</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
+      <extent altrender="carrier">10 boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_244e931526da07bc6774d3648036b07d">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_0f9559cb914617ffdeb69968ca98f7ab">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection are expected to enter the public domain in 120 years after the date of creation.</p>  </userestrict>
+  <acqinfo id="aspace_636cb47c31c39e2a4076335a6619b29e">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 1950.116.</p>  </acqinfo>
+  <phystech id="aspace_f1cc1db4e042d0ed8d5cf8bc42bda5e2">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <dsc><c id="aspace_f8e63a50034b9eca8da9e956b01ab967" level="file"><did><unittitle>Unprocessed</unittitle><container altrender="Record carton" id="aspace_a4bc0292e63c7bc2ca9c66ac0e2f10b5" label="Mixed Materials [31142062754851]" type="Box">1</container><container altrender="Record carton" id="aspace_9127f8aba0d17c624d32dfb572962618" label="Mixed Materials [31142062754869]" type="Box">2</container><container id="aspace_49cd13173b0a785e72def3d1c0f276c3" label="Mixed Materials [31142062754877]" type="Box">3</container><container altrender="Record carton" id="aspace_0890a29fbd00a745240237ccc416b0a9" label="Mixed Materials [31142062754885]" type="Box">4</container><container altrender="Record carton" id="aspace_a65b4a74bc5956ae2bea9c12574e6f67" label="Mixed Materials [31142062754893]" type="Box">5</container><container altrender="Record carton" id="aspace_4542aa1b55cadea0ae96ff1bf9da65d8" label="Mixed Materials [31142062754901]" type="Box">6</container><container altrender="Record carton" id="aspace_22cad9193ce4a660bbde0028e55aa402" label="Mixed Materials [31142062754927]" type="Box">7</container><container altrender="Record carton" id="aspace_9e195c535ec04fd381659a799888215d" label="Mixed Materials [31142062754919]" type="Box">8</container></did></c><c id="aspace_1ca38866882af2ec1509d06e7dd2ef03" level="file"><did><unittitle>Unprocessed Videos</unittitle><container altrender="Manuscript box - Legal" id="aspace_0da91761f561f3a2ef6f30ba236722df" label="Mixed Materials [31142062721637]" type="Box">9</container></did></c><c id="aspace_5668726bb7b7400be2af55ee48ee1ad9" level="file"><did><unittitle>They Were Not Silent: The Jewish Labor Movement and the Holocaust</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Record carton" id="aspace_217934290f3fc25fa061520ce192cfa8" label="videos [31142062754935]" type="box">10</container></did></c></dsc>
+</archdesc>
+</ead>

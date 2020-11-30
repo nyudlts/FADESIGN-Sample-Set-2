@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_355">wag_355</eadid><filedesc><titlestmt><titleproper>Guide to the Jacob Rosenbloom Diary <num>WAG.355</num></titleproper><author>Rachel Searcy</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>January 2019</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:14:48 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jacob Rosenbloom Diary</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Rosenbloom, Jacob</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Rosenbloom, Bernard</persname>
+    </origination>
+    <unitid>WAG.355</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.25 linear feet</extent>
+      <extent altrender="carrier">in 1 half manuscript box</extent>
+    </physdesc>
+    <unitdate normal="1930/1930">1930</unitdate>
+    <abstract id="aspace_0d641414ddf8bfb38b974c615b4b25ea">Jacob (Jack) Rosenbloom (1888-1950) was a member of the International Pocketbook Workers Union. Rosenbloom was born in Warsaw (then part of Imperial Russia) and emigrated to England in approximately 1898. Rosenbloom was a member of the International Pocketbook Workers Union from 1911-1936, eventually becoming Vice Chairman. This collection consists of Rosenbloom's daily diary from 1930. In the entries, Rosenbloom describes his activities inspecting shops in New York as part of his membership in the International Pocketbook Workers Union. He documents the shops he inspected, the number of people working, the conditions of the premises, and complaints regarding working conditions that had been made. The diary is also accompanied by biographical information about Rosenbloom collected by his family.</abstract>
+    <langmaterial id="aspace_5d1035b37f9fef9f49565ace4b3ef3ac">Materials are in English.</langmaterial>
+  </did>
+  <scopecontent id="aspace_cc0cd6afb9cb0dec7c6f9d6f2ee20196">
+    <head>Scope and Contents</head>
+<p>This collection consists of Jacob Rosenbloom's daily diary from 1930. In the entries, Rosenbloom describes his activities inspecting shops in New York as part of his membership in the International Pocketbook Workers Union. He documents the shops he inspected, the number of people working, the conditions of the premises, and complaints regarding working conditions that had been made. The diary is also accompanied by biographical information about Rosenbloom collected by his family.</p>  </scopecontent>
+  <arrangement id="aspace_88231bba37d70065b6b23776b7c9f9e8">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_9765adb75dd8ce2353214796690f02e2">
+    <head>Biographical Note</head>
+<p>Jacob (Jack) Rosenbloom (1888-1950) was a member of the International Pocketbook Workers Union. Rosenbloom was born in Warsaw (then part of Imperial Russia) and emigrated to England in approximately 1898. He and his father lived in Manchester, Dublin, and London, before emigrating to New York City in 1907. Rosenbloom was a member of the International Pocketbook Workers Union from 1911-1936, eventually becoming Vice Chairman.</p>  </bioghist>
+  <accessrestrict id="aspace_5d9c95b704224b290060a41611d4b44a">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_5c7156b288255b1b421426aa37214390">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <acqinfo id="aspace_59320b10b8bea0e30fbeead475a8ddd7">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Bernard Rosenbloom in August 2018; the accession number associated with this gift is 2019.007.</p>  </acqinfo>
+  <prefercite id="aspace_8b2427e7b4325614da9f8a170c744bab">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jacob Rosenbloom Diary; WAG 355; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_6cc64ca0538baa5490825913c07d9c3e">
+    <head>Processing Information</head>
+<p>At the time of accessioning, materials were removed from individual mylar sheets, rehoused in an archival box and folders, and described on the collection-level with a folder list.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Leather Workers -- New York (N.Y.)</subject>
+    <subject source="lcsh">Leather industry and trade -- New York (N.Y.)</subject>
+    <subject source="lcsh">Industrial safety.</subject>
+    <subject source="lcsh">Leather Workers -- Labor unions -- New York (N.Y.)</subject>
+    <genreform source="aat">Diaries</genreform>
+    <persname role="dnr" rules="dacs" source="local">Rosenbloom, Bernard</persname>
+  </controlaccess>
+  <dsc><c id="aspace_453834a9137728b68988ffb760390d73" level="file"><did><unittitle>Diary</unittitle><unitdate normal="1930/1930">1930</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8de357c1f28777e91a0ed7d62c4ba07e" label="Mixed Materials [31142063338381]" type="Box">1</container><container id="aspace_fa9093fe5edebbd9823bc9f95beaa4f7" parent="aspace_8de357c1f28777e91a0ed7d62c4ba07e" type="Folder">1</container></did></c><c id="aspace_fdaccc490df329defce86a0e8d327315" level="file"><did><unittitle>Biographical Information</unittitle><unitdate normal="1888/2018" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f981aab66ac9529e69f2eb9a4ffaab44" label="Mixed Materials [31142063338381]" type="Box">1</container><container id="aspace_29cf5252a6e5a5738b23bac55d9ef007" parent="aspace_f981aab66ac9529e69f2eb9a4ffaab44" type="Folder">2</container></did></c></dsc>
+</archdesc>
+</ead>

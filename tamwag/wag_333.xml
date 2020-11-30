@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_333">wag_333</eadid><filedesc><titlestmt><titleproper>Guide to the Nora Chase Badge Collection <num>WAG.333</num></titleproper><author>Caroline Evans</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1/5/2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 15:09:16 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Norah Chase Badge Collection</unittitle>
+    <origination label="source">
+      <persname source="naf">Chase, Norah C.</persname>
+    </origination>
+    <unitid>WAG.333</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize flat box </extent>
+    </physdesc>
+    <unitdate normal="1906/1909" type="inclusive">1906-1909</unitdate>
+    <abstract id="aspace_dbe2f2d7d4df170ccb4f7693986e8450">Norah Chase, an associate professor and activist in the Professional Staff Congress (PSC), the labor union representing college teachers in the City University of New York system, donated these delegate badges. The collection contains four badges from the 6th, 7th, 8th, and 9th annual conventions of the Textile Workers of America. The conventions took place from 1906-1909 in New Jersey, Rhode Island, New York, and Washington, DC. Two badges are embellished with printed images.</abstract>
+    <langmaterial id="aspace_5c6bcb85b87cef3a39113f0816ebeaa7">Materials are in English.</langmaterial>
+  </did>
+  <arrangement id="aspace_0c4b4f248fc6bcf7f41164da21216f8b">
+    <head>Arrangement</head>
+<p>The materials are arranged chronologically in one flat box.</p>  </arrangement>
+  <scopecontent id="aspace_8e95ddeb6686200b8fda321e7414857a">
+    <head>Scope and Content Note</head>
+<p>The collection consists of four delegate badges from the 6th, 7th, 8th, and 9th annual conventions of the Textile Workers of America. The United Textile Workers of America (UTW) was formed in 1901 as an affiliate of the American Federation of Labor (AFL). UTW famously organized a textile worker strike in the 1930s to protest poor working conditions during the Great Depression.Two badges are embellished with printed images and all are embellished with beaded appliqué. The conventions occured on the following dates: the 6th on October 16, 1906 in Patterson (sic), NJ; the 7th on October 14, 1907 in Providence, RI; the 8th on October 20, 1908 in Cohoes, NY; and the 9th on October 19, 1909 in Washington, DC.</p>  </scopecontent>
+  <bioghist id="aspace_2cd790f81f6bfeff72675d65fa07e22a">
+    <head>Historical/Biographical Note</head>
+<p>Norah Chase was an associate professor of English at Kingsborough Community College in Brooklyn, N.Y., and a long-time activist in the Professional Staff Congress (PSC), the labor union representing college teachers in the City University of New York system. She collected these badges and other materials related to union activism and organizing.</p>  </bioghist>
+  <accessrestrict id="aspace_161f0349ce9213813d26e63cf9bf6f2c">
+    <head>Access Restrictions</head>
+<p>Open for research without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_0a1d877a0005c039994075fd2282d85c">
+    <head>Use Restrictions</head>
+<p>Materials in this collection are in the public domain. Users need not secure permission from the Tamiment library to publish or reproduce materials in this collection.</p>  </userestrict>
+  <acqinfo id="aspace_f785c00a43e23d4f3b9f90ce631b9f9b">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials received by Debra Bernhardt on December 8, 1995 at the Commerford Awards, and were gifted to Tamiment Library by Norah Chase in 1996. The materials were purchased by Chase at Bethken's Antiques Uniques in Phoenicia, NY.</p>  </acqinfo>
+  <prefercite id="aspace_f97ccddf780c8830ea6baf74036ab583">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Norah Chase Badge Collection; WAG 333; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_5eabfd30b6626da0af521890cdf501c1">
+    <head>Processing Information</head>
+<p>Materials were mounted on archival board and placed in new acid-free folder within oversize flat box. Badges are  arranged chronologically.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Textile workers |x Labor unions.</subject>
+    <subject source="lcsh">Labor unions -- Political activity -- United States.</subject>
+    <subject source="lcsh">Labor unions -- Organizing -- United States.</subject>
+    <persname role="fmo" source="naf">Chase, Norah C.</persname>
+    <corpname source="naf">Textile Workers Union of America</corpname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>

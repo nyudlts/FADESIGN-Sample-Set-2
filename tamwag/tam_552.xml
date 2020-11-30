@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_552</eadid><filedesc><titlestmt><titleproper>Guide to the Morton Sobell Papers <num>TAM.552</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:30:11 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Morton Sobell Papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="naf">Sobell, Morton</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Sobell, Morton</persname>
+    </origination>
+    <unitid>TAM.552</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">25.5 Linear Feet</extent>
+      <extent altrender="carrier">(28 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_a245c101b572f28973784af37a4ce021" label="Mixed Materials [31142063265899]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_5fa56a1796c69529a3c725121a8ad107" label="Mixed Materials [31142063265907]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_cab8381f3f02df86d5b261a1f19e4492" label="Mixed Materials [31142063265915]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_594477b779e953b75a592f19699b6004" label="Mixed Materials [31142063265923]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_b1da33d3653467c7a4d1238d58a495b2" label="Mixed Materials [31142063265931]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_4e9b3ec524c891b09b7fe1e7ca4e7858" label="Mixed Materials [31142063265949]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_7a33b81120e8d75698a1c11d8f6ae13f" label="Mixed Materials [31142063265956]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_54281a0cac9c0fa1d7471caee0d69304" label="Mixed Materials [31142063265964]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_5d0a711d974a00497932c417e3548c1e" label="Mixed Materials [31142063265972]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_3ff02ef908d2cea4e7535cf17b709c43" label="Mixed Materials [31142063265980]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_c0850416e9d6858a4eb76740644e48c2" label="Mixed Materials [31142063265998]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_a49c81a22e63b7958cc0f68b047a4f91" label="Mixed Materials [31142063266004]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_64880338d4ca971d2ccdb115e9e5ab10" label="Mixed Materials [31142063266012]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_bee29448506c6f817d9003084b511f0b" label="Mixed Materials [31142063266020]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_7e44e5018c3197ae72f42002ccf0c8bd" label="Mixed Materials [31142063266038]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_1a8342dba77f73b255b3f93f89daaa3d" label="Mixed Materials [31142063266046]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_3add26b0f6b124ee304f564db8a852b7" label="Mixed Materials [31142063266053]" type="box">17</container>
+    <container altrender="OS Flat Box - 15x19x3" id="aspace_8230c2539770b0d23d6d821bcb0531a9" label="Mixed Materials [31142063266061]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_345bf0606b10364b499a91710169b070" label="Mixed Materials [31142063266079]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_3ad1313ddd6a6d62a6d4ad985f2b3870" label="Mixed Materials [31142063266087]" type="box">20</container>
+    <container altrender="Record carton" id="aspace_03b5f7054582aba430f3b9b675f7328c" label="Mixed Materials [31142063266095]" type="box">21</container>
+    <container altrender="Record carton" id="aspace_69b369d60218e5d973b668151b2bcb9f" label="Mixed Materials [31142063266103]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_e42dbbcd45f49d630c32ec99a1c1f0ff" label="Mixed Materials [31142063266111]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_1c53aa9b5d39f49fe684f37694f59f18" label="Mixed Materials [31142063266129]" type="box">24</container>
+    <container altrender="Record carton" id="aspace_413c17529d66c4b057adfe0134b87d19" label="Mixed Materials [31142063266137]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_723911b88a8a84d306668eee470c039d" label="Mixed Materials [31142063266145]" type="box">26</container>
+    <container altrender="Hollinger Flat OS 14" id="aspace_5cda9727fe1918bcddd7bc39a4ea0bb0" label="Mixed Materials [31142063266152]" type="box">27</container>
+    <container altrender="Hollinger Flat OS 14" id="aspace_a3eb8f800a9f52e44c67dbd2c73d3512" label="Mixed Materials [31142063266160]" type="box">28</container>
+  </did>
+  <accessrestrict id="aspace_10badab63592569aa78d70b9e8a2ec26">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_4b5396545b7dc2e3de378c12faa2bd6d">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Morton Sobell in 2010 and 2011. The accession numbers associated with this gift are 2010.072 and 2011.029.</p>  </acqinfo>
+  <bioghist id="aspace_fd518046a3de474bac170e32a5eb7d0a">
+    <head>Historical/Biographical Note</head>
+<p>Morton Sobell (born April 11, 1917) is a former spy for the Soviet Union. Sobell was an American engineer working for General Electric and Reeves Electronics on military and government contracts. He was found guilty of spying for the Soviets (along with Julius Rosenberg  at his 1951 espionage trial), and sentenced to 30 years in prison. He was released in 1969 after spending 17 years and 9 months in Alcatraz and other high security prisons. After proclaiming his innocence for over half a century, Sobell admitted spying for the Soviets, and implicated Julius Rosenberg, in an interview with the New York Times published on September 11, 2008. From: http://en.wikipedia.org/wiki/Morton_Sobell.</p>  </bioghist>
+  <prefercite id="aspace_a740430358c5ed1feb4d895af2940482">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Morton Sobell Papers; TAM 552; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_3cebab24f34012367b6002290f26073d">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Helen Sobell Autobiographical Typescript "Double Exposure" (TAM 390)</p>  </relatedmaterial>
+  <userestrict id="aspace_7459c9559e0a6cf221fda369d5df8dc5">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Morton Sobell were transferred to New York University in 2010 by Morton Sobell. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Atomic bomb |z United States |z History.</subject>
+    <subject source="lcsh">Espionage |z United States.</subject>
+    <subject source="lcsh">Communists |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Espionage, Soviet -- United States.</subject>
+    <subject source="lcsh">Trials (Espionage) -- United States.</subject>
+    <persname role="dnr" source="naf">Sobell, Morton</persname>
+    <persname source="naf">Sobell, Morton</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

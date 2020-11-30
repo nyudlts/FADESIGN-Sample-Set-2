@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_178</eadid><filedesc><titlestmt><titleproper>Guide to the George Washington Polk Papers <num>TAM.178</num></titleproper><author>Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:17:22 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>George Washington Polk Papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Polk, George, 1913-1948</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Polk, William Roe, 1929-</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Polk, Milbry</persname>
+    </origination>
+    <unitid>TAM.178</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+      <extent altrender="carrier">(13 boxes)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+      <extent altrender="carrier">1 BCT-20M Betacam</extent>
+    </physdesc>
+    <unitdate normal="1936/1954" type="inclusive">1936-1954</unitdate>
+    <unitdate normal="1946/1948" type="bulk">1946-1948</unitdate>
+    <langmaterial id="aspace_64fe7c23bda90bba29f30626624b7e42">Materials are in English</langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_a79c603dcac88cf1dbe6cdb36e81a2dd" label="Mixed Materials [31142062730612]" type="Box">2</container>
+    <container altrender="Manuscript box - Legal" id="aspace_ffdc109ea4366c664460b845bfde409b" label="Mixed Materials [31142062730620]" type="Box">3</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_ad4fc0c7d80cd5ad73303376823e9d5d" label="Mixed Materials [31142062730638]" type="Box">4</container>
+    <container altrender="Manuscript box - Legal" id="aspace_24f3e09d3f9b647944bae73c0feb8564" label="Mixed Materials [31142062730604]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_27108a18cb5683b20136b85b25b3b03a" label="Mixed Materials [31142062730646]" type="Box">5</container>
+    <container altrender="Manuscript box - Legal" id="aspace_7142ed23b34af599a631f2b29b313598" label="Mixed Materials [31142062730653]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_91a85ffc06b77cd150130557c517e8b8" label="Mixed Materials [31142062730661]" type="Box">7</container>
+  </did>
+  <accessrestrict id="aspace_7b9868a55847274e0287ea71892c66ad">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_5236ea89e713e2f77200702874f71aaf">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by William Polk in 1994. The accession numbers associated with this gift are 1995.030 and 2018.026.</p>  </acqinfo>
+  <appraisal id="aspace_d1261367f4512b25dd7afb71543d67b2">
+    <head>Appraisal</head>
+<p>In May 2012 newspaper clippings mostly related to Polk's death in Greek newspapers were assessed by conservation and determined unsalvagable due to mold. The clippings were deaccessioned.</p>  </appraisal>
+  <arrangement id="aspace_cb8ed634df99cd918b5ed5f53c46bc33">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_50775bb343459f5a638615d60a7693a6">
+    <head>Historical/Biographical Note</head>
+<p>George Polk (1913-1948) was an American journalist for CBS who disappeared in Greece and was found dead a few days later on Sunday May 16, 1948, shot at point-blank range in the back of the head, and with hands and feet tied. Polk was covering the civil war in Greece between the right wing government and communists and had been critical of both sides. He alleged that a few officials in the Greek government had embezzled up to $250,000 in aid (or $2.2 million in 2007 dollars) from the Truman Administration, a charge that was never proved.</p>  </bioghist>
+  <prefercite id="aspace_f80f5a381ef25d464d2dd05e3fe24ab8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; George Washington Polk Papers; TAM 178; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_0ecebc4fb69ae73f5dc7be6413f98e9c">
+    <head>Processing Information</head>
+<p>Videocassette integrated in collection March 2018 as accession 2018.026.</p>  </processinfo>
+  <scopecontent id="aspace_9da095d5f386016b07933b4ae8d9be09">
+    <head>Scope and Contents</head>
+<p>This collection contains: I. GWP writings - broadcasts and cables, diaries, notebooks, short stories, Middle East Mosaic (book ts.); II. Clippings, cables re GWP murder, clips collected by GWP; III. Family Correspondence, incl. WRP (William Roe Polk - brother), ARP (Adelaide Roe Polk - mother); IV. GWP memorabilia, awards, memorials; V. Photographs - GWP, WRP, other family.</p>  </scopecontent>
+  <phystech id="aspace_c3c4cadf19d87b7ac5da120f33a42bf8">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_3833ef6d9e18d69b82e195e14416ed23">
+    <head>Conditions Governing Use</head>
+<p>Coyright (and related rights to publicity and privacy) to materials in this collection created by George Washington Polk was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="naf">Polk, William Roe, 1929-</persname>
+    <persname role="dnr" rules="dacs" source="local">Polk, Milbry</persname>
+  </controlaccess>
+  <dsc><c id="aspace_f3fcfd31fc01ddf5b2064aff52ec9453" level="file"><did><unittitle>Video, "Office copy"</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 videocassette</extent></physdesc><unitdate>undated</unitdate><container altrender="Card Box - 8.5 x 12.5" id="aspace_9f421bc635052436339f722060136b28" label="Moving Images [31142062881910]" type="Box">Shared Tamiment 004</container></did></c></dsc>
+</archdesc>
+</ead>

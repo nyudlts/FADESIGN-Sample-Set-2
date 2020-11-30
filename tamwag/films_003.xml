@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/films_003/">films_003</eadid><filedesc><titlestmt><titleproper>United Federation of Teachers Film Collection <num>FILMS.003</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:11:27 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>United Federation of Teachers Film Collection</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">United Federation of Teachers</corpname>
+    </origination>
+    <unitid>FILMS.003</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.999 Linear Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <physloc id="aspace_cf5f18e22de2172edc3c4c2a7961224f">Materials are located at Cooper Square facility.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_876574a625190e2f28aef0ebdca676a8" label="videos [31142063269966]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_3b539019b1644e4475dc0656b3ca28a1" label="film [31142063269974]" type="box">28</container>
+    <container altrender="Record carton" id="aspace_c2886d48e08d3deb80622a11ff1910fd" label="film [31142063269982]" type="box">29</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_c63eae70961b594d801d7be50c8f357b" label="Mixed Materials [31142063269727]" type="box">2</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_7adbeaa9df52babfc709f030186c7261" label="Mixed Materials [31142063127354]" type="box">3B</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_285be36fa2e37bf707a299430373c546" label="Mixed Materials [31142063269735]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_397476a3e8cc89a060915ae019982854" label="Mixed Materials [31142063269719]" type="box">1</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_34e52c817c4b26f0cbabc81117c252f5" label="Mixed Materials [31142063269743]" type="box">5</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_bd8c53cca767a4f549527f3babdd8231" label="Mixed Materials [31142063269750]" type="box">6</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_576af0b1d2bb16e08c9d1e2279a5ca16" label="Mixed Materials [31142063269768]" type="box">7</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_1c72679511fcd62f39dcdd2d74704f31" label="Mixed Materials [31142063127339]" type="box">8A</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_1d95f426b91977bcd8c6753e0d2f0d66" label="Mixed Materials [31142063269776]" type="box">9</container>
+    <container altrender="Film Box - 14.75" id="aspace_99dfb3b501976113aac4d5fa3d48e8c7" label="Mixed Materials [31142063127362]" type="box">10</container>
+    <container altrender="Film Can - 15.75" id="aspace_ac9da80c064388637ebbdfd2d021892c" label="Mixed Materials [31142063127388]" type="box">11A</container>
+    <container altrender="Flat OS Box - 15.5 - lengthwise" id="aspace_022ad1727e18fe44dc744b131cc8a636" label="Mixed Materials [31142063269784]" type="box">12</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_04996b5aebe925d22888e2be8a9d48dd" label="Mixed Materials [31142063269792]" type="box">13</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_cb33e529e38b33f6a3b8c1817449d155" label="Mixed Materials [31142063269800]" type="box">14</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_23768fe623cfc287644a9683df7dc079" label="Mixed Materials [31142063269818]" type="box">15</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_1a23ba3b2ab6df275bf7f0d407f57d6f" label="Mixed Materials [31142063269826]" type="box">16</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_43423e7c5a7738491f2d76c9088364a9" label="Mixed Materials [31142063269834]" type="box">17</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_af3f530302d1ff452c13f532887bab11" label="Mixed Materials [31142063269842]" type="box">18</container>
+    <container altrender="Flat OS Box - 15.5 - lengthwise" id="aspace_d540e73d3491fc786ade3ae0329c2991" label="Mixed Materials [31142063269859]" type="box">19</container>
+    <container altrender="OS Flat Box - 15.5" id="aspace_ff3eeccd02a2db28c0ab6ebd52a210eb" label="Mixed Materials [31142063269867]" type="box">20</container>
+    <container altrender="Record carton" id="aspace_9e2f4751b7b75ba74f5296845bd577dd" label="Mixed Materials [31142063269875]" type="box">21</container>
+    <container altrender="Record carton" id="aspace_0ebd6b2f3373a96fe957b358d630fbc7" label="Mixed Materials [31142063269883]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_8e5e224647c1d96fa97565415f508a42" label="Mixed Materials [31142063269891]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_3b5213bd5eaf0bf56e6252f786ffa158" label="Mixed Materials [31142063269909]" type="box">24</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_2f390e59b85cf1eb34d0890075cdb5e2" label="Mixed Materials [31142063269941]" type="box">32</container>
+    <container altrender="Record carton" id="aspace_449983b41ab88850dc12f6fd830a3ea7" label="Mixed Materials [31142063269917]" type="box">27</container>
+    <container altrender="Record carton" id="aspace_19427db13998535b7717c26ff819bafd" label="Mixed Materials [31142063269933]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_1f6fe1cc64e08f42734bdd58850811fb" label="Mixed Materials [31142063148475]" type="box">A</container>
+    <container altrender="Record carton" id="aspace_63b4e8f2476f9f110311fc85453c27a1" label="Mixed Materials [31142063148467]" type="box">B</container>
+    <container altrender="Record carton" id="aspace_12ac557008b00d20d8ed28e02bc20366" label="Mixed Materials [31142063148442]" type="box">C</container>
+    <container altrender="Record carton" id="aspace_86152bbd3aa42ac928e543bee0932aab" label="Mixed Materials [31142063148459]" type="box">D</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_9852f4a3c7b49a0387d48bdf010c329b" label="Mixed Materials [31142063127347]" type="box">8B</container>
+    <container altrender="Film Can - 13.5 thin" id="aspace_dc6ce8ca8a295f0661cd422adbddf0f0" label="Mixed Materials [31142063127370]" type="box">11B</container>
+    <container altrender="Film can 7 thin" id="aspace_76c75633d00c32cadd3346f6148ed56f" label="Mixed Materials [31142063127396]" type="box">3A</container>
+    <container altrender="Record carton" id="aspace_f6b18a3e2df94f730fcd1ec259b58a30" label="Mixed Materials [31142063269925]" type="box">30</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_29ee1345259c161fb8f847923df82a51" label="Moving Images [31142063269990]" type="reel">33</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_6bd10c9e20f7ac3d9d47f6928b8a9978" label="Moving Images [31142063270006]" type="reel">34</container>
+    <container altrender="Film Can - 15.25 - thin" id="aspace_63e932c5410a8d1b97810d9d2f2fd0e5" label="Moving Images [31142063270014]" type="reel">35</container>
+    <container altrender="Record carton" id="aspace_f9fe472ce6863128227fd903deea2621" label="Mixed Materials [31142063269958]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_334d3b0476bf9f4ec71e49a1ab309b3b" label="Moving Images [31142062882215]" type="Box">36</container>
+  </did>
+  <prefercite id="aspace_21978d27bb43be9986d7d97f72f9939a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; United Federation of Teachers Film Collection; FILMS 003; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <userestrict id="aspace_62ea129eaeb02d890dd7b8f6a93092a5">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the United Federation of Teachers was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_5f24be5ee30627ed243203f109f082e1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_154ba255815d7ad3bfae9d2d3ceca830">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. Additional materials were donated in 2010 by UFT archivist Tom Dickson. The accession numbers associated with this collection are 1986.010, NPA.2005.020.</p>  </acqinfo>
+  <phystech id="aspace_16e027a6615d3e0fff59867187c2e067">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <dsc><c id="aspace_0312a2dfc631fbec7a4dcc1787c7d68d" level="file"><did><unittitle>Unprocessed DVDs</unittitle><container altrender="Card Box - 6.5 - long" id="aspace_fd6ede690ec730d6c2271982e1257f27" label="master dvd [31142062666808]" type="Box">3 (Master DVDs)</container><container altrender="Card Box - 6.5 - long" id="aspace_f9c2eab809f512bae0462eb9a433d1f4" label="access dvd [31142062666816]" type="Box">3 (Access DVDs)</container></did></c></dsc>
+</archdesc>
+</ead>

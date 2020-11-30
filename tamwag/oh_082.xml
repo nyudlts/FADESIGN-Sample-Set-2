@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_082">oh_082</eadid><filedesc><titlestmt><titleproper>Guide to the Guantanamo Media Collection <num>OH.082</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:15:09 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Guantanamo Media Collection</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Colangelo-Bryan, Joshua</persname>
+    </origination>
+    <unitid>OH.082</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 box</extent>
+    </physdesc>
+    <unitdate normal="2005/2007" type="inclusive">2005-2007</unitdate>
+    <unitdate normal="2006/2006" type="bulk">2006</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_d021d4dde048f38bd5ef53da8c2b4bd1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_8e28fcd10bf92ee70437d9319a434c24">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Joshua Colangelo-Bryan in 2009. The accession number associated with this gift is 2010.006.</p>  </acqinfo>
+  <scopecontent id="aspace_b4bd84d6f7a2dae2156f9c438ba52a8f">
+    <head>Scope and Contents</head>
+<p>One box of materials containing video clips of various interviews and presentations from news programs and series
+OH-82-01 Catherine Crier Live 6/28/06 Run time 1:03:00
+(preservation copy and DVD user copy)</p><p>OH-82-02 Guantanamo Suicides; Good Morning America  6/11/06 Run time: 00:02:00
+(preservation copy and DVD user copy)</p><p>OH-82-03 Good Morning America  6/11/06 
+&amp; 
+World News Tonight 6/11/06 Run time 00:04:00
+(preservation copy and DVD user copy)</p><p>OH-82-04 Wright/Gitmo/WNT 6/25/06 Run time: 00:04:30
+(preservation copy and DVD user copy)</p><p>OH-82-05 Best Defense  3/28/06 Run time: 01:02:00
+(preservation copy and DVD user copy)</p><p>OH-82-06 Joshua C-B (Colangelo-Bryan) Channel 2 News N.D. Run Time 00:04:30
+(preservation copy and DVD user copy)</p><p>OH-82-07 Joshua Colangelo-Bryan BBC New York N.D. Run Time  00:04:30
+(preservation copy and DVD user copy)</p><p>OH-82-08 "Guantanamo Six Years and Counting" Presentation by Joshua Colangelo-Bryan Flagstaff Arizona 6/15/2007 Run time 01:30:00
+(preservation copy and DVD user copy)</p><p>Oh-82-09 Bahrain TV interview  07/xx/2005 Run time 01:03:00
+(one DVD copy only)</p><p>OH-82-10 CNN National Programming 10-11pm 6/10/06 Run Time 00:57:30
+(one DVD copy only)</p><p>OH-82-11 This American Life Habeas Schmabeas 3/10/2006 Run time: 01:00:00
+(one DVD copy only)</p><p>OH-82-12 All Things Considered Bahraini Detainees 5/22/06- 5/23/06
+Run time 00:11:30
+(one DVD copy only)</p><p>OH-82-13
+BBC News: Guantanamo Bay Lawyer Interview with Joshua Colangelo-Bryan 
+N.D.
+Run Time 00:07:30
+(one DVD copy only) </p><p>(pending/ at preservation) OH-82-14
+Emergency Restraint Chair
+N.D. 
+Run Time: No Run Time Noted
+(Tamiment retained only 1 DVD / no preservation copy was made)</p>  </scopecontent>
+  <phystech id="aspace_0637fce7feacad429bb228da5803d7ce">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_48002d92437426f9aae718da6fb618f8">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Joshua Colangelo-Bryan was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" source="local">Colangelo-Bryan, Joshua</persname>
+  </controlaccess>
+  <dsc><c id="aspace_22575f9f99accfdbe7c7797d2a37e1fb" level="file"><did><unittitle>Unprocessed CDs, DVDs, Digital Betacams</unittitle><container altrender="Record carton" id="aspace_a8dc3c4b552211ee794a1c153efb5685" label="Moving Images [31142062671758]" type="Box">1</container></did></c></dsc>
+</archdesc>
+</ead>

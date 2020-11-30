@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">alba_graphics_002</eadid><filedesc><titlestmt><titleproper>Abraham Lincoln Brigade Archives Graphics and Artwork Collection<num>ALBA.GRAPHICS.002</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:07:56 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Abraham Lincoln Brigade Archives Graphics and Artwork Collection</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Tamiment Library</corpname>
+    </origination>
+    <unitid>ALBA.GRAPHICS.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">(3 boxes, 1 flat file, and loose materials)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_e3ebc593de40b32536f2b335f229bf30">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <userestrict id="aspace_45349da9e3a59f85fa47a2fd53605677">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce ALBA materials must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <dsc><c id="aspace_104db692006d450ce16c8879c73fdde1" level="file"><did><unittitle>Spanish Civil War braodsides, VALB graphic, Liberty War certificate</unittitle><unitdate normal="1933/1987" type="inclusive">1933-1987</unitdate><container altrender="Flat OS Box - 17 - lengthwise" id="aspace_6d4ef92e115f4163194eff88f676feb1" label="Mixed Materials [31142062882009]" type="Box">Shared Tamiment 010</container><container id="aspace_92850117dac2f3211991228a795272cd" parent="aspace_6d4ef92e115f4163194eff88f676feb1" type="Folder">20, 21</container></did></c><c id="aspace_7a133acc5c4efc7ca9c4a99e5772d4c3" level="file"><did><unittitle>Unprocessed Materials</unittitle><container altrender="OS Flat Box - 14.75 x 18.75 - lengthwise" id="aspace_e00ad3a50644c09671ac8c6421ef1244" label="Mixed Materials [31142062723534]" type="Box">1</container><container altrender="OS FLat Box - 22.25 x 15.5" id="aspace_99bb66f546bb161e44b5f46f7b8a7c5c" label="Mixed Materials [31142062723542]" type="Box">2</container><container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_2fd5814d43eec36cc5a96ddfeba3b834" label="Graphic Materials [31142062759942]" type="Box">3</container><container altrender="Flat OS Box - 17" id="aspace_4e524b872349eb100246fa1507464df8" label="Mixed Materials [31142062759777]" type="box">OS004</container><container id="aspace_84cdd6018f81ae9cc39e055aa7e9e344" parent="aspace_4e524b872349eb100246fa1507464df8" type="Folder">1</container><container altrender="OS Flat Box 21 - lengthwise" id="aspace_87c4aafb11bbde7cd33664e320438599" label="Mixed Materials [31142062735439]" type="box">XOS003</container></did></c><c id="aspace_a8c9b407db65635818155e16def91d6d" level="file"><did><unittitle>Broadsides, clippings, sheet music</unittitle><unitdate normal="1938/1938">undated</unitdate><container altrender="Flat OS Box - 17 - lengthwise" id="aspace_cb5e8649a158ae977f4aa7d02d5f97fe" label="Graphic Materials [31142062715431]" type="Box">Shared Tamiment 034</container><container id="aspace_9997353e8521dbb2961cc7b5b6dc886d" parent="aspace_cb5e8649a158ae977f4aa7d02d5f97fe" type="Folder">2-9</container></did></c></dsc>
+</archdesc>
+</ead>

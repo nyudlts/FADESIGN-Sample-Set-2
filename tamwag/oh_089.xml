@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_089">oh_089</eadid><filedesc><titlestmt><titleproper>Guide to the Joe Doyle Collection of Jimmy Gavin Interviews <num>OH.089</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:15:16 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Joe Doyle Collection of Jimmy Gavin Interviews</unittitle>
+    <unitid>OH.089</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">166 audiocassettes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_06fa4906555471ecb741abc3213df518">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restricitions.</p>  </accessrestrict>
+  <acqinfo id="aspace_5586ad817ae44bc555176146645f775d">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 2014.129.</p>  </acqinfo>
+  <phystech id="aspace_67019b0e8c58b0ccdb069cb544d360aa">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_0ada1c3684208e850ea829c2265c72e7">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Repository is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <dsc><c id="aspace_eaa7b95b2834a4ef6014f1e075294c27" level="file"><did><unittitle>Preservation Masters (Meetings, Conferences, Concerts, Workshops, Interviews) Cassette Tapes 1980-2001</unittitle><container altrender="Hollinger Cassette Box 9.5" id="aspace_b609f6c7ccd901d280b24a728f7dadb6" label="master cassette [31142062760668]" type="Box">1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_4487e4e05893809bde5e42fb838eaea5" label="master cassette [31142062760676]" type="Box">2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_96e0b3c3b28110fc219a4176204ff78e" label="master cassette [31142062760684]" type="Box">3</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_dc156513e30e29a5134ab1b0f60df9ca" label="master cassette [31142062760692]" type="Box">4</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_88aaa3dc33e5299cc2d77057badc6dc1" label="master cassette [31142062760700]" type="Box">5</container></did></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/graphics_018/">graphics_018</eadid><filedesc><titlestmt><titleproper>Guide to the Fortunato Velona Cartoons <num>GRAPHICS.018</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:12:08 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Fortunato Velona Cartoons</unittitle>
+    <unitid>GRAPHICS.018</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial id="aspace_865ecd57e5faf114fe9edda1b85cf490">Materials are in Italian and English.</langmaterial>
+  </did>
+  <prefercite id="aspace_f7fa9eb706e5c31883e3534211da4f76">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Fort Velona Cartoons; GRAPHICS 018; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_9a4348cfab753edfe9e37de96cb92bba">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_6667a826e9bfae67cd42133ef697b044">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository, provenance is unknown. The accession number 1950.204 is associated with this collection.</p>  </acqinfo>
+  <userestrict id="aspace_8d57dd4e56b0282ae4a0b66dbc249811">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection are expected to enter the public domain in 120 years after the date of creation.</p>  </userestrict>
+  <bioghist id="aspace_f19b1c3b1e6dc465036dd1de4db440e9">
+    <head>Historical/Biographical Note</head>
+<p>Fortunato 'Fort' Velona (1893-1965) was a Socialist cartoonist primarily active in New York City during the 1920's and 1930's. Velona emigrated from the Calabria region of Italy at the turn of the century, then moved to New York City in 1916 via Rochester, where he joined the local Sezione Socialista Italiana, the American Mazzini Society, and, in the 1930s, and became a vocal supporter of the Italian-American anti-Fascist movement. He was also involved in the labor movement, and worked as an organizer and business agent for the Amalgamated Clothing Workers of America.</p>  </bioghist>
+  <scopecontent id="aspace_67b28e49ad16307bb840baa69d2065f4">
+    <head>Scope and Content Note</head>
+<p>The collection includes original caricatures and cartoons by Fortunato Velona, that are of, or relate to, prominent Italian-Americans and Italians in the Socialist, leftist, and liberal communities, prominent Italian and Italian-American figures more generally, as well as prominent figures outside of these communities. Many of the drawings are autographed by the persons caricatured. The collection also includes photographs and clippings.</p>  </scopecontent>
+  <dsc><c id="aspace_ff0c21c77fe2e936a6d327ee8afe09f3" level="file"><did><unittitle>Cartoons, clippings</unittitle><unitdate normal="1937/1954" type="inclusive">1937-1954</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_23ccd8896cfde4a5a18497190dd34006" label="Mixed Materials" type="box">B001</container><container id="aspace_3c1164a263002926f4a6e720ead50cab" parent="aspace_23ccd8896cfde4a5a18497190dd34006" type="Folder">2</container></did></c><c id="aspace_fb0e8112d127d5c3930c954a85ca632a" level="file"><did><unittitle>Cartoons, drawings</unittitle></did></c><c id="aspace_b51fc895c50bbc70e171483ed311eb13" level="file"><did><unittitle>Oversize portfolios of original art, clippings, and notes</unittitle><unitdate normal="1930/1950" type="inclusive">1930-1950</unitdate><container altrender="OS Flat Box - 23.5 x 31.5" id="aspace_f4613c64610d548ad8ab01e554920bff" label="Graphic Materials [31142062673226]" type="Box">1</container><container altrender="OS Flat Box - 23.5 x 31.5" id="aspace_9e918390293c374185a97dc1c1b36052" label="Graphic Materials [31142062673234]" type="Box">2</container><container altrender="OS Flat Box - 23.5 x 31.5" id="aspace_ac685069be5a781d15284dc1e2aa00a9" label="Graphic Materials [31142062673200]" type="Box">3</container></did></c></dsc>
+</archdesc>
+</ead>

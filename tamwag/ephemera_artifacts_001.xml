@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/ephemera_001/">ephemera_artifacts_001</eadid><filedesc><titlestmt><titleproper>General Tamiment and Wagner Ephemera and Artifacts Collection<num>EPHEMERA.ARTIFACTS.001</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:11:09 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>General Tamiment and Wagner Ephemera and Artifacts Collection</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Tamiment Library</corpname>
+    </origination>
+    <unitid>EPHEMERA.ARTIFACTS.001</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.999 Linear Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="OS Flat Box - 11.75 x 17.5" id="aspace_aec447e95580c680d3fc0be1f48cb2ff" label="Mixed Materials [31142063151891]" type="box">1</container>
+    <container altrender="OS Flat Box - 16.5 - lengthwise" id="aspace_f92d31566962e8dbf3bc6e083f0796c6" label="Mixed Materials [31142063151826]" type="box">2</container>
+    <container altrender="OS Flat Box - 16.5 - lengthwise" id="aspace_7a9236700d242f65318bace994bd38c0" label="Mixed Materials [31142063151727]" type="box">3</container>
+    <container altrender="OS Flat Box - 15x19x3 - lengthwise" id="aspace_12e4040095d84331a3fdd88f42a86e85" label="Mixed Materials [31142063151669]" type="box">4</container>
+    <container altrender="OS Flat Box - 16.5 - lengthwise" id="aspace_d20c62834b2589f19ef875cb27c365e8" label="Mixed Materials [31142063151834]" type="box">5</container>
+    <container altrender="OS Flat Box - 16.5 - lengthwise" id="aspace_8a4b770c2443c085297828bf2f7e6c22" label="Mixed Materials [31142063151842]" type="box">6</container>
+    <container altrender="OS Flat Box - 15x19x3 - lengthwise" id="aspace_4503b921e155bf93d1bbe594cc28a2da" label="Mixed Materials [31142063151685]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_746c61d22453d720da5398f754f911ff" label="Mixed Materials [31142063151784]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_0089898cb7bf922b01d730c5b065c436" label="Mixed Materials [31142063151776]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_8aee6db8bcfd6e4d1d94109b7e23c6f0" label="Mixed Materials [31142063151628]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_7bd48357584a7e117106c93168a49c1e" label="Mixed Materials [31142063151586]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_9c181a51f4e21e5cfdea3632026d71d7" label="Mixed Materials [31142063151610]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_37d477158dbe3a7bb4a5e342fe55220c" label="Mixed Materials [31142063151602]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_ebaaaebb2ae7261bea72a8fdd7fb927d" label="Mixed Materials [31142063151594]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_e1b1f145fe98ef5d3a40c2db5d9206d6" label="Mixed Materials [31142063151867]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_2dc3d44ccb29bc637b65b3b97fdaa50d" label="Mixed Materials [31142063151859]" type="box">16</container>
+    <container altrender="OS Flat Box - 15x19x3 - lengthwise" id="aspace_bf731cecd4999c0ee2686b1d9a32ed2e" label="Mixed Materials [31142063151917]" type="box">17</container>
+    <container altrender="OS Flat Box - 15x19x3 - lengthwise" id="aspace_6f7b0c4aaecf48bc6d3af1c99a0901ed" label="Mixed Materials [31142063151909]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_30a3f2d4910504bba38d554a0b809fc9" label="Mixed Materials [31142063151941]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_e759ebf5d6d0aac85907503b180f2a49" label="Mixed Materials [31142063151933]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_4d6c984175fb99bf4436002b79c28acc" label="Mixed Materials [31142063152022]" type="box">20</container>
+    <container altrender="Manuscript box - Legal" id="aspace_6573ed1a9e2abb9d7be1bbf98524740d" label="Mixed Materials [31142063151792]" type="box">21</container>
+    <container altrender="Manuscript box - Legal" id="aspace_62640dfa0280fde8ee10443f3df03c06" label="Mixed Materials [31142063151719]" type="box">23</container>
+    <container altrender="Manuscript box - Legal" id="aspace_f300c8b44d31038872f41575d96c5e4e" label="Mixed Materials [31142063151735]" type="box">24</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_b2c8a2217731004b6c1f45e1861424ef" label="Mixed Materials [31142063151693]" type="box">26</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_b3fe9a21066f648937eafeed601960e1" label="Mixed Materials [31142063151701]" type="box">25</container>
+    <container altrender="Manuscript box - Legal" id="aspace_6f69752a32a066c5438ca385ed44f608" label="Mixed Materials [31142063151743]" type="box">27</container>
+    <container altrender="Manuscript box - Legal" id="aspace_637304dccb00ff61b8c581d8e803691b" label="Mixed Materials [31142063151768]" type="box">28</container>
+    <container altrender="Manuscript box - Legal" id="aspace_119b5d9821d907f3a47748c2500255aa" label="Mixed Materials [31142063151800]" type="box">29</container>
+    <container altrender="Record carton" id="aspace_5315107ca58529071767dd8d3b101991" label="Mixed Materials [31142063151925]" type="box">30</container>
+    <container altrender="Manuscript box - Legal" id="aspace_50f581c1d4dbe5e5cf3ec1ef9abe9400" label="Mixed Materials [31142063151818]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_c7cc2117f8be3381c0ae89d76134744a" label="Mixed Materials [31142063151875]" type="box">32</container>
+    <container altrender="Manuscript box - Legal" id="aspace_efd1e22ae7c754490441e90b7e238829" label="Mixed Materials [31142063151750]" type="box">33</container>
+    <container altrender="OS Flat Box - 15x19x3 - lengthwise" id="aspace_489dee386533a12cbf9a83e65d8d643b" label="Mixed Materials [31142063151677]" type="box">34</container>
+    <container altrender="OS Flat Box - 11.75 x 17.5" id="aspace_9e41fda4c721d309753b482788f416a1" label="Mixed Materials [31142063151958]" type="box">35</container>
+    <container altrender="OS Flat Box - 13.5 - lengthwise" id="aspace_a9694fbcebe920eeb68a5ef94bafd410" label="Mixed Materials [31142063151644]" type="box">36</container>
+    <container altrender="Record carton" id="aspace_74f35b8c6eba6ce5f2206ecbdff7b05e" label="Mixed Materials [31142063151883]" type="box">37</container>
+    <container altrender="OS Flat Box - 15x19x3 - lengthwise" id="aspace_0e5cf53e2ebbbb1f523763f92f3fa208" label="Mixed Materials [31142063151651]" type="box">38</container>
+    <container altrender="Flat OS Box - 17 - lengthwise" id="aspace_bd1f916239c1b7263ae8bf5b3e2156b2" label="Mixed Materials [31142063151966]" type="box">39</container>
+    <container altrender="Flat OS Box - 17 - lengthwise" id="aspace_220b842aeae518e22514189e3484facf" label="Mixed Materials [31142063151974]" type="box">40</container>
+    <container altrender="OS Flat Box - 17 thin" id="aspace_2e49d790e34f74e1a8038ad274093dd2" label="Mixed Materials [31142063151982]" type="box">41</container>
+    <container altrender="OS Flat Box - 17 thin" id="aspace_8b4a731b279fdcfd709ad472d534aa70" label="Mixed Materials [31142063151636]" type="box">42</container>
+    <container altrender="OS Flat Box - 17 thin" id="aspace_cd3c75643875b86f1bb84ffe85984106" label="Mixed Materials [31142063151990]" type="box">43</container>
+    <container altrender="OS Flat Box - 17 thin" id="aspace_9af8662dc24bcf407d2a043cbcbae7aa" label="Mixed Materials [31142063152006]" type="box">44</container>
+    <container altrender="Flat OS Box - 17 - lengthwise" id="aspace_a7e85bf5bf06e612487467d18509004d" label="Mixed Materials [31142063152014]" type="box">45</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_0bf373bfe8866a914001a95eafe558bc" label="Mixed Materials [31142063152030]" type="box">46</container>
+    <container altrender="OS Flat Box - 21 lengthwise - thin" id="aspace_9128829af329bcc723b6964bdbf76290" label="Mixed Materials [31142063152048]" type="box">47</container>
+    <container altrender="OS Flat Box - 21 lengthwise - thin" id="aspace_fe8cb1b9fae111244a245db065386a8e" label="Mixed Materials [31142063152055]" type="box">48</container>
+    <container altrender="OS Flat Box 21 - lengthwise" id="aspace_46c03043e016850884591ca5aea27555" label="Mixed Materials [31142063152063]" type="box">49</container>
+    <container altrender="Rolled Storage - Tube 40" id="aspace_3971e003520bc63287b0d0fbd2e82ab9" label="Mixed Materials [31142063411436]" type="Box">50</container>
+    <container altrender="OS Flat Box - 13.5 - lengthwise" id="aspace_b22042a06f5d8f78436312c0e2580856" label="Mixed Materials [31142063411410]" type="Box">51</container>
+    <container altrender="Card Box 5.75" id="aspace_f66a880d9c5904a521cf1e03eb497a36" label="Mixed Materials [31142063411428]" type="Box">52</container>
+  </did>
+  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Banners</unittitle></did></c><c id="aspace_ref2" level="series"><did><unittitle>Series II: Picket Signs</unittitle></did></c><c id="aspace_ref4" level="series"><did><unittitle>Series V: Pennants</unittitle><container altrender="Portfolio - 32 x 24 thin" id="aspace_324a819328335a39a66bb105e00d77ac" label="Mixed Materials [31142062765378]" type="Box">1a</container></did></c><c id="aspace_a8fc9008ec6775a248de40b4ff7a1796" level="series"><did><unittitle>Unprocessed</unittitle></did><c id="aspace_66a33c06e35738f600ae6d48d469d393" level="file"><did><unittitle>Graphics ephemera</unittitle><unitdate normal="1943/2012" type="inclusive">1943-2012</unitdate><container altrender="Box - 10 x 13" id="aspace_f4d44a146d25e9de93875885c480a2ee" label="Mixed Materials [31142062882470]" type="Box">53</container><container id="aspace_baa28dfe9a012d76a0355bcaad4ac757" parent="aspace_f4d44a146d25e9de93875885c480a2ee" type="Folder">1-6</container></did></c><c id="aspace_0117e65a83e8a98550fa401d7c6b30c1" level="file"><did><unittitle>Postcards, press badges, membership booklets, medal</unittitle><container altrender="Card Box - 5.75 x 15.5" id="aspace_94f338e30497322c0ec0de157c239fa9" label="Mixed Materials [31142062882686]" type="Box">Shared Tamiment 019</container></did></c><c id="aspace_e6db94c21d73731bb859b811fd354494" level="file"><did><unittitle>Scarf</unittitle><container altrender="OS Flat Box 12" id="aspace_b5413faf805dafce4741c9952244ab44" label="Realia [31142063426251]" type="Box">1</container></did></c><c id="aspace_28ee0d22e9a044d432be50bcdc7471c1" level="file"><did><unittitle>Picket Signs</unittitle><container altrender="Flat OS Box - 19.5 x 25.25 - lengthwise" id="aspace_36595f43cd29913e41b779baead0477b" label="Graphic Materials [31142063426640]" type="Box">54</container><container altrender="Flat OS Box - 19.5 x 25.25 - lengthwise" id="aspace_c359c753d69b870c6fcc87fb5193616d" label="Graphic Materials [31142063426657]" type="Box">55</container><container altrender="Oversize Folder - 42 x 32" id="aspace_26b56ffb52d4024c7a9f4b22de609011" label="Graphic Materials [31142062732493]" type="Folder">1</container><container altrender="Oversize Folder - 42 x 32" id="aspace_04bcf221b9a61c9dc85038c238f37ff8" label="Graphic Materials [31142062732535]" type="Folder">2</container><container altrender="Oversize Folder - 42 x 32" id="aspace_1a5361b617fee44631a9520478b75462" label="Graphic Materials [31142062732527]" type="Folder">3</container></did></c><c id="aspace_5ca5a4e2ee809fa6b144bfbe46e53f36" level="file"><did><unittitle>Teamsters Charts, Disarmament Posters</unittitle><container altrender="Oversize Folder - Full Case" id="aspace_3c2c4a945fc1bdbf272dde4420c8ec33" label="Graphic Materials [31142062666089]" type="Flat-File-Folder">2</container></did></c></c><c id="aspace_169201ab3326014992492dba3b15cb34" level="file"><did><unittitle>"The Game Of Community", board game by Jim Deacove</unittitle><unitdate normal="1972/1972">1972</unitdate><container altrender="OS Flat Box - 17.5 " id="aspace_75525eaaeac6ca2eff8c147976eb8a6d" label="Mixed Materials [31142062835098]" type="Box">58</container></did></c></dsc>
+</archdesc>
+</ead>

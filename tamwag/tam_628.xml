@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="placeholder" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_628/">tam_628</eadid><filedesc><titlestmt><titleproper>Phillip Bonosky Papers<num>TAM.628</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:32:43 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Phillip Bonosky Papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Bonosky, Nora</persname>
+    </origination>
+    <unitid>TAM.628</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">24 Linear Feet</extent>
+      <extent altrender="carrier">in 24 record cartons</extent>
+    </physdesc>
+    <unitdate>1940s-1980s</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_0de487cc3e7ade84bd7bf2870c8f0990" label="Mixed Materials [31142063265444]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_267ac798a2ec4292117a5170e706e607" label="Mixed Materials [31142063265451]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_d7f99484b67c81b3a5ac62da0c6f232a" label="Mixed Materials [31142063265469]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_0c0b1c25d025965277ab29ec2e912c69" label="Mixed Materials [31142063265477]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_2f711c3fc15e73de848a3de3088c519a" label="Mixed Materials [31142063265485]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_5e0342c3a61a58f16b19d4a86ac2213a" label="Mixed Materials [31142063265493]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_967e54f3a946fbe7ddb0fe7701542f1e" label="Mixed Materials [31142063265501]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_e81a45794b4aac7b95637b86b63c449f" label="Mixed Materials [31142063265519]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_6f4c8b88b5c4748e53e9e1b57394968a" label="Mixed Materials [31142063265527]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_66d237a24e751a6dc944746c618c85b1" label="Mixed Materials [31142063265535]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_ff7933cd33dadc39db7efac93129250e" label="Mixed Materials [31142063265543]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_7234063c9f23a27c1545593f96a0816f" label="Mixed Materials [31142063265550]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_40d35896a3c00a345cb21c6ed287e3fa" label="Mixed Materials [31142063265568]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_4f0c7896be67a16ad41a3a79f0687ff9" label="Mixed Materials [31142063265576]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_9408dfca103a656673dc5524e3cfc866" label="Mixed Materials [31142063265584]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_579e488061217bd26636ba3122d7a6ed" label="Mixed Materials [31142063265592]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_f69e10b115fa59ed1d3bd0503aea4c5c" label="Mixed Materials [31142063265600]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_144a4f394d7c803d6c5245293378ebd5" label="Mixed Materials [31142063265618]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_f7251a477537f7cae9c549a77bc115fa" label="Mixed Materials [31142063265626]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_6c499641d5b7ef465eeba2388f3c3354" label="Mixed Materials" type="box">20</container>
+    <container altrender="Record carton" id="aspace_2da36cd41f4ad485c199a893ffabda72" label="Mixed Materials" type="box">21</container>
+    <container altrender="Record carton" id="aspace_689142dde8e88a874058215af66a27f1" label="Mixed Materials" type="box">22</container>
+    <container altrender="Record carton" id="aspace_7fd4860197d3d90d91831aeb5b564a03" label="Mixed Materials" type="box">23</container>
+    <container altrender="Record carton" id="aspace_e72bea87d987debf68155a8179eed19f" label="Mixed Materials" type="box">24</container>
+  </did>
+  <accessrestrict id="aspace_19bbf98660609e4c53e2412a4c123efb">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_64686c6a42f0acf042bdab5feb592ccb">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Nora Bonosky in 2013. The accession number related to this gift is 2013.009.</p>  </acqinfo>
+  <userestrict id="aspace_f4a51a428314339e3fd59ebfe320dba4">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Phillip Bonosky, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Bonosky, Nora</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

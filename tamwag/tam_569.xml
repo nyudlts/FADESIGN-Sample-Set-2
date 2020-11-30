@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_569</eadid><filedesc><titlestmt><titleproper>Southern Worker (1933-1937): Cumulative Index <num>TAM.569</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2/24/2011</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:30:32 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Southern Worker (1933-1937): Cumulative Index</unittitle>
+    <origination label="source">
+      <persname source="naf">Reavis, Dick J.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Reavis, Dick J.</persname>
+    </origination>
+    <unitid>TAM.569</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.0010 Linear Feet</extent>
+    </physdesc>
+    <unitdate>2011</unitdate>
+    <abstract id="aspace_f2d47e535ebee9e0fd28d648bcb2112b">The <emph render="italic">Southern Worker</emph> was an irregular monthly newspaper published by the Communist Party USA from 1933-1937. This "collection" consists of an alphabetical index to the contents of the <emph render="italic">Southern Worker</emph>.</abstract>
+    <langmaterial id="aspace_7919e98d228d8ab394ba3947a5d5dc1d">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_49b4dbc8df5343154f10f5cbd2e8d4bb">
+    <head>Historical/Biographical Note</head>
+<p>The <emph render="italic">Southern Worker</emph> was an irregular monthly newspaper published by the Communist Party USA from 1933-1937 (Vol. 1, no. 1; Aug. 16, 1930--Vol. 7, no. 17; Sept. 1937) on a semi-underground basis, due to the political climate in the Southern States. The principal place of publication was Birmingham, Alabama, with some issues published in Chattanooga, Tennessee.</p>  </bioghist>
+  <arrangement id="aspace_8fb073a3b451856e636508320aa603d3">
+    <head>Arrangement</head>
+<p>Arranged alphabetically</p>  </arrangement>
+  <userestrict id="aspace_7320847a1e36c9598666558e906e42a4">
+    <head>Use Restrictions</head>
+<p>Permission to publish materials must be obtained in writing from the: <lb/>
+Tamiment Library/Robert F. Wagner Labor Archives <lb/>
+Elmer Holmes Bobst Library <lb/>
+70 Washington Square South <lb/>
+New York, NY 10012 <lb/>
+Phone: (212) 998-2630 <lb/>
+Fax: (212) 995-4225 <lb/>
+E-mail: tamiment.wagner@nyu.edu <lb/></p>  </userestrict>
+  <accessrestrict id="aspace_f22f8234579eea33bc98b39c9151bfec">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <scopecontent id="aspace_4ae5799aeb2cb4d391733d3e0780eaad">
+    <head>Scope and Contents</head>
+<p>This "collection" consists of an alphabetical index to the <emph render="italic">Southern Worker</emph>, compiled by Dick Reavis, Assistant Professor of English at North Carolina State University.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Communism -- United States -- Newspapers.</subject>
+    <subject source="lcsh">Labor unions and communism |z Southern States.</subject>
+    <genreform source="aat">Indexes (reference sources).</genreform>
+    <subject source="lcsh">Journalism, Communist -- United States.</subject>
+    <subject source="lcsh">African American communists.</subject>
+    <subject source="lcsh">Communism |z Southern States.</subject>
+    <corpname rules="aacr" source="naf">Communist Party of the United States of America</corpname>
+    <persname role="fmo" source="naf">Reavis, Dick J.</persname>
+    <corpname source="local">Southern worker (Birmingham, Ala.)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref3" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "A"</unittitle><container id="aspace_916e760ce5e17f0855a1e3815fe9c57f" label="Text" type="page">A</container></did><odd id="aspace_9ad7ea4d01d67c134edceb17a88089b6"><head>General</head><p>AA Admin.: </p><p>     S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7</p><p>ACLU: </p><p>     "Scottsboro Defense Committee," Feb 1936, 6</p><p>
+Abraham Lincoln Battalion</p><p>     The International Scene, May 1937, 10
+     "Mary and I Are Glad Our Son Went to Spain," Jul 1937, 8</p><p>Acosta, Bert:  </p><p>     "Tide of Battle Turns in Spain," Jan 1937, 14</p><p>ACLU: </p><p>     "United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p><emph render="italic">AFL, A.F. of L.: See American Federation of Labor
+</emph></p><p>Agricultural Adjustment Act: </p><p>     "Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>Agricultural Adjustment Association:  </p><p>     "Farmers Condemn Bankhead and AAA," Jan 1936, 3</p><p>     "Supreme Court Rules Farm Measure Out," Jan 1936, 4</p><p>     "Real Vote Denied Sharecroppers In Tallapoosa County," Jan 1936, 5</p><p>     "The People Versus the Supreme Court," Apr 1937, 5</p><p>Agricultural Workers Organizing Committee:</p><p>     News of the Month in the South, "Texas Farm Workers Organize Fast," May 1937, 13 </p><p>Agricultural Workers Wage Conference:</p><p>     Caption, May 1937, 4</p><p>Alabama Employees Advancement Association: </p><p>     Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>Alabama Federation of Labor:</p><p>     News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13</p><p>     Caption, May 1937, 3</p><p>Alabama By-Products:</p><p>     News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Alabama Drydock and Shipbuilding Co.:</p><p>     "Signing Up Already," Mar 1937, 15</p><p>     "C.I.O. Comes to Mobile," Jun 1937, 8</p><p>Alabama Federation of Labor: </p><p>     "Trade Union Topics," Feb 1936, 2</p><p>     Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>Alabama Fuel and Iron: </p><p>     "Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>     News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Alabama Mills, Inc.: </p><p>     News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Alabama Packing Company:  </p><p>     Trade Union Topics, Sep 1936, 2</p><p>Alabama State Milk Control Board: </p><p>     "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4</p><p>Alabama Supreme Court:  </p><p>     "News In Brief: Miners Win Victory In State Court," Jan 1936, 3</p><p>     "Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p>     Trade Union Topics, Sep 1936, 2</p><p><emph render="italic">ALCOA: See Aluminum Company of America
+</emph></p><p>Alcoa, Tenn.:</p><p>     Untitled photo, Jul 1937, 11
+ 
+     "Against Southern Differential Aluminum Workers Strike," Photo. Jul 1937, 11</p><p>Aldrigde, Ab.: </p><p>     "Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p>Aluminum Company of America: </p><p>     "Racketeers in Patriotism," May 1937, 6
+ 
+     Photo of strikers, Jul 1937, 11 </p><p>Aluminum Workers Union: </p><p>     "Against Southern Differential Aluminum Workers Strike," with photo, Jul 1937, 11</p><p>Amalgamated Association: </p><p>     "Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>     Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>Amalgamated Association of Government and Relief Workers:</p><p>     News of the Month in the South, "Birmingham W.P.A. Workers Protest Cuts at Mass Meeting," May 1937, 13</p><p>Amalgamated Association of Iron, Steel and Tin Workers: </p><p>     "Seeks Freedom For Framed-Up Youth," Jan 1936, 1</p><p>     "Steel Drive Moves Ahead in Alabama," Sep 1936, 1</p><p>     "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1</p><p>     "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9</p><p>     The American Scene, "Steel Workers to Present Demands By April 1," Mar 1937, 10 </p><p>     News Of The Month In The South, "Birmingham's First Sit-Down Strike Wins 20 Per Cent Wage Boost," Mar            1937, 11</p><p>     News Of The Month In The South, "Steel Workers In Second Sit-Down Strike," Mar 1937, 11 </p><p>     "Steel Victorious!" Apr 1937, 3
+ 
+     News of the Month in the South, "Steel Workers Win Stove Strike," Apr 1937, 11</p><p>     "Gin Co. Steel Workers Strike," Apr 1937, 11</p><p>     News of the Month in the South, "Steel Drive Begun in Chattanooga," May 1937, 11</p><p>Amalgamated Clothing Workers Union: </p><p>
+ "Trade Unions Help Spain," Sep 1936, 2
+News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11
+ "Textile is Next," Apr 1937, 4</p><p>American Casting Company:</p><p>News Of The Month In The South, "Birmingham's First Sit-Down Strike Wins 20 Per Cent Wage Boost," Mar 1937, 11
+News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>American Federation of Classroom Teachers: </p><p> "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2</p><p>American Federation of Hosiery Workers: </p><p>
+ Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14
+ "Hosiery Drive Starts in South," Jan 1937, 8
+"Textile is Next," Apr 1937, 4
+"Hosiery Workers Hold 'On to Victory' Conference," Jul 1937, 12</p><p>American Federation of Labor: </p><p>
+"Tennessee W.P.A. Workers Unionize," Jan 1936, 1</p><p>"With the Trade Unions," Jan 1936, 2</p><p> "Why We Need A Labor Party In The South," Jan 1936, 2</p><p> "S.T.F.U. Meets In Arkansas," Jan 1936, 4</p><p>"A Farmer Labor Party For The South," Jan 1936, 6</p><p> "Leads Fights," Feb 1936, 1</p><p>"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>"Trade Union Topics," Feb 1936, 2</p><p>"News In Brief," Feb 1936, 4</p><p>"Miners' Convention," Feb 1936, 8</p><p> "N.C. Convention Endorses Alliance," Sep 1936, 3</p><p> "CIO Tries to Secure Harmony with AF of L," Dec 1936, 15
+"Labor Backs Fight For Voting Machines," Jan 1937, 7
+ "Hosiery Drive Starts in South," Jan 1937, 8
+ "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+ "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1
+"A People's Program," Mar 1937, 4
+"Signing Up Already," Mar 1937, 15
+"Unity In A.F. Of L." Apr 1937, 2
+ The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10 </p><p>The American Scene, "Green &amp; Co. Map War Against C.I.O.," Jul 1937, 10</p><p>American Legion: 
+ "Disarm Industry," Mar 1937, 6
+American Nationalists, Inc.: </p><p> 	"Racketeers in Patriotism," May 1937, 6</p><p>American Nationalist Party: </p><p> "Racketeers in Patriotism," May 1937, 6  </p><p>American Student Union: </p><p>
+"News In Brief," Feb 1936, 4</p><p>American Youth Congress: </p><p>News Of The Month In The South, "Miners Demand Passage of Youth Act," Mar 1937, 11
+The American Scene, "Youth Delegates March on Washington," Apr 1937, 10</p><p>American Vigilant Intelligence Federation:</p><p> 	"Racketeers in Patriotism," May 1937, 6</p><p>American Youth Act:</p><p>News Of The Month In The South, "Miners Demand Passage of Youth Act," Mar 1937, 11
+The American Scene, "Youth Delegates March on Washington," Apr 1937, 10</p><p>Amsterdam, N.Y.:</p><p>News of the Month in the South, "Louisville Mill Gets Second T.W.O.C. Charter," May 1937, 11</p><p>Anderson, John: </p><p>
+ "Burlington Five to Be Tried For Frame-up Charge," Feb 1936, 2</p><p>Andre, Edgar: </p><p>
+ "Court Frames Organizer; Gets 10 Years," Dec 1936, 16</p><p>Anniston, Ala.: </p><p> "Negro Free, 'Shot it Out' with Sheriff," Nov 1936, 4
+"Hosiery Drive Starts in South," Jan 1937, 8
+ 	"Samoset Mill Claims Second Labor Victim," Jan 1937, 8
+ "Women's Place In Congress of Industrial Organizations Drive," Jan 1937, 13
+ 	"C.I.O. Fights for Unity," Jun 1937, 5</p><p>Apperson, B.C.: </p><p>
+ "Trades Council Attacks Governor On Sales Tax," Feb 1936, 1</p><p>Arnold, Ezekiel:</p><p> "Stool pigeons exposed," Jul 1937, 15  </p><p>Asheville, N.C.:</p><p> 	"Textile Town," May 1937, 5</p><p>Association of Colored Railway Trainmen and Locomotive Firemen: </p><p> "Blacks, Whites Solid in Strike," Nov 1936, 3</p><p>Association of Southern Women for the Prevention of Lynching, Florida Council:</p><p> "Florida Women Organize to Prevent Lynching," Jul 1937, 13</p><p>Atlanta: </p><p> "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4 
+ "Four Taken For Ride," Jan 1937, 15</p><p>Atlanta Constitution. </p><p> "Communist Party Is Legal," Jun 1937, 4</p><p>Atlanta, Ga.:</p><p>
+"United Front Wins Herndon Release," Jan 1936, 4</p><p> "Atlanta Copies Birmingham Law," Sep 1936, 6
+News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Atlanta Woolen Mills: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Atlanta Worsted Mill: </p><p> "Atlanta Worsted Mill Signs with TWOC," Jul 1937, 12</p><p>Atlantic City, N.J.: </p><p>
+ "S.T.F.U. Meets In Arkansas," Jan 1936, 4</p><p>Atlas Clothing Company: 
+News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11 
+Atalla, Ala.:</p><p>
+Photo caption, Jul 1937, 11
+ "Republic Steel Picket Buried in Ala. With Honors," with photo, Jul 1937, 11</p><p>Attucks, Crispus: </p><p>
+Illustration, Jul 1937, 4
+ "He Died for Liberty," Jul 1937, 4</p><p>Auburn, N.Y.: </p><p> "She Never Lost A Passenger," Jan 1937, 14</p><p>Augusta, Ga.: </p><p>
+ "WPA Workers Sentenced," Jan 1936, 3</p><p>Austria: </p><p>
+"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>Avon-Georgia and Alabama: </p><p>
+"Mill Movies Hide Misery," Feb 1936, 6</p></odd></c><c id="aspace_ref4" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "B"</unittitle><container id="aspace_e447c5cfd40980238c0272548b0e4b4b" label="Text" type="page">B</container></did><odd id="aspace_545b47f7b79b7085cbdb92cd19231437"><head>General</head><p>Blalock, Edgar: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Blue Bell Overall: </p><p>
+Letter, "Overall Factory Starves Workers," Feb 1936, 4</p><p>Bonds, Richard: </p><p>
+"News In Brief," Feb 1936, 4 </p><p>Bosch, John: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>Burke, Tom: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4 </p><p>Burlington, N.C.: </p><p>
+ "Burlington Five to Be Tried For Frame-up Charge," Feb 1936, 2</p><p>Bainbridge, Ga.: </p><p> "Georgia Answers Congress With Another Lynching," Jul 1937, 13</p><p>Baker, Edward: </p><p>"McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>Baker, Larkin: </p><p>News of the Month in the South,"Harlan Coal Operators Tyranny Over Miners Told," May 1937, 13</p><p>Baker, Lawrence: </p><p>News of the Month in the South, "Harlan Coal Operators Tyranny Over Miners Told," May 1937, 13</p><p>Bakery and Confectionary Workers Union: </p><p> "Chattanooga Labor Leaders Acquitted," Jan 1937, 10</p><p>Baltimore Evening Sun:
+ 
+ "Lucky Fellow?," Jan 1937, 11</p><p>Bancroft, Charles: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Bankhead Farm Tenancy Bill:  </p><p>"Farmers Condemn Bankhead and AAA," Jan 1936, 3</p><p> "Jasper Central Body Backs Painters," Jan 1937, 10</p><p> "Land for the Landless," Mar 1937, 7
+Barnard, Chester: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Barr, Pat: </p><p> "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2
+Contributor, "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+Contributor, "Disarm Industry," Mar 1937, 6
+ Contributor, "Steel Victorious!" Apr 1937, 3
+ Contributor, "Save Our Children," May 1937, 7
+ "Mary and I Are Glad Our Son Went to Spain," Jul 1937, 8</p><p>Barret Roofing Company: </p><p> "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1</p><p>Barrington, Tenn.: </p><p> "Textile Town," May 1937, 5</p><p>Barton, Belle: </p><p>
+"Trade Union Topics," Feb 1936, 2 
+ "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>Barton, Jack:</p><p>
+ "Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p>"Trade Union Topics," Feb 1936, 2</p><p>"Local Leader Railroaded to Chain Gang," Sep 1936, 1
+ "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1
+"Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+"Disarm Industry," Mar 1937, 6
+News of the Month in the South, "Bessemer Literature Law Appealed to Supreme Court," May 1937, 13</p><p>Barton Manufacturing: </p><p> "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2</p><p>Barton, S.F.:  </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>Battle of Battle Street: </p><p> "Samoset Mill Claims Second Labor Victim," Jan 1937, 8</p><p>Battle of Reeltown: </p><p>
+ "Hero of Reeltown Murdered In Jail," Jan 1936, 5</p><p>Beddow, Noel: </p><p>
+"Steel Drive Moves Ahead in Alabama," Sep 1936, 1 
+Review of Month, Sep 1937, 2</p><p>Bedford, Charles E.: </p><p> 	"Racketeers in Patriotism," May 1937, 6</p><p>Bell Telephone of New Jersey: </p><p> "Racketeers in Patriotism," May 1937, 6
+Bender, Charles:</p><p>
+"WPA Worker Framed On Attack Charge," Feb 1936, 6 </p><p>Benham, Ky.: </p><p> "G-men Investigate Harlan Coal Operators," Jul 1937, 11</p><p>Benjamin, Herbert: </p><p>News of the Month in the South, "San Antonio W.A. Starts Organization Drive," May 1937, 13</p><p>Bennett College: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Bennett, H.D.: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Bennett, Sanford: </p><p> "Chattanooga Labor Leaders Acquitted," Jan 1937, 10</p><p>Benson, Elmer: </p><p>The American Scene, "Governors Protest W.P.A. Cuts," Apr 1937, 10 </p><p>Berry, Major: 
+ "A People's Program," Mar 1937, 4
+Berry, George L.: </p><p>
+"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p>Bessemer, Ala.: </p><p>
+"Union Worker Wins Freedom In Frame-Up," Feb 1936, 7</p><p>"Local Leader Railroaded to Chain Gang," Sep 1936, 1
+"Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p>"Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14
+ "Ore Miners Describe Discrimination By TCI," Jan 1937, 9
+"T.C.I.'s Agreements," Jan 1937, 16 
+News Of The Month In The South, "T.C.I. Ore Miners Talk Strike Against Stretchout," Mar 1937, 11
+News of the Month in the South,"Bessemer Literature Law Appealed to Supreme Court," May 1937, 13</p><p>Bibb County, Ga.: </p><p> "Sheriff Threatens Forced Labor for Georgia Unemployed," Jul 1937, 12</p><p>Bickford, Charles: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Bigelow Banford Company: </p><p>News of the Month in the South, "Louisville Mill Gets Second T.W.O.C. Charter," May 1937, 11</p><p>Birmingham: </p><p> "An Open Letter To The Followers Of Townsend In The South," Jan 1936, 1</p><p> "Seeks Freedom For Framed-Up Youth," Jan 1936, 1</p><p> "Cops Arrested For Murder Of Negro," Jan 1936, 2</p><p>"Mine Worker Hurt On Job," Jan 1936, 2</p><p> "Farmers Condemn Bankhead and AAA," Jan 1936, 3</p><p>"News In Brief," Jan 1936, 3</p><p>"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p> "Negro Youth Stabbed By White Man On Street Car," Jan 1936, 5</p><p>"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p> "Trades Council Attacks Governor On Sales Tax," Feb 1936, 1</p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p> "Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p> Letter, "N.Y.R. Pays $10 a Month," Feb 1936, 5 </p><p>"Mill Movies Hide Misery," Feb 1936, 6</p><p>"Negro Congress To Fight Lynching," Feb 1936, 6</p><p>"WPA Worker Framed On Attack Charge," Feb 1936, 6</p><p>"Why a Farmer-Labor Party?" Feb 1936, 8</p><p> "Browder Exposes Slander Against Communists in Speech at Virginia U," Sep 1936, 1</p><p>"Ore Strike Ends in Agreement," Sep 1936, 1</p><p> "Southern Unions Protest C.I.O. Suspension," Sep 1936, 1</p><p>Trade Union Topics, Sep 1936, 2</p><p>"Organizer Framed for Murder," Sep 1936, 3</p><p> "Atlanta Copies Birmingham Law," Sep 1936, 6</p><p> "W.P.A. Workers Learn Value of Belonging to Union," Sep 1936, 6</p><p>"More Whites Than Negroes Arrested," Dec 1936, 13</p><p> "Health in Danger, Birmingham Told," Dec 1936, 13</p><p> "Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14
+ "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1
+Trade Union Topics, "White Legion Being Revived," Nov 1936, 2
+ "Audience Gives Lemke, Smith Cold Shoulder," Nov 1936, 3
+ "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4
+ "Try To Segregate Negroes In Buses," Nov 1936, 4
+ "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p> "Health in Danger, Birmingham Told," Dec 1936, 13
+ "They Must Be Stopped," Jan 1937, 2
+ "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+ "Labor Backs Fight For Voting Machines," Jan 1937, 7
+ "Ore Miners Describe Discrimination By TCI," Jan 1937, 9
+ "Women's Place In CIO Drive," Jan 1937, 13
+ "425,000 To Be Cut Off WPA," Jan 1937, 13
+ "Disarm Industry," Mar 1937, 6
+News Of The Month In The South, "Steel Workers In Second Sit-Down Strike," Mar 1937, 11</p><p>Birmingham Age-Herald: </p><p> "Scars and Stripes Forever," Nov 1936, 1
+ "Lucky Fellow?," Jan 1937, 11
+ "White Farmer Hangs for Murder of Negro," Jan 1937, 12</p><p>Birmingham, Ala.: </p><p> "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+ "We Can Stop It," Mar 1937, 15
+Build the New South: Alabama, Apr 1937, 2 
+ "Steel Victorious!" Apr 1937, 3
+News of the Month in the South, "Steel Workers Win Stove Strike," Apr 1937, 11
+News of the Month in the South, "Gin Co. Steel Workers Strike," Apr 1937, 11
+ "Rents Rising in the South," Apr 1937, 13
+"Farm Workers' Challenge," May 1937, 5
+News of the Month in the South, "Steel Drive Begun in Chattanooga," May 1937, 11  
+News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13
+News of the Month in the South, "Birmingham W.P.A. Workers Protest Cuts at Mass Meeting," May 1937, 13
+Untitled photo, Jul 1937, 6 
+"'Hell No' Was Workers Answer to Company Union," Jul 1937, 11</p><p>
+Birmingham Civic Auditorium: </p><p> News of the Month in the South, "Birmingham W.P.A. Workers Protest Cuts at Mass Meeting," May 1937, 13</p><p>Birmingham Civil Service Board: </p><p>News of the Month in the South, "Policeman Stapp Fired by Civil Service Board," May 1937, 13</p><p>Birmingham Electric Company: </p><p> "Try To Segregate Negroes In Buses," Nov 1936, 4</p><p>Birmingham Flag Company: </p><p> "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1</p><p>Birmingham Post: </p><p>
+Letter, "Negro Worker Murdered By Birmingham Police," Feb 1936, 7
+"What About Sit-Down Strikes?" Mar 1937, 5
+Birmingham News: </p><p>
+"Alabama Lynchers Don't Count The Dead," Jan 1936, 4
+Trade Union Topics, "White Legion Being Revived," Nov 1936, 2</p><p>Birmingham Stove and Range Company: </p><p>News Of The Month In The South, "Steel Workers In Second Sit-Down Strike," Mar 1937, 11
+News of the Month in the South, "Steel Workers Win Stove Strike," Apr 1937, 11
+News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>Birmingham Tank Company: </p><p> "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1</p><p>Birmingham Trades Council: </p><p>
+ "Farmers Condemn Bankhead and AAA," Jan 1936, 3	</p><p> "Trades Council Attacks Governor On Sales Tax," Feb 1936, 1</p><p>"Trade Union Topics," Feb 1936, 2</p><p>Black Belt: </p><p>
+"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>Black, Hugo: </p><p>Build the New South: Alabama, Apr 1937, 2
+Review of the Month, Apr 1937, 2 </p><p>Black Legion: </p><p>
+ "Browder Exposes Slander Against Communists in Speech at Virginia U," Sep 1936, 1</p><p>"Dread Death Planned By Black Klan," Sep 1936, 3
+Trade Union Topics, "White Legion Being Revived," Nov 1936, 2</p><p>Blackwell, Ark.: </p><p> "We Suit His Calibre," Jan 1937, 16 </p><p>Blagden, Willie Sue:</p><p>Photo, Jul 1937, 13
+ "Negro Union Leader Describes Beating," Jul 1937, 13</p><p>Bloor, Ella Reeve: </p><p>
+ "Mother Bloor Applauded in Tennessee," Sep 1936, 5</p><p>Blum, Leon: </p><p>Eyes On The World, Jan 1937, 15</p><p>Blytheville, Ark.: </p><p>"S.T.F.U. Appeals to LaFollette to Investigate Ark.," Jul 1937, 13</p><p>Boring, Rand: </p><p> Contributor, "Tenders of Low-Flaming Fires," Jul 1937, 15</p><p>Poems:</p><p>"Tenders of Low-Flaming Fires," Jul 1937, 15</p><p>Boyken, S.F.:</p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Bracey, Ed: </p><p>
+"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>"S.T.F.U. Meets In Arkansas," Jan 1936, 4 </p><p>Braddock, James: </p><p> "Winnah and New Champ," Jul 1937, 4</p><p>Bradley, E.R., Col.: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Bradley Lumber Company: </p><p>
+ "Court Denies Injunction," Sep 1936, 5</p><p>Brickman's Hall, Anniston, Ala.: </p><p> "Hosiery Drive Starts in South," Jan 1937, 8</p><p>Bridenthal, Kenneth: </p><p> "A Southern Worker Fights in Spain," with illustration, Sep 1937, 1 </p><p>Bridgeton, N.J.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Brooks, Homer: </p><p> Contributor, "C.I.O. Hits Oil," Jun 1937, 7</p><p>Brophy, John P.: </p><p> "Organize Textile!" Jan 1937, 8</p><p>Brotherhood of Sleeping Car Porters: </p><p> "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4</p><p>Broulette, John: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2 </p><p>Browder, Earl:  </p><p>
+ "Browder Exposes Slander Against Communists in Speech at Virginia U," Sep 1936, 1</p><p> "Browder Speaks At Virginia," Sep 1936, 6
+"Vote Communist," Nov 1936, 1
+Photo, thumbnail biography, Nov 1936, 3
+Photo caption, Nov 1936, 4
+ "The People Versus the Supreme Court," Apr 1937, 5 
+"1776-Jul 4-1937," Jul 1937, 3</p><p>"For A Progressive People's Movement," Sep 1937, 7</p><p>Brown, Cecil: </p><p>
+ "Mine Worker Hurt On Job," Jan 1936, 2</p><p>Brown, Clarence M.: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Brown, Eli: </p><p>News of the Month in the South,"C.I.O. Spirit Reaches Louisville," Apr 1937, 11</p><p>Brown, John: </p><p> "She Never Lost A Passenger," Jan 1937, 14</p><p>Brown, L.: </p><p> "Four Taken For Ride," Jan 1937, 15</p><p>Brown-Mars Building: </p><p> "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9</p><p>Brown Stove Works: </p><p> "Cleveland Foundries Closed by Strike," Jul 1937, 11</p><p>Brown, Warren: </p><p>"AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Brunswick, Va.: </p><p>
+Letter, "Fifty Cents A Day High Negro Wages In Brunswick, Va.," Jan 1936, 5 </p><p>Bryant, Jack: </p><p>
+"Organizer Framed for Murder," Sep 1936, 3</p><p>"Local Leader Railroaded to Chain Gang," Sep 1936, 1
+ "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936,  1</p><p>Bryant, J.J.: </p><p>"Court Frames Organizer; Gets 10 Years," Dec 1936, 16
+News of the Month in the South, "Mistrial In Homer Welch Case," Apr 1937, 11</p><p>Bryant, Lewis:
+ 
+ "White Farmer Hangs for Murder of Negro," Jan 1937, 12</p><p>Buenos Aires:</p><p> 	Eyes On The World, Jan 1937, 15 </p><p>Bunyan, John: </p><p> "The Baptists Have Fighting Traditions," Jan 1937, 15</p><p>Burger, S.: </p><p> "Four Taken For Ride," Jan 1937, 15</p><p>Bush, Art: </p><p> "Negro Free, 'Shot it Out' with Sheriff," Nov 1936, 4</p></odd></c><c id="aspace_ref8" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "C"</unittitle><container id="aspace_6b5602502b919455273fe798ed428991" label="Text" type="page">C</container></did><odd id="aspace_def0d072b3bc8f4f4d9243581e9cadd5"><head>General</head><p>Caddy, Sam: </p><p>
+News Of The Month In The South, "Miners to Organize Harlan County," Mar 1937, 11
+News of the Month in the South, "Spindletop Farm Strikers Civil Liberties Violated," May 1937, 13</p><p>Calhoun County, Ala.: </p><p> "Negro Free, 'Shot it Out' with Sheriff," Nov 1936, 4</p><p>Callaghan, Edward F.: </p><p>
+ "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14</p><p>Callahan, W. W.: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3</p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Calloway Coal Company: </p><p> "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2</p><p>Camden, N.J.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Camp Hill, Ala.: </p><p>
+ "Real Vote Denied Sharecroppers In Tallapoosa County," Jan 1936, 5
+"Too Old For Relief," Jan 1937, 16</p><p>Canada:</p><p> 	 Eyes On The World, Jan 1937, 15</p><p>Cannery Workers Union: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Carnegie Illinois Steel Company: </p><p> "Steel Victorious!" Apr 1937, 3</p><p>Carolinas District Communist Party: </p><p>Build the New South: Carolinas, Apr 1937, 2</p><p>Carpenter, Robert: </p><p>
+ "Atlanta Copies Birmingham Law," Sep 1936, 6</p><p>Carpenter's Union: </p><p>The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10  </p><p>Carr, P.B.: </p><p> "Evict Families in Talledega," Nov 1936, 1</p><p>Carr, R.B.: </p><p>
+ "Court Frames Organizer; Gets 10 Years," Dec 1936, 1
+News of the Month in the South, "Mistrial In Homer Welch Case," Apr 1937, 11</p><p>Castleman, James A.: </p><p>
+Caption to photo of WPA worker bloodied in labor conflict, Sep 1936, 2</p><p>Catchings, Helen Louise: </p><p> "Birmingham's Tom Mooney," With photo, Jul 1937, 6</p><p>Catchings, John: </p><p>
+Untitled photo, Jul 1937, 6
+ "Birmingham's Tom Mooney," Jul 1937, 6</p><p>Causey, Albert: </p><p>Photo caption, "Republic Steel Picket Buried in Ala. With Honors," Jul 1937, 6</p><p>Photo caption, Jul 1937, 11</p><p>Causey, Gladys:</p><p>
+"Republic Steel Picket Buried in Ala. With Honors," Photo, Jul 1937, 6</p><p>Photo, Jul 1937, 11</p><p>Cement Plant Workers Union: </p><p>`	"With the Trade Unions," Jan 1936, 2
+ 
+Center, Tex.: </p><p>"Before He Drowns," May 1937, 15</p><p>Chain gangs:</p><p>
+Photo caption, Jun 1937, 4</p><p>Chalmers, Rev. Allan Knight:</p><p>
+ "Scottsboro Defense Committee," Feb 1936, 6</p><p>Chamber of Commercial Credit: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Chapel Hill, N.C.: </p><p>
+"News In Brief," Feb 1936, 4
+News of the Month in the South,"N.C. Progressive Comm. To Defend Textile Workers," May 1937, 13</p><p>Chapman, John: </p><p> "Claims Second Labor Victim," Jan 1937, 8</p><p>Charleston, S.C.:  
+ "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4
+ "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+"The Only Road," Mar 1937, 15</p><p>Charlotte, N.C.: </p><p>
+ "Unemployed Misery Deepens In The South," Jan 1936, 1</p><p> Letter, "Relief Sewers Must Buy Coal," Feb 1936, 5 
+ "Case Effected By Scottsboro," Nov 1936, 4</p><p>Chase, C.P.:
+ 
+ "Sea Strike Spreads," Jan 1937, 7</p><p>Chattanooga Central Labor Union: </p><p>News of the Month in the South, "Dobbs Reelection Keeps Chattanooga C.L.U. Unified," May 1937, 12</p><p>Chattanooga Stamping and Channeling Co.: </p><p> "Hosiery Workers Hold 'On to Victory' Conference," Jul 1937, 12</p><p>Chattanooga, Tenn.: </p><p>
+ "Tennessee W.P.A. Workers Unionize," Jan 1936, 1 </p><p>"Hod Carriers Hold Big Rally at Chattanooga," Feb 1936, 4</p><p> "Militant Unionist Elected Head Chatta. Labor Body," Feb 1936, 6
+ 	"Southern Unions Protest C.I.O. Suspension," Sep 1936, 1</p><p>Caption to photo of WPA worker bloodied in labor conflict, Sep 1936, 2</p><p> "Chattanooga Labor Union Wins Contract. Pound Strike Ends With Union Victory," Sep 1936, 2
+"3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2</p><p>Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14
+"Unity In A.F. Of L.," Apr 1937, 2
+"Workers Succumb To Bad Air In Chatta," Apr 1937, 11
+News of the Month in the South, "Chattanooga C.L.U. Backs Textile Drive," Apr 1937, 15 </p><p>Membership blank, May 1937, 2
+ "It Won't Be Long," May 1937, 11 
+News of the Month in the South, "Steel Drive Begun in Chattanooga," May 1937, 13</p><p>Untitled photo, Jul 1937, 5
+News of the Month in the South, "Negro Youth Congress Extends Work Through South," Jul 1937, 5</p><p>Membership blank, Jun 1937, 2</p><p>Staff box, Jun 1937, 2</p><p>Fund raising letter, Jun 1937, 3
+ "Textile Forges Ahead," Jul 1937, 11
+Review of the Month, "Chattanooga Firm Signs with SWOC," Sep 1937, 3 </p><p>Chevrolet: </p><p> "1,500 Atlanta Auto Workers Strike," Jan 1937, 6</p><p>Chiang Kai-Shek: </p><p>
+Eyes On The World, Jan 1937, 15 </p><p>Chicago: </p><p>
+"Negro Congress To Fight Lynching," Feb 1936, 6</p><p>"Alabama's New Game," Feb 1936, 8
+ "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3</p><p>Chicago, Ill.:</p><p>
+The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>Chicago Bridge and Iron Co.: </p><p> "'Hell No Was Workers Answer to Company Union," Jul 1937, 11</p><p>Child labor: 
+ 
+"Save Our Children," May 1937, 7
+ 
+Children:</p><p>
+Photo, May 1937, 7</p><p>Chilton county, Ala.: </p><p>
+ "Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14</p><p>China: </p><p> 	 Eyes On The World, Jan 1937, 15
+International News, Apr 1937, 10
+Review of Month, Sep 1937, 4  </p><p>Christmas:</p><p>
+A Page For Southern Women," May 1937, 14</p><p>Churches:</p><p>
+The International Scene, Jul 1937, 10</p><p>Church of Christ: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Church League for Industrial Democracy: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Cincinnati, Ohio:</p><p>
+The American Scene, "Green &amp; Co. Map War Against C.I.O.," Jul 1937, 10</p><p>Citrus Workers Union:</p><p>
+ "The New Fruit Is Too Tough For The Bosses," Jul 1937, 15</p><p>Civil liberties:</p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>"Atlanta Copies Birmingham Law," Sep 1936, 6</p><p>Untitled photo, Jul 1937, 7</p><p>"Book Burners Defeated," Jul 1937, 7</p><p>
+Civil War: </p><p> "Herndon Defense Wins a Victory," Jan 1937, 6</p><p>Civilian Conservation Corps: </p><p>
+Letter, "Young Workers Treated Like Pigs in CCC Camps Where Military Routine Is Rule," Jan 1936, 5
+The American Scene, "Girls To Be Sent To CCC Camp," Jan 1937, 12</p><p>Clapp, George: </p><p> "Racketeers in Patriotism," May 1937, 6 </p><p>Clay, Homer: </p><p>News of the Month in the South, "Spindletop Farm Strikers Civil Liberties Violated," May 1937, 13</p><p>Cleveland, Ohio: </p><p> "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4</p><p>Cleveland, B.E.: </p><p> "Gadsden Workers Speed Organization Despite Attacks," Jul 1937, 13  </p><p>Cleveland, Tenn.: </p><p> "Cleveland Foundries Closed By Strike," Jul 1937, 11
+ Review of Month, Sep 1937, 3</p><p>Cleveland, Tex.: </p><p> "Save Our Children," May 1937, 7</p><p>Cline, Louise:</p><p>Contributor, "Got Jobs, But-" Apr 1937,15</p><p>
+Cobb, New: </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Coca-Cola: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Coleman, Fla.:  </p><p> "McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>Coleman, Jerry: </p><p>
+Contributor, Farm News, Sep 1936, 5
+Contributor, Cotton Row, Nov 1936, 5
+Contributor, "Land for the Landless," Mar 1937, 7
+ "What Communists Want in Farm Legislation," contributor, Sep. 1937, 10  
+ "Farm Workers' Challenge," contributor, May 1937, 5</p><p>Collective Security: 
+International News, Mar 1937, 10
+Columbia, S.C.: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Comer, Donald: </p><p>Review of Month, Sep 1937, 2</p><p>Commander Mills: </p><p>"They Didn't Know," May 1937, 15</p><p>Commission on Farm Tenancy: 
+ "Land for the Landless," Mar 1937, 7
+Committee for Industrial Organizations:</p><p>
+Caption, May 1937, 3
+Committee for Social Legislation:</p><p> News of the Month in the South, "N.C. Liberals For Progressive Laws," Apr 1937, 13  </p><p>Committee to Clarify the Constitution:</p><p> 	The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10</p><p>Common Laborers Union: </p><p> "3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2</p><p>Communist, The: </p><p>
+"Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p>Communist Party of Alabama: </p><p>Build the New South: Alabama, Apr 1937, 2
+ 	News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13  </p><p>Communist Party USA (Carolinas district): </p><p>Build the New South: Carolinas, Apr 1937, 2</p><p>Communist Party USA: </p><p>
+ "An Open Letter To The Followers Of Townsend In The South," Jan 1936, 1</p><p> "Turney Sends Greetings," Jan 1936, 2 </p><p>"Trade Union Topics," Feb 1936, 2</p><p> "Join The Communist Party!" Feb 1936, 8</p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>"Browder Exposes Slander Against Communists in Speech at Virginia U," Sep 1936, 1</p><p>"Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p> "For a Free Prosperous, Happy America: 1936 CP Election Platform," Sep 1936, 4
+"Vote Communist," Nov 1936, 1
+ "Vote This Emblem," Nov 1936, 3  
+"Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+ 	"Textile Gets Into Action," Jan 1937, 2
+ "Land for the Landless," Mar 1937, 7 	 
+ "Answer Carpetbaggers," Apr 1937, 2 
+ "Steel Victorious!," Apr 1937, 3 </p><p>Staff box, May 1937, 2</p><p>Membership blank, May 1937, 2</p><p>"May Day, 1937," May 1937, 2</p><p>Membership blank, Jun 1937, 2</p><p>Staff box, Jun 1937, 2</p><p>Photo caption, Jun 1937, 4</p><p>"Communist Party Is Legal," Jun 1937, 4</p><p>Staff box, Sep 1937, 2</p><p>Review of the Month, "As Reaction Gathers Its Forces," Sep 1937, 3</p><p>Building the New South, Sep 1937, 5</p><p>"For A Progressive People's Movement," Sep 1937, 7</p><p>"For A Memorial," Sep 1937, 15</p><p>Membership blank, Sep 1937, 13</p><p>"From A Southern Worker in Spain," Sep 1937, 13</p><p>"All Scottsboro Boys Are Innocent," Sep 1937, 12</p><p>"What Communists Want In Farm Legislation," Sep 1937, 10
+ "Carpet Baggers—New Style," Apr 1937, 7
+"All Scottsboro Boys Are Innocent," Sep 1937, 12</p><p>Comintern: See Communist International</p><p>Communist International:</p><p>
+The International Scene, Jul 1937, 10</p><p>Congress of Industrial Organizations: </p><p>"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>"Miners' Convention," Feb 1936, 8
+"Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1
+ "Labor Spies Activity Told," Nov 1936, 1
+ 	"CIO Tries to Secure Harmony with AF of L," Dec 1936, 15
+ "Prevent a Split in the AF of L," Jan 1937, 2 
+"AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+"AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+"Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+ "Organize Textile!" Jan 1937, 8
+ "Textile Gets Ready," Mar 1937, 3
+"Disarm Industry," Mar 1937, 6
+The American Scene, "Steel Workers to Present Demands By April 1," Mar 1937, 10
+The American Scene, "Auto Strike Just First Battle of Larger Struggle Says Lewis," Mar 1937, 10 
+ "Unity In A.F. Of L," Apr 1937, 2
+Build the New South: Alabama, Apr 1937, 2
+ "Steel Victorious! ," Apr 1937, 3
+. 	"Textile is Next," Apr 1937, 4
+ "Negro Youth Unite," Apr 1937, 6</p><p>The American Scene, "President Asks Wages Hours Law," Jul 1937, 10</p><p>The American Scene, "Green &amp; Co. Map War Against C.I.O.," Jul 1937, 10</p><p>Connecticut Coal and Crane Creek Mining Corp: </p><p>News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Continental Gin Company: </p><p>News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>Consumers Anti-Sales Tax Association of Alabama: </p><p>
+ "Trades Council Attacks Governor On Sales Tax," Feb 1936, 1
+ "Grid for Battle Against 3% Tax Graves Wants," Nov 1936, 4</p><p>Consumers Anti-Sales Tax League: </p><p>News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13  </p><p>Constitutional Education League:</p><p>Review of Month Sep 1937, 3</p><p>
+Cookeville, Tenn: </p><p> "Textile Organizers Beaten By Company Thugs," Jul 1937, 12</p><p>Corbitt, J.L.:</p><p>  	"Alabama Court Frees Sheriff Who Let Mob Take Negro." Jul 1937, 13</p><p>Cornell University: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Cost of living: </p><p>
+ "Fighting Ring Corner For Southern Women," Jan 1936, 3</p><p> "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14</p><p>Cotton:</p><p>
+Photo, May 1937, 7</p><p>Illustration, May 1937, 7</p><p>Coughlin, Charles Edward: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+Cotton Row, Nov 1936, 5</p><p>Covington, Ky.: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Cowherd, Yelverton:</p><p> "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+Review of Month, Sep 1937, 3</p><p>Crawford, W. H.: </p><p>
+Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," 
+Feb 1936, 2</p><p>Creech, Ted: </p><p> "Harlan Cracks Open," Jun 1937, 6</p><p>Criminal syndicalism: </p><p>The American Scene, "Washington Repeals Syndicalism Law," Apr 1937, 10</p><p>Crouch, Paul: </p><p>
+ "Unemployed Misery Deepens In The South," Jan 1936, 1
+Build the New South: Carolinas, Apr 1937, 2 
+ Contributor, "Textile is Next," Apr 1937, 4 
+Staff Box, Jun 1937, 2
+Staff box, Jul 1937, 2</p><p>Crouch, Ted:</p><p>
+Photo, "Harlan Cracks Open," Jun 1937, 6</p><p>Crusaders for Economic Liberty: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Cumberland, Ky: </p><p> "G-men Investigate Harlan Coal Operators," Jul 1937, 11</p><p>Cumberland, Md.: 
+ 	"Textile Gets Ready," Mar 1937, 3</p></odd></c><c id="aspace_ref10" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "D"</unittitle><container id="aspace_34555186f2e23682f5005ef20e61cb37" label="Text" type="page">D</container></did><odd id="aspace_ac1e91af5c1364637cc4faf301d8c9b9"><head>General</head><p>Dadeville, Ala.:</p><p>
+ Letter, "Sharecroppers Misery Worse Since Bankhead," Jan 1936, 5 
+News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Dahl, Lief:</p><p> 	 "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Daily Mail, London: </p><p>
+"London Calling," Feb 1936, 6</p><p>Daily Worker: </p><p>
+ "Watch For The Sunday Worker January 12," Jan 1936, 3</p><p>"Italy, Germany Support Rebels," Dec 1936, 15
+Build the New South: Carolinas, Apr 1937, 2</p><p>Dairies: </p><p>
+ "Health in Danger, Birmingham Told," Dec 1936, 13</p><p>Dallas County, Ala.: </p><p>"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>Dallas Manufacturing Company: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Dalton, Ga.: </p><p>
+ "Bedspread Tufters Join Union In Ga." Sep 1936, 6</p><p>Dalyrimple, S.H.: </p><p>
+"Steel Drive Moves Ahead in Alabama," Sep 1936, 1 </p><p>Daniels, Mo.: </p><p> "Bootjack," May 1937, 11
+News of the Month in the South, "Miss. Mob Tortures, Lynches Negroes," May 1937, 11</p><p>Dan Mills: </p><p> "Textile is Next," Apr 1937, 4</p><p>Danville, Va: </p><p>"Textile Gets Ready," Mar 1937, 3
+ "Textile is Next," Apr 1937, 4</p><p>Davis, Cliff: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Davis, George:</p><p>A Page for Southern Women, "UMW striker," Jun 1937, 8</p><p>Davis, James: </p><p> 	 "Stool pigeons exposed," Jul 1937, 15  </p><p>Davis, Jennie: </p><p>A Page for Southern Women, "Letter from Jennie Davis, wife of UMW striker," Jun 1937, 8</p><p>Davis, John P:</p><p>
+"Negro Congress To Fight Lynching," Feb 1936, 6
+"Photo of leaders of National Negro Congress," Apr 1937, 4</p><p>Davis, Virginia: </p><p>"Carpet Baggers—New Style," Apr 1937, 7
+ "Love and Tear Gas: A Short Story," Apr 1937, 8</p><p>DeBardeleben, Charles: </p><p>
+ "Mine Worker Hurt On Job," Jan 1936, 2</p><p>De Bardeleben Coal Corp: </p><p>News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Decatur, Ala.: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Degrelle, Leon: </p><p>The International Scene, May 1937, 10</p><p>DeJong, Dick: </p><p> "Communist Party Is Legal," Jun 1937, 4</p><p>Democratic Party: </p><p>
+ "An Open Letter To The Followers Of Townsend In The South," Jan 1936, 1</p><p>"A Farmer Labor Party For The South," Jan 1936, 6</p><p>"Miners' Convention," Feb 1936, 8</p><p>Dempsey, Jack: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Del Vayo, A.:  </p><p>The International Scene, Jul 1937, 10</p><p>Detroit, Mich.:</p><p>
+"Dread Death Planned By Black Klan," Sep 1936, 3
+Trade Union Topics, "White Legion Being Revived," Nov 1936, 2
+The American Scene, Jan 1937, 12</p><p>De Vanter, Willis:</p><p>
+The American Scene, "Supreme Court Tory Returns," Jul 1937, 10</p><p>Dibble, C.H.: </p><p>
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7</p><p>Dibble, Walter: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2 </p><p>Dimitroff, George:</p><p>
+The International Scene, Jul 1937, 10</p><p>Dixie Foundry:   </p><p> 	"Cleveland Foundries Closed by Strike," Jul 1937, 11</p><p>Dobbs, Joe G.: </p><p> "Chattanooga Labor Leaders Acquitted," Jan 1937, 10</p><p>"Hod Carriers Hold Big Rally at Chattanooga," Feb 1936, 4</p><p>"Negro Congress To Fight Lynching," Feb 1936, 6
+News of the Month in the South, "Chattanooga C.L.U. Backs Textile Drive," Apr 1937, 11
+News of the Month in the South, "Dobbs Reelection Keeps Chattanooga C.L.U. Unified," May 1937, 12
+ "Hosiery Workers Hold 'On to Victory' Conference," Jul 1937, 12</p><p>Domestic Work: 
+ "We Can Stop It," Mar 1937, 15
+Dorsey, Hugh M.: </p><p>
+ "United Front Wins Herndon Release," Jan 1936, 4</p><p>Dorsey, R.D.: </p><p>"Chattanooga Labor Leaders Acquitted," Jan 1937, 10</p><p>Douglass, Frederick: </p><p>"Negro Congress To Fight Lynching," Feb 1936, 6
+Photo caption, Jan 1937, 1</p><p>Downs Ordinance: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p> "Atlanta Copies Birmingham Law," Sep 1936, 6</p><p>DuBois, W.E. B.: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Du Pont: 
+ "Textile Gets Ready," Mar 1937, 3
+Dugan, Lawrence: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2 </p><p>Dulaney, Pete: </p><p> "Ore Miners Describe Discrimination By TCI," Jan 1937, 9</p><p>Duncan, A.L.: </p><p>"Racketeers in Patriotism," May 1937, 6</p><p>Duncan, Hattie: </p><p>
+"WPA Worker Framed On Attack Charge," Feb 1936, 6 </p><p>Dunn, Matthew: 
+ "Prevent Floods," Mar 1937, 2
+Durham, N.C.: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6
+Postscript from the Editor, Apr 1937, 15
+News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Dwyer, Lawrence: </p><p> "Harlan Cracks Open." Jun 1937, 6</p></odd></c><c id="aspace_ref12" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "E"</unittitle><container id="aspace_9ba81d971cc1b48948c1bdc6ea67a056" label="Text" type="page">E</container></did><odd id="aspace_63205671ed26414e39deb541a5dd7074"><head>General</head><p>E.T.B. and D: </p><p>
+"Trade Union Topics," Feb 1936, 2 </p><p>
+Earle, Ark: </p><p>
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7
+ "Convict Planter of Slavery," Jan 1937, 12
+ 	"Negro Union Leader Describes Beating." Jul 1937, 13</p><p>Edgar, Jack: 
+ 
+ 	"Birmingham's Tom Mooney," Jul 1937, 6</p><p>Editorial Cartoon: </p><p>
+ "T.C.I. Has Death Hold On Alabama," Feb 1936, 8</p><p>"In Dixie-Land," Sep 1936, 3
+ 	"Scars and Stripes Forever," Nov 1936, 1
+"Peonage in Arkansas," Nov 1936, 5
+ "The Ruling Class," Nov 1936, 7
+ 	"Carpet Baggers—New Style," Apr 1937, 7</p><p>Untitled, Jan 1937, 15</p><p>Sales tax, May 1937, 2</p><p>"A Baby Girl Went Out To Play …" May 1937, 8</p><p>"The court decreed …" May 1937, 8
+Schools, May 1937, 15</p><p>"Pass Your Copy," May 1937, 15</p><p>"He Don't Need Any Soda …" May 1937, 15</p><p>"We Must Depend On Ourselves," May 1937, 15
+ 	"Go To It Boys," Jun 1937, 5</p><p>"It Won't Be Long," Jun 1937, 8</p><p>"I Don't Allow That On My Place!" Jun 1937, 8</p><p>"The New Fruit Is Too Tough For The Bosses," Jul 1937, 15</p><p>"A.F. of L. Reactionary," Jul 1937, 16</p><p>Edgely, Charles D.: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4 </p><p>Edward, Joe: </p><p>"Stool pigeons exposed," Jul 1937, 15</p><p>Edward Waters Negro College: </p><p> 	"Florida Women Organize to Prevent Lynching," Jul, 1937, 13</p><p>Eight-hour day: </p><p>
+ "Praise for Veto," Sep 1936, 6</p><p>Elder, Cliff: </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Ellenbogen bill: 
+ "A People's Program," Mar 1937, 4
+Elizabethton, Tenn.: </p><p>
+Untitled photo, May 1937, 5
+ "Textile Town," May 1937, 5</p><p>Emerson, Harvey: </p><p>
+"Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p>England: </p><p>Eyes on the World, Dec 1936, 16</p><p>Eyes On The World, Jan 1937, 15</p><p>Ethiopia: </p><p>
+ "Ethiopia Drives Back Fascist Armies," Jan 1936, 1</p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7
+Build the New South: Alabama, Apr 1937, 2
+"International News" Apr 1937, 10</p><p>Evansville, Ind.: </p><p>
+ "Union Cooperation," Sep 1936, 3</p><p>Evarts, Ky.: 
+News Of The Month In The South, "Miners to Organize Harlan County," Mar 1937, 11
+Evins, Robert: </p><p> "Stool pigeons exposed," Jul 1937, 15 </p><p>Exposition Cotton Mills: </p><p> "Racketeers in Patriotism," May 1937, 6</p></odd></c><c id="aspace_ref13" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "F"</unittitle><container id="aspace_f35621a34afedb4277c61efe0c5987c6" label="Text" type="page">F</container></did><odd id="aspace_ea8c0468bac5bbf2787c96532c394b21"><head>General</head><p>F.E.R.A.: </p><p>"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>
+FLP: </p><p> "An Open Letter To The Followers Of Townsend In The South," Jan 1936, 1</p><p> "Why We Need A Labor Party In The South," Jan 1936, 2</p><p>"Miners' Convention," Feb 1936, 8</p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8
+Fairfield, Ala.: </p><p>
+ "Seeks Freedom For Framed-Up Youth," Jan 1936, 1</p><p>Letter, "Relief Workers Win Free Fare By Organization," Jan 1936, 5</p><p> Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>Farmer-Labor Party: </p><p>
+"A Farmer Labor Party For The South," Jan 1936, 6
+ "Vote Communist on Nov. 3: Election Issue is Fascism," Nov 1936, 1
+ "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+Cotton Row, Nov 1936, 5
+ 	 "1937—A New Year—A New Southern Worker," Jan 1937, 16
+ Build The New South, Mar 1937, 2
+ "Textile Gets Ready," Mar 1937, 3
+ "A People's Program," Mar 1937, 4
+ "Steel Victorious! ," Apr 1937, 3</p><p>Farmers Educational and Cooperative Union of America: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>Farmers Holiday Association: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p> "Farm Conference Demands Relief," Nov 1936, 5
+ 	"Land for the Landless," Apr 1937, 16</p><p>Farmers, Laborers and Cotton Field Workers:</p><p>
+Caption, May 1937, 4</p><p>Farmers Union: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2</p><p>"Union Organizer Beaten," Sep 1936, 3
+Cotton Row, Nov 1936, 5
+ "Farm Conference Demands Relief," Nov 1936, 5
+ 	 "1937—A New Year—A New Southern Worker," Jan 1937, 16
+News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13  
+News of the Month in the South, "Farmers 'Sit-Down' On High Fertilizer Price," May 1937, 13
+"Farmers of Tomorrow," May 1937, 15</p><p>Farm labor: </p><p>
+ "S.T.F.U. Meets In Arkansas," Jan 1936, 4</p><p>Letter, "Sharecroppers Misery Worse Since Bankhead," Jan 1936, 5 
+ "Build the Southern Worker," Mar 1937, 16
+ "Land for the Landless," Apr 1937, 16
+ "Farm Workers' Challenge," May 1937, 5</p><p>"Before He Drowns," May 1937, 15</p><p>"Farmers of Tomorrow," May 1937, 15
+"What Communists Want In Farm Legislation," Sep 1937, 10
+ 	News of the Month in the South, "Union Introduces Sharecrop Contract," May 1937, 13
+ 	News of the Month in the South, "Farmers 'Sit-Down' On High Fertilizer Price," May 1937, 13
+News of the Month in the South, "Texas Farm Workers Organize Fast," May 1937, 13 
+ 	"An Immediate Task," Jun 1937, 2
+"Farmers Need Wagner Act," Jun 1937, 8
+"As the Oranges Grow," Jul 1937, 15
+ "Sheriff Threatens Forced Labor for Georgia Unemployed," Jul 1937, 12
+ "Negro Union Leader Describes Beating," Jul 1937, 13
+ "What Communists Want in Farm Legislation," Sep. 1937, 10 </p><p>Farm Mortgage Refinancing Bill:  </p><p>Cotton Row, Nov 1936, 5</p><p>Farrington, E.N.: </p><p>
+ "Real Vote Denied Sharecroppers In Tallapoosa County," Jan 1936, 5</p><p>Farriss, Robert P.: </p><p>
+"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2 </p><p>Fascism:</p><p>
+"Southern Women Salute Herndon," May 1937, 14</p><p>Federal Farm Credit Administration: 
+ "Land for the Landless," Mar 1937, 7
+Federal Labor Union:</p><p> 	 "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Fellows, Tom: </p><p>A Page for Southern Women, "UMW striker," Jun 1937, 8</p><p>Fellowship Forum, The: </p><p> 	"Racketeers in Patriotism," May 1937, 6</p><p>Fentress county, Tenn.: </p><p> "Union Miners Attacked in Fentress Co., Tenn.," Jul 1937, 12</p><p>Fire departments:</p><p>
+ "News In Brief," Feb 1936, 4</p><p>Fire Fighters International Association: </p><p> "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937,</p><p>Fisher Body: </p><p>1,500 Atlanta Auto Workers Strike," Jan 1937, 6 </p><p>Fisk University: </p><p>Photo caption, James W. Ford attended, Nov 1936, 3</p><p>Fleger, F.E.: </p><p> "Racketeers In Patriotism." May 1937, 6</p><p>Flint, Mich.: 
+ "What About Sit-Down Strikes?" Mar 1937, 5
+Floyd, William: </p><p> "McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>Florida Federation of Labor: </p><p>News of the Month in the South, "Fla. Federation Starts Organizing Citrus Workers," May 1937, 13</p><p>Ford, James W.: </p><p> "Vote Communist," Nov 1936, 1
+Photo, thumbnail biography, Nov 1936, 3
+ "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>Forest City, Ark.:</p><p> 	"S.T.F.U. Appeals to LaFollette to Investigate Ark," Jul 1937, 13</p><p>Foster, Willie: </p><p>
+"S.T.F.U. Meets In Arkansas," Jan 1936, 4 </p><p>Fowle, Rev. Dr. James L.: </p><p>
+ "Tennessee W.P.A. Workers Unionize," Jan 1936, 1</p><p>France: </p><p>
+"Italy, Germany Support Rebels," Dec 1936, 15
+ Eyes on the World, Dec 1936, 16 
+"Tide of Battle Turns in Spain," Jan 1937, 14
+Eyes On The World, Jan 1937, 15</p><p>Franco, Francisco: </p><p>
+"Italy, Germany Support Rebels," Dec 1936, 15
+ "Defend Democracy," Jan 1937, 2</p><p> Eyes On The World, Jan 1937, 15
+ "Tide of Battle Turns in Spain," Jan 1937, 14</p><p>The International Scene, Jul 1937, 10</p><p>Frank, Richard: </p><p> "The Baptists Have Fighting Traditions," Jan 1937, 15</p><p>Frankfort, Ky.: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Franklin Coal Mining: </p><p>News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Frazier Farm Mortgage Refinancing Bill: 
+ "Land for the Landless," Mar 1937, 7
+Frazier-Lemke Bill: </p><p>
+Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p> "Workers Social Insurance Act," Feb 1936, 2</p><p>"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>Frazier-Lundren Workers Social Insurance Act: </p><p>
+"News In Brief," Feb 1936, 4</p><p>"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>Frazier, W. J.: </p><p> "Hosiery Drive Starts in South," Jan 1937, 8</p><p>Freehold, N. J.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Freeman, Va.: </p><p>
+ Letter, "Fifty Cents A Day High Negro Wages In Brunswick, Va." Jan 1936, 5</p><p>French, Larry:</p><p> 	"Answer Carpetbaggers," Apr 1937, 2
+ "Harlan Cracks Open," Jun 1937, 6
+"Land of Builders," S 1937, 14</p><p>Frey, John P.: </p><p>
+"AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4</p><p>Frick, Ford: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Ft. Collins, Colo.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Furriers Union: </p><p>
+ "Trade Unions Help Spain," Sep 1936, 2</p></odd></c><c id="aspace_ref14" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "G"</unittitle><container id="aspace_408bab6a4e3fcbd1c9be7b8b689b9301" label="Text" type="page">G</container></did><odd id="aspace_ec5c792981ccf6679e1fd1802088f002"><head>General</head><p>Gadsden, Ala.: </p><p>
+"Steel Drive Moves Ahead in Alabama," Sep 1936, 1
+ "Probe Terror in Gadsden," Nov 1936, 3
+ "They Must Be Stopped," Jan 1937, 2
+ "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+"Women's Place In CIO Drive," Jan 1937, 13</p><p>Photo caption, Jul 1937, 11
+ "Gadsden Workers Speed Organization Despite Attacks," Jul 1937, 13</p><p>Gallacher, William: </p><p>
+Eyes On The World, Jan 1937, 15</p><p>Garcia, Henry: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Gary, Ind.: </p><p>Mentioned in photo caption Apr 1937, 4</p><p>Gastonia, N.C.: </p><p>
+"Gastonia Leader Scorns Hearst," Feb 1936, 4</p><p>Gauley Ridge, W. Va.: </p><p>
+ "Silicosis Victim Dies," Sep 1936, 6</p><p>Gavagan Anti-Lynching Bill: </p><p>The National Scene, May 1937, 10
+News of the Month in the South, "Miss. Mob Tortures, Lynches Negroes," May 1937, 11</p><p>Gelders, Joseph L.: </p><p> "Symbol of Reaction," Nov 1936, 1
+ "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1
+Photo of hospitalized Gelders, Nov 1936, 7</p><p> "Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14
+ "They Must Be Stopped," Jan 1937, 2
+ "Disarm Industry," Mar 1937, 2 
+"Disarm Industry," Mar 1937, 6 
+News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3
+ "Birmingham's Tom Mooney," Jul 1937, 6</p><p>General Motors: 
+ "Auto Strikers Win," Mar 1937, 2
+"What About Sit-Down Strikes?" Mar 1937, 5</p><p>Georgia Federation of Labor: </p><p>
+Caption, May 1937, 3
+News of the Month in the South, "Georgia Federation Defeats Splitting Tactics," May 1937, 12</p><p>Germany: </p><p>"With the Trade Unions," Jan 1936, 2</p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7
+Eyes on the World, Dec 1936, 16
+"Tide of Battle Turns in Spain," Jan 1937, 14</p><p>Gibson, Josh: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Giles, Henry: </p><p>Contributor, "Before He Drowns," May 1937, 15 </p><p>Girdler, Tom: </p><p>Review of Month, Sep 1937, 2 
+Building the New South, 5</p><p>Glenn, P.F.:</p><p> 	"Racketeers in Patriotism," May 1937, 6</p><p>Goad, G.J.:  </p><p> 	"Union Miners Attacked in Fentress Co., Tenn," Jul 1937, 12</p><p>Goldberger, H.I.: </p><p>
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7 </p><p>Golden, Clinton A: </p><p> "Labor Spies Activity Told," Nov 1936, 1</p><p>Gommert, Albert: </p><p> 	"Green's Henchmen Get Busy in Knoxville," Jul 1937, 12</p><p>Goodwin, Gardner: </p><p>
+"Union Worker Wins Freedom In Frame-Up," Feb 1936, 7 </p><p>"Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p>Goodyear Tire and Rubber Company: </p><p>
+"Steel Drive Moves Ahead in Alabama," Sep 1936, 1
+ "Probe Terror in Gadsden," Nov 1936, 3</p><p>Googe, George: </p><p>News of the Month in the South, "Georgia Federation Defeats Splitting Tactics," May 1937, 12
+News of the Month in the South, "Georgia Federation Defeats Splitting Tacticsm," May 1937, 12   
+ "C.I.O. Fights for Unity," Jun 1937, 5</p><p>Gorman, Francis J.: </p><p> "Textile Gets Ready," Mar 1937, 3
+ "Textile is Next," Apr 1937, 4
+SW advertisement, May 1937, 16  </p><p>Great Britain: </p><p>
+"Italy, Germany Support Rebels," Dec 1936, 15</p><p>The International Scene, Jul 1937, 10</p><p>Graves, Bibb:</p><p>
+"Trades Council Attacks Governor On Sales Tax," Feb 1936, 1</p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3</p><p>"Alabama's New Game," Feb 1936, 8 </p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>"Organizer Framed for Murder," Sep 1936, 3
+ "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1
+ "Evict Families in Talledega," Nov 1936, 1
+ "Grid for Battle Against 3% Tax Graves Wants," Nov 1936, 4
+  "They Must Be Stopped," Jan 1937, 2
+ "Sales Tax Passed In Alabama," Jan 1937, 7
+"Ore Miners Describe Discrimination By TCI," Jan 1937, 9
+News Of The Month In The South, "T.C.I. Ore Miners Talk Strike Against Stretchout," Mar 1937, 11
+ News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13  </p><p>Graves, John Temple: </p><p> "C.I.O. Fights for Unity," Jun 1937, 5</p><p>Gray, Carl R.: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Green, John: </p><p>"C.I.O. Comes to Mobile," Jun 1937, 8</p><p>Green, William: </p><p>
+"With the Trade Unions," Jan 1936, 2</p><p>"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>"Miners' Convention," Feb 1936, 8
+ "CIO Tries to Secure Harmony with AF of L," Dec 1936, 15	
+"Prevent a Split in the AF of L," Jan 1937, 2</p><p>The American Scene, Jan 1937, 12 </p><p>Photo, May 1937, 12
+ "Signing Up Already," Mar 1937, 15
+ "Unity In A.F. Of L," Apr 1937, 2
+News of the Month in the South, "Georgia Federation Defeats Splitting Tactics," May 1937, 2
+Photo, "Labor Faker,"
+ 	"C.I.O. Fights for Unity," Jun 1937, 5
+ 	"Textile Forges Ahead," Jul 1937, 5</p><p>The American Scene, "Green &amp; Co. Map War Against C.I.O.," Jul 1937, 10</p><p>Greensboro, N.C.: </p><p>
+"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3
+ 	"Gastonia Leader Scorns Hearst," Feb 1936, 4</p><p>Letter, "Foremen Abuse Negroes on WPA," Feb 1936, 5</p><p>Letter, "Overall Factory Starves Workers," Feb 1936, 4
+Build the New South: Carolinas Apr 1937, 2
+ News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Greenville, S.C.: 
+ "Textile Gets Ready," Mar 1937, 3
+Gregson, Harry O.: </p><p>  "Book Burners Defeated," Jul 1937, 7</p><p>Guffey Act: </p><p>
+"Impeach Those Judges Who Usurp People's Rights," Feb 1936, 1</p><p> "A People's Program," Mar 1937, 4
+Gulf States Steel: </p><p>News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Photo caption, Jul 1937, 11</p></odd></c><c id="aspace_ref15" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "H"</unittitle><container id="aspace_08080bf05ef1afcc30dc54d00f8f68b8" label="Text" type="page">H</container></did><odd id="aspace_844fc4fac10de46af8f0fda5d13f556e"><head>General</head><p>Haggerty, John J.:</p><p>
+Untitled photo, Jul 1937, 7</p><p>Haleyville, Ala.: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>Hall, Edward: </p><p> "McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>Hall, R.F.:</p><p>Contributor, "Ghost of Murdered Workers Haunts Steel Bosses' Feast," Nov 1936, 6
+Contributor, "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4 
+Contributor, "What About Sit-Down Strikes?" Mar 1937, 5
+Build the New South: Alabama. Apr 1937, 2	
+Staff Box, May 1937, 3
+ Contributor, "Since Appomattox," May 1937, 4
+ Staff Box, Jun 1937, 2
+ "C.I.O. Fights for Unity," Jun 1937, 5
+Staff box, Jul 1937, 2
+Staff box, Sep 1937, 2 
+Building the New South, Sep 1937, 6</p><p>Hancock, Lem.: </p><p>
+ "Cops Arrested For Murder Of Negro," Jan 1936, 2</p><p>Hall, William E.:  </p><p>Photo, Apr 1937, 4</p><p>Handy, Charles: 
+ News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11
+Hanna, Walter J.: 
+ "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1
+ "Disarm Industry," Mar 1937, 6
+Hardwick Stove Company: </p><p> "Cleveland Foundries Closed by Strike," Jul 1937, 11</p><p>Hare, W.O.: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>Harlan County Coal Operators Association: </p><p> 	 "Harlan Cracks Open," Jun 1937, 6</p><p>Harlan county, Ky.: </p><p>
+ "Minor Opens Campaign in Kentucky," Sep 1936, 3
+News Of The Month In The South, "Miners to Organize Harlan County," Mar 1937, 11 
+ "Harlan Cracks Open," Jun 1937, 6
+ "G-men Investigate Harlan Coal Operators," Jul 1937, 11</p><p>Harris, Herbert:  </p><p>Review of Month, Sep 1937, 3</p><p>Harris, Lem: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4 </p><p>Hawks, Ellie: </p><p> "Four Taken For Ride," Jan 1937, 15</p><p>Hayes, Joe C.:</p><p>
+"Organizer Framed for Murder," Sep 1936, 3
+ "Samoset Mill Claims Second Labor Victim," Jan 1937, 8</p><p>News of the Month in the South, "Mistrial In Homer Welch Case," Apr 1937, 11</p><p>Hearst newspapers: </p><p> "Vote Communist," Nov 1936, 1
+ "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>Henderson, David: </p><p>"AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Hendrix, K.Y.: </p><p>
+"Gastonia Leader Scorns Hearst," Feb 1936, 4</p><p>Henry county, Ala.: </p><p> 	"Alabama Court Frees Sheriff Who Let Mob Take Negro," Jul, 1937, 13</p><p>Herndon, Angelo:</p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p> "United Front Wins Herndon Release," Jan 1936, 4
+ "Herndon Defense Wins a Victory," Jan 1937, 6</p><p>Photo, May 1937, 2</p><p>A Page for Southern Women May 1937, 14
+ 	"Communist Party Is Legal," Jun 1937, 4</p><p>Photo, Jun 1937, 4</p><p>Hick, Pat: </p><p> "Negro Free, 'Shot it Out' with Sheriff," Nov 1936, 4</p><p>Hicks, James R., Jr.: </p><p> "Sheriff Threatens Forced Labor for Georgia Unemployed," Jul 1937, 12</p><p>Hight, G.A.: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Hill Creek Coal Company: </p><p>News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Hillman, Sidney:
+ 
+ 	"Textile is Next," Apr 1937, 4</p><p>Photo, May 1937, 11
+News of the Month in the South. Photo. May 1937, 11
+ "C.I.O. Fights for Unity," Jun 1937, 5
+ 	"Build the C.I.O. To Abolish Southern Wage Differential," Jul 1937, 2
+ 	"Textile Forges Ahead," Jul 1937, 5</p><p>Hitler, Adolf: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p> "Spiking A Lie!" Sep 1936, 5
+Cotton Row, Nov 1936, 5</p><p>Eyes on the World, Dec 1936, 16</p><p> "Court Frames Organizer; Gets 10 Years," Dec 1936, 16
+ "Defend Madrid; Need Munitions; Appeal for Aid," Nov 1936, 7
+"Defend Democracy," Jan 1937, 2</p><p>  "Tide of Battle Turns in Spain," Jan 1937, 14
+Eyes On The World, Jan 1937, 15
+International News, Mar 1937, 10
+Hoboken, N.Y.: </p><p>
+ "Tot Dies From Hunger," Sep 1936, 5</p><p>Hod Carriers Union: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>"Hod Carriers Hold Big Rally at Chattanooga," Feb 1936, 4
+ "3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2</p><p>Hoffman, Claire:  </p><p>Review of Month, Sep 1937, 3</p><p>Holiday Farm Tenancy Bill: </p><p> 	"Land for the Landless," Apr 1937, 16</p><p>Holland, Jerome: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Hollums, Luther:
+ 
+News of the Month in the South, "Policeman Stapp Fired by Civil Service Board," May 1937, 13</p><p>Holmes, Rev. John Hayes: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Homer, Harris: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Homer, Henry: </p><p>The American Scene, "Governors Protest W.P.A. Cuts." Apr 1937, 10</p><p>Hopkins, Harry L.: 
+ "More Jobless," Mar 1937, 6
+Housing:</p><p>
+"In Dixie-Land," Sep 1936, 3
+"Rents Rising in the South," Apr 1937, 13
+Untitled photo, May 1937, 5</p><p>Houston, Tex.: </p><p>News of the Month in the South, "Oil Workers Follow Example of Steel," May 1937, 11</p><p>Howard University:</p><p> "Negro Youth Unite," Apr 1937, 6</p><p>Howe, L. J.: </p><p> "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2</p><p>Howell, Rev. James W.: </p><p>
+"News In Brief," Feb 1936, 4 </p><p>Hungary: </p><p>
+"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>Huntsville, Ala.: </p><p>
+ "Women's Place In CIO Drive," Jan 1937, 13
+ 	"Textile Forges Ahead," Jul 1937, 5
+ 	"Huntsville Central Labor Body Joins Congress of Industrial 
+Organizations," Jul 1937, 12</p><p>Hutcheson, William: </p><p>The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10</p><p>Hutchinson, Anne: </p><p> "The Baptists Have Fighting Traditions," Jan 1937, 15</p><p>Hurley, Charles F.: </p><p>The American Scene, "Governors Protest W.P.A. Cuts" Apr 1937, 10 </p></odd></c><c id="aspace_ref16" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "I"</unittitle><container id="aspace_9b83e33e2e3c296010bca8b1101381ca" label="Text" type="page">I</container></did><odd id="aspace_26f0758eaf7e3d1c45867be96eced3d7"><head>General</head><p>Ingram, Troy: </p><p>
+"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>International Labor Defense:</p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>"Union Worker Wins Freedom In Frame-Up," Feb 1936, 7</p><p>International Ladies' Garment Workers Union: </p><p>
+ "Trade Unions Help Spain," Sep 1936, 2</p><p>ILA—see International Longshoremen's Association.</p><p>ILD:--See International Labor Defense</p><p>ILGWU—See International Ladies' Garment Workers Union</p><p>Illustration: </p><p> 	"Vote This Emblem," Nov 1936, 3 </p><p>Wagner, Robert F., Jun 1937, 2</p><p>"Flea Circus," Jun 1937, 1</p><p>Reading, Jun 1937, 8</p><p>Lewis, John L., May 1937, 1</p><p>Letter from the National Republic, May 1937, 6</p><p>Cotton, May 1937, 7</p><p>"Honest Trade Unionists," May 1937, 16</p><p>"Death of Crispus Attucks," Jul 1937, 4
+Untitled, laundry work, Jul 1937, 14 
+"Ghost of Murdered Workers Haunts Steel Bosses' Feast," Nov 1936, 6</p><p>"Earl Browder," Sep 1937, 7</p><p>
+Incentives to industry: </p><p>Trade Union Topics, "Fear Greeks Bringing Gifts," Nov 1936, 2</p><p>Industrial Defense Foundation, The: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Industrial Union of Marine and Shipbuilding Workers of America: 
+"Signing Up Already," Mar 1937, 15
+Industrial Worker, The: </p><p> "Textile Forges Ahead," Jul 1937, 5</p><p>Industrial Workers of the World: </p><p>Inland Republic Steel Corp.:</p><p>
+The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>
+International Hod Carriers and Common: </p><p>
+"Tennessee W.P.A. Workers Unionize," Jan 1936, 1</p><p>International Labor Defense: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p> "United Front Wins Herndon Release," Jan 1936, 4</p><p>"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>"Dread Death Planned By Black Klan," Sep 1936, 3</p><p> "I.L.D. Fights Extradition of Georgia Negro," Sep 1936, 3
+"AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+ "Herndon Defense Wins a Victory," Jan 1937, 6
+News of the Month in the South, "Bessemer Literature Law Appealed to Supreme Court," May 1937, 13
+ 	"Communist Party Is Legal," Jun 1937, 4</p><p>International Ladies Garment Workers Union: </p><p> "An Immediate Task," Jun 1937, 2</p><p>International Longshoreman's Association: </p><p>
+ "Mobile ILA Wins Fight For Union," Jan 1936, 2
+"The Only Road," Mar 1937, 15
+International Mine, Mill and Smelter Workers: 
+News Of The Month In The South, "T.C.I. Ore Miners Talk Strike Against Stretchout," Mar 1937, 11
+International Organization of Masters, Mates and Pilots: 
+The American Scene, "Maritime Workers Win Most Demands in Strike," Mar 1937, 10</p><p>International Seamen's Union: </p><p> "Sea Strike Spreads," Jan 1937, 7</p><p>Irby, W.C.: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+Cotton Row, Nov 1936, 5</p><p>Irondale, Ala: </p><p>
+"WPA Worker Framed On Attack Charge," Feb 1936, 6</p><p>Italy: </p><p>
+"With the Trade Unions," Jan 1936, 2</p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7
+International News, Apr 1937, 10</p><p>The International Scene, Jul 1937, 10</p><p>IWW:
+—See Industrial Workers of the World.</p></odd></c><c id="aspace_ref17" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "J"</unittitle><container id="aspace_bb86aa825320fa2527a7b422dbb8b444" label="Text" type="page">J</container></did><odd id="aspace_952af192fc22d5cc9202e0dfaa957fac"><head>General</head><p>Jackson, Andrew: </p><p> "The People Versus the Supreme Court," Apr 1937, 5</p><p>Jackson, Clifford: </p><p>"Sheriff Threatens Forced Labor for Georgia Unemployed," Jul 1937, 12</p><p>Jackson, George B.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Jacksonville, Fla.: </p><p>"Florida Women Organize to Prevent Lynching," Jul 1937, 13
+ "As the Oranges Grow,"  Jul 1937, 15</p><p>James, Cliff: </p><p> "Share Cropper Faces Prison," Apr 1937, 6</p><p>Jamestown, Tenn.: </p><p> "Union Miners Attacked in Fentress Co., Tenn," Jul 1937, 12</p><p>Japan: </p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>Eyes on the World, Dec 1936, 16</p><p>Jasper, Ala.: </p><p>
+ "Bankhead Miners Win Union Wage," Jan 1936, 4
+ "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2
+ "Sales Tax Passed In Alabama," Jan 1937, 7
+"Jasper Central Body Backs Painters," Jan 1937, 10</p><p>Jefferson county, Ala.: </p><p>
+"News In Brief," Jan 1936, 3</p><p>"Organizer Framed for Murder," Sep 1936, 3
+ "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4</p><p>"Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14
+"Jasper Central Body Backs Painters," Jan 1937, 10
+ "Disarm Industry," Mar 1937, 6
+Jefferson, Bernard: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Jefferson County: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>"London Calling," Feb 1936, 6</p><p>Jefferson, Thomas: </p><p> 	"The People Versus the Supreme Court," Apr 1937, 5</p><p>Jim Crow: </p><p>
+"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>Letter, "Relief Sewers Must Buy Coal," Feb 1936, 5</p><p>"Workers Leader Victim Memphis Police Terror," Feb 1936, 6</p><p>"Miners' Convention," Feb 1936, 8</p><p>"Answer Carpetbaggers," Apr 1937, 2</p><p>"School's Our Right," Jul 1937, 15</p><p>Untitled editorial cartoon, Jul 1937, 15</p><p>
+Johnson, Albert:  </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>Johnson, Clyde L.: </p><p> "Farm Conference Demands Relief," Nov 1936, 5</p><p>Johnson, Henry: </p><p>Photo of leaders of National Negro Congress. Apr 1937, 4</p><p>
+Johnson, James Weldon: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Johnson, Joe Binner: </p><p>"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>"S.T.F.U. Meets In Arkansas," Jan 1936, 4 </p><p>Johnson, L.C.: </p><p>
+"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3 </p><p>Johnson, M.: </p><p> "It Won't Be Long," Apr 1937, 15</p><p>Johnson, Tom: </p><p>Contributor, Ad for "Reds in Dixie," Dec 1936, 16</p><p>Johnson, Wes: </p><p> "Pass Anti-Lynch Bill," Jul 1937, 2
+ "Alabama Court Frees Sheriff Who Let Mob Take Negro," 13</p><p>Jones and Laughlin: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>Jones, Robert: </p><p>"Stool pigeons exposed," Jul 1937, 15 </p><p>Jones, Van: </p><p> "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4</p><p>Jones, Walter:</p><p>
+ "Negro Congress To Fight Lynching," Feb 1936, 6 </p><p>Jury exclusion: </p><p> "Find New Method For Discrimination," Nov 1936, 4
+ "Case Effected By Scottsboro," Nov 1936, 4</p></odd></c><c id="aspace_ref18" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "K"</unittitle><container id="aspace_46c1d7645c83aa1a589d2ddccc68278e" label="Text" type="page">K</container></did><odd id="aspace_4d34400ff915154143311a4e07432f72"><head>General</head><p>Kellum, Tillman:  </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>Kennedy, Thomas: </p><p> "Textile is Next," Apr 1937, 4</p><p>King, Huey: </p><p>Trade Union Topics, "White Legion Being Revived," Nov 1936, 2</p><p>King, Mrs. Jere: </p><p> "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p>Kings Mountain, N.C.:  </p><p>News of the Month in the South, "Youth Leadership Seminar to be Held in August," May 1937, 13</p><p>Knabb, William: </p><p> "McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>Knoxville, Tenn.: </p><p> "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4
+"Religion," Jul 1937, 13</p><p>Kroger Grocery Stores: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Ku Klux Klan: </p><p>
+ "Tampa Witness Thought Slain," Feb 1936, 2</p><p> "The Klan Rides," Feb 1936, 4</p><p>"Alabama's New Game," Feb 1936, 8</p><p> "Browder Exposes Slander Against Communists in Speech at Virginia U," Sep 1936, 1
+ "Communist Party Is Legal," Jun 1937, 4</p></odd></c><c id="aspace_ref19" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "L"</unittitle><container id="aspace_8876fd36066c0a10c73ebf2cf7bb0603" label="Text" type="page">L</container></did><odd id="aspace_3d1d9e234d8afa701090acd312b523f0"><head>General</head><p>Labor Advocate:  </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>Labor Research Association: </p><p> "Vote Communist on Nov. 3: Election Issue is Fascism," Nov 1936, 1</p><p>Labor and Religion Foundation: </p><p> "Religion," Jul, 1937, 13</p><p>
+Labor's Non-Partisan League: </p><p>
+ "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14
+The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10
+"A People's Program," Mar 1937, 4
+The National Scene May 1937, 10
+ "An Immediate Task," Jun 1937, 2
+ "Southern Workers Happier Days For," Jun 1937, 2
+Review of Month   Sep 1937, 3</p><p>Labor Party: </p><p>
+Title Illegible, Jan 1936, 6</p><p>Labor and Socialist International:</p><p>
+The International Scene, Jul 1937, 10</p><p>Lacy, Reverend Graham: </p><p> "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p>Lafayette, Ala.: </p><p>
+ "Ala. Steer Farmer Framed For Theft Of His Own Cotton," Jan 1936, 5
+ 	"Winnah and New Champ," Jul 1937, 4</p><p>La Fitte, Annie: </p><p> 	"Chattanooga Labor Leaders Acquitted," Jan 1937, 10 </p><p>La Follette Civil: 
+ "'Disarm Industry," Mar 1937, 2
+La Follette Committee: </p><p> "Labor Spies Activity Told," Nov 1936, 1</p><p>La Follette Civil Liberties Committee:</p><p> "Probe Terror in Gadsden," Nov 1936, 3
+"Disarm Industry," Mar 1937, 6
+ 	"Steel Victorious!," Apr 1937, 3
+News of the Month in the South," Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>La Follette, Robert, Senator: </p><p>
+Photo, May 1937, 13
+Photo, News of the Month in the South, May 1937, 13</p><p>La Follette, Tenn.: </p><p>News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11 </p><p>Lakeland, Fla.: </p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>Lambert, Geo:
+ 
+Review of Month Sep 1937, 3</p><p>Landon, Alfred M.: </p><p> "Symbol of Reaction," Nov 1936, 1
+  "Vote Communist," Nov 1936, 1 
+"Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+"More Jobless," Mar 1937, 6 
+ 	"The People Versus the Supreme Court," Apr 1937, 5
+The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10</p><p>Langil Feneil plant, Anniston, Ala.: </p><p> "Hosiery Drive Starts in South," Jan 1937, 8</p><p>Lauderdale, Ga.:</p><p>
+Caption, May 1937, 7</p><p>Laurel, Miss.: </p><p> "Arrest Planter for Kidnapping," Nov 1935, 5
+`Review of Month Sep 1937, 3</p><p>Law and Order Committee:</p><p>Review of Month, Sep 1937, 2
+Lawrence, Howard: </p><p>
+ "The Red Scare And Industrial Unionism In The A.F. Of L.," Jan 1936, 2</p><p>Lawrence, Ray: </p><p> 	"Southern Typo Unions Assail A.F. of L. Splitting Policy," Jul 1937, 12  </p><p>Lawson, Elizabeth: </p><p>
+Contributor, "Diet, Not Climate, Responsible for Disease Says Southern Writer," Sep 1936, 5
+ Contributor, "Diseases in South Result of Low Living Standard," Nov 1936, 7
+Contributor, "She Never Lost A Passenger," Jan 1937, 14</p><p>Lead poisoning: </p><p>
+ "Tot Dies From Hunger," Sep 1936, 5</p><p>League for Industrial Democracy: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3</p><p>"Scottsboro Defense Committee," Feb 1936, 6</p><p>League for Progressive Democracy:</p><p>Review of Month Sep 1937, 3</p><p>
+League of Nations:</p><p>
+"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>The International Scene, Jul 1937, 10</p><p>Leavenworth penitentiary: </p><p>Photo caption, Nov 1936, 3</p><p>Leche, Richard W.: </p><p>
+ "Praise for Veto," Sep 1936, 6
+News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13</p><p>Lee, Alto V.: </p><p> "Probe Terror in Gadsden," Nov 1936, 3</p><p>Lee, Ella: </p><p>
+ Contributor, "Fighting Ring Corner For Southern Women," Jan 1936, 3</p><p> "Woman's Corner," Feb 1936, 5</p><p>Lee, Tom: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Lehman, Herbert H.: </p><p>The American Scene, "Governors Protest W.P.A. Cuts," Apr 1937, 10</p><p>Leibowitz, Samuel. S.: </p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Contributor, Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3 </p><p>Lemay, E.D.: </p><p> "Labor Spies Activity Told," Nov 1936, 1</p><p>Lemke, William: </p><p> "Audience Gives Lemke, Smith Cold Shoulder," Nov 1936, 3	
+Cotton Row, Nov 1936, 5</p><p>Lemoine, Eddie: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2 </p><p>Lemoine, Worthy: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2 </p><p>Letters:</p><p>"We Suit His Calibre," Jan 1937, 16
+"T.C.I.'s Agreements," Jan 1937, 16 
+"Too Old For Relief," Jan 1937, 16</p><p>"Signing Up Already," Mar 1937, 15
+"We Can Stop It," Mar 1937, 15
+"The Only Road," Mar 1937, 15</p><p>"It Won't Be Long," Apr 1937, 15
+"Got Jobs, But-" Apr 1937,15
+"Welcome Textile Drive," Apr 1937, 15</p><p>"Before He Drowns," May 1937, 15</p><p>"Farmers of Tomorrow," May 1937, 15
+"They Didn't Know," May 1937, 15
+"C.I.O. Comes to Mobile," Jun 1937, 8
+"Farmers Need Wagner Act," Jun 1937,  8
+"School's Our Right," Jul 1937, 15 
+"Stool pigeons exposed," Jul 1937, 15
+"As the Oranges Grow," Jul 1937, 15
+"Tenders of Low-Flaming Fires," Jul 1937, 15</p><p>"A Southern Worker Fights in Spain," Sep 1937, 13</p><p>"Stool pigeons exposed," Sep 1937, 15
+"As the Oranges Grow," Sep 1937, 15</p><p>
+Levett, Ed:  </p><p>"A Southern Worker Fights in Spain," Sep 1937, 13</p><p>Lewis, John L.: </p><p>"With the Trade Unions," Jan 1936, 2</p><p>Photo, Jan 1936, 2</p><p>"A Farmer Labor Party For The South," Jan 1936, 6 </p><p> "Leads Fights," Feb 1936, 1</p><p>"Miners' Convention," Feb 1936, 8</p><p> "Steel Drive Moves Ahead in Alabama," Sep 1936, 1 </p><p>"CIO Tries to Secure Harmony with AF of L," Dec 1936, 15
+ "Prevent a Split in the AF of L," Jan 1937, 2
+ "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+ "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>"Disarm Industry," Mar 1937, 2 
+"A People's Program," Mar 1937, 4
+"Disarm Industry," Mar 1937, 6
+The American Scene, "Auto Strike Just First Battle of Larger Struggle Says Lewis," Mar 1937, 10
+"Unity In A.F. Of L," Apr 1937, 2
+ "Steel Victorious!," Apr 1937, 3
+Cover. Cartoon portrait. May 1937, 1</p><p>The American Scene, "President Asks Wages Hours Law," Jul 1937, 10</p><p>Lewisburg, Ala.: </p><p>
+ "Seeks Freedom For Framed-Up Youth," Jan 1936, 1</p><p>Lewiston, Pa.: </p><p>News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Lexington, Ky.: </p><p> "Ky. Alliance To Demonstrate," Jan 1937, 12
+"Got Jobs, But-" Apr 1937,15
+News of the Month in the South, "Spindletop Farm Strikers Civil Liberties Violated," May 1937, 13</p><p>
+Liberty League: </p><p>
+ "Big Business Prepares War Against Labor," Jan 1936, 1</p><p>"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>"Impeach Those Judges Who Usurp People's Rights," Feb 1936, 1</p><p>"Why a Farmer-Labor Party?" Feb 1936, 8
+ "Vote Communist," Nov 1936, 1
+ "Symbol of Reaction," Nov 1936, 1
+ "Vote Communist on Nov. 3: Election Issue is Fascism," Nov 1936, 1
+ "More Jobless," Mar 1937, 6</p><p>"Disarm Industry," Mar 1937, 6 </p><p>"Protect Our Gains," May 1937, 
+ 	Review of the Month, Sep 1937, 2 </p><p>Lincoln, Abraham: </p><p> "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+"The People Versus the Supreme Court," Apr 1937, 5</p><p>Lingerfelt, Murrell: </p><p> "Chattanooga Labor Leaders Acquitted," Jan 1937, 10</p><p>Little Rock, Ark.: </p><p>
+ "S.T.F.U. Meets In Arkansas," Jan 1936, 4</p><p>
+Lockwood, J. C.: </p><p> 	"Racketeers in Patriotism," May 1937, 6</p><p>Logan, J.B.: </p><p>Staff box, Sep 1937, 2</p><p>Long, Huey: </p><p>
+ "Dictator Of Georgia," Feb 1936, 4
+ "Audience Gives Lemke, Smith Cold Shoulder," Nov 1936, 3</p><p>Louis, Joe:</p><p>"Negroes Forge Ahead In Sports," Jan 1937, 10
+ "Winnah and New Champ," Jul 1937, 4</p><p>Photo, Jul 1937, 4</p><p>
+Louisiana and Arkansas Railroad: </p><p> "Blacks, Whites Solid in Strike," Nov 1936, 3</p><p>Louisiana Farmers Union: </p><p>"Farmers Need Wagner Act," Jun, 1937, 8</p><p>Louisville, Ky:</p><p>
+"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3</p><p>6</p><p> "Ky. Unemployed Launch Drive for Organization," Sep 1936, 3
+ News of the Month in the South, "C.I.O. Spirit Reaches Louisville," Apr 1937, 11
+News of the Month in the South, "Louisville Mill Gets Second T.W.O.C. Charter," May 1937, 11</p><p>Louisville Refining Company: </p><p>News of the Month in the South," C.I.O. Spirit Reaches Louisville," Apr 1937, 11</p><p>Louisville Textile, Inc.: </p><p>News of the Month in the South, "Louisville Mill Gets Second T.W.O.C. Charter," May 1937, 11</p><p>Lovett, Robert Moran: </p><p>
+"Scottsboro Defense Committee," Feb 1936, </p><p>Lumpkin, Grace: </p><p>A Page for Southern Women, "To Make My Bread," May 1937, 14</p><p>Lykes Brothers Steamship Company: </p><p> "Sea Strike Spreads," Jan 1937, 7</p><p>Lynch, Frank: </p><p>
+ "Tennessee W.P.A. Workers Unionize," Jan 1936, 1</p><p>Lynching: </p><p>
+"Negro Congress To Fight Lynching," Feb 1936, 6</p><p>Trade Union Topics, Sep 1936, 2
+ "Pass Anti-Lynch Bill," Jul 1937, 2
+"Alabama Court Frees Sheriff Who Let Mob Take Negro," Jul 13, 1937  13
+"Florida Women Organize to Prevent Lynching," Jul 1937, 13
+"Georgia Answers Congress With Another Lynching," Jul 1937, 13</p><p>Lynn, Ala.: 
+ "AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+News Of The Month In The South, "Miners Demand Passage of Youth Act," Mar 1937, 11</p></odd></c><c id="aspace_ref20" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "M"</unittitle><container id="aspace_ff968f3374cd84675b00ffc1c800bbba" label="Text" type="page">M</container></did><odd id="aspace_36a6afdfa7d46223b50945c7841ab65f"><head>General</head><p>Madison, James: </p><p> 	"The People Versus the Supreme Court," Apr 1937, 5</p><p>Madison Square Garden: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Madrid, Spain: </p><p> "Tide of Battle Turns in Spain," Jan 1937, 14</p><p>Malaria: </p><p> "Diseases in South Result of Low Living Standard," Nov 1936, 7</p><p>Mallory, Jim: </p><p>
+Contributor, "An Open Letter To The Followers Of Townsend In The South," Jan 1936, 1</p><p>Listed as editor, Jan 1936, 6</p><p> "Bug," Feb 1936, 8
+Staff box, Nov 1936, 8
+Staff box, Jan 1937, 2
+Postscript from the Editor, Mar 1937, 15</p><p>Staff box, May 1937, 2
+Staff box, Apr 1937, 2
+ Staff Box, Jun 1937, 2</p><p>Fund raising letter, Jun 1937, 3
+ "An Appeal!" Jul 1937, 2</p><p>
+Malraux, Andre: </p><p> "Tide of Battle Turns in Spain," Jan 1937, 14</p><p>Manning, James: </p><p> "Arrest Planter for Kidnapping," Nov 1935, 5</p><p>Marcantonio, Vito:</p><p>The International Scene, May 1937, 10</p><p>Marcus Hook, Pa.: </p><p> News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Mardin, William A.: </p><p>
+"Workers Leader Victim Memphis Police Terror," Feb 1936, 6</p><p>Marine Engineers: 
+The American Scene, "Maritime Workers Win Most Demands in Strike," Mar 1937, 10
+Mark K. Wilson Construction Company: </p><p> "3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2</p><p>Martin, M. Walker:  </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+ "Sales Tax Passed In Alabama," Jan 1937, 7
+ Photo, May 1937, 4 
+"Farm Workers' Challenge," May 1937, 5</p><p>
+Mason, Phil: </p><p>
+"Gastonia Leader Scorns Hearst," Feb 1936, 4</p><p>Maverick, Maury: </p><p> 	"Since Appomattox," May 1937, 4</p><p>McAdory, Walter K.: </p><p>
+Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3 </p><p>McAllister Mill: </p><p> 	"It Won't Be Long," Apr 1937, 15</p><p>McCleny, Fla.:  </p><p> "McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>McClung, James: 
+ "Disarm Industry," Mar 1937, 6
+McCombs, Charles E.: </p><p>
+Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3 </p><p>McCormick, Robert: </p><p> "Arrest Planter for Kidnapping," Nov 1935, 5</p><p>McCoy, Lee: </p><p> "Arrest Planter for Kidnapping," Nov 1935, 5</p><p>McDermott, Harold: </p><p> "C.I.O. Fights for Unity," Jun 1937, 5</p><p>McDuff, Fred: </p><p>
+"London Calling," Feb 1936, 6 </p><p>McDuff, Milton: </p><p>
+"Trade Union Topics," Feb 1936, 2
+ "Racketeers in Patriotism," May 1937, 6</p><p>McHenry, Beth: </p><p>Trade Union Topics, Nov 1936, 2
+Contributor, "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3 
+ Contributor, "Textile Town," May 1937, 5</p><p>McIntyre, Marvin: 
+ "More Jobless," Mar 1937, 6
+McMahon, Thomas: </p><p> "Organize Textile!" Jan 1937, 8</p><p>Meadville, Pa.: </p><p>News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Mehrig Hosiery: </p><p> 	"Hosiery Drive Starts in South," Jan 1937, 8 </p><p>Memorial Auditorium, Chattanooga, Tenn.: </p><p> News of the Month in the South, "Steel Drive Begun in Chattanooga," May 1937, 11</p><p>Memphis Engineers Club: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Memphis, Tenn: </p><p>
+"News In Brief," Jan 1936, 3</p><p> "S.T.F.U. Meets In Arkansas," Jan 1936, 4
+ "STFU Demands Aid for Farmers," Jan 1937, 6</p><p>"News In Brief," Feb 1936, 4</p><p>"Workers Leader Victim Memphis Police Terror," Feb 1936, 6</p><p>Mena, Ark.: </p><p>
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7</p><p>Merriwether, Ernest: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Merriweather, Jim Press: </p><p>
+"S.T.F.U. Meets In Arkansas," Jan 1936, 4 </p><p>"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>Methodist Federal for Social Service: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>"Scottsboro Defense Committee," Feb 1936, 6</p><p>Mexican labor: </p><p>
+ "S.T.F.U. Meets In Arkansas," Jan 1936, 4</p><p>Mexican Workers Confederation: </p><p>Eyes on the World, Dec 1936, 16</p><p>Mexico: 
+ "Land for the Landless," Mar 1937, 7
+Miaji, Jose:</p><p>
+Photo, May 1937, 10</p><p>Miami: </p><p>
+"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>
+ "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4</p><p>Middleton, Elmo: </p><p> "Harlan Cracks Open," Jun 1937, 6</p><p>Middleton, Theodore: </p><p>Harlan Cracks Open," Jun 1937, 6</p><p>Midland Steel Company: </p><p>The American Scene, Jan 1937, 12</p><p>Milk: </p><p> "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4
+ "Up She Goes!" Nov 1936, 4</p><p>Military veterans: </p><p>
+ "Bonus Goes To Veterans Over Roosevelt Veto," Feb 1936, 1
+Milwaukee: </p><p>
+"News In Brief," Feb 1936, 4
+ "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4</p><p>Milwaukee Railroad: </p><p>
+"Racketeers in Patriotism," May 1937, 6</p><p>Mine, Mill and Smelter Workers Union: </p><p>
+"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p>"Trade Union Topics," Feb 1936, 2</p><p>"Ore Strike Ends in Agreement," Sep 1936, 1
+ "Ore Miners Describe Discrimination By TCI," Jan 1937, 9
+ "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+News of the Month in the South, "Ore Minors Charge T.C.I. Discriminated Against Union," May 1937, 11
+ "Birmingham's Tom Mooney," Jul 1937, 6</p><p>Minneapolis, Minn.: </p><p>
+ "Cereal Workers Strike," Sep 1936, 6</p><p>Minton, Bruce: </p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>Mitch, William: </p><p>
+"Negro Congress To Fight Lynching," Feb 1936, 6</p><p>"Steel Drive Moves Ahead in Alabama," Sep 1936, 1 
+ "Steel Men Join Union Fast, Congress of Industrial Organziations Leader Reports," Nov 1936, 1
+ "Labor Spies Activity Told," Nov 1936, 1
+ "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+ Untitled illustration, May 1937, 4. 
+News of the Month in the South, "Ala. Coal Miners Hold Out for Demands," May 1937, 11
+News of the Month in the South, "Birmingham W.P.A. Workers Protest Cuts at Mass Meeting," May 1937, 13
+ "C.I.O. Fights for Unity," Jun 1937, 5
+ 	Review of Month, Sep 1937, 2</p><p>Mitchell, H.L.: </p><p>
+"S.T.F.U. Meets In Arkansas," Jan 1936, 4 </p><p>Mitchell, T.S.: </p><p> "Convict Planter of Slavery," Jan 1937, 12</p><p>Mitchell, William Clark: </p><p> 	"White Farmer Hangs for Murder of Negro," Jan 1937, 12</p><p>
+Mobile, Ala.: </p><p>
+ "Mobile ILA Wins Fight For Union," Jan 1936, 2
+ "Sea Strike Spreads," Jan 1937, 7
+"Signing Up Already," Mar 1937, 15
+"C.I.O. Comes to Mobile," Jun 1937, 8</p><p>Monro Warrior Company: </p><p>News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11</p><p>Montgomery Advertiser:  </p><p>"Scottsboro Boys to Be Tried Again, Jul 1937, 13</p><p>Montgomery, Ala.: </p><p>
+ "News In Brief: Miners Win Victory In State Court," Jan 1936, 3
+ 	A Page for Southern Women, Apr 1937, 14
+ A Page for Southern Women, Jul 1937, 14</p><p>Montgomery, Olen: </p><p> "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Montjay, Pete:</p><p>
+ "News In Brief," Jan 1936, 3</p><p>Moore, John S.: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2 </p><p>Moore, Robert: </p><p>
+"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1
+ "Sea Strike Spreads," Jan 1937, 7</p><p>Morgan, Colo.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Morgan County, Ala.:  </p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Morgan City, Ala.: </p><p>
+"Alabama's New Game," Feb 1936, 8</p><p>Morgan, J.P.: </p><p>
+"Investigation Puts War Blame On Big Bankers," Feb 1936, 1</p><p>Morocco:</p><p>
+The International Scene, Jul 1937, 10</p><p>Morris, Clyde: </p><p>
+"Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p>Morris Brown College: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Morris, Milton: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Moscow gold: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>Moseley, Bill: </p><p>
+Contributor, "A Farmer Labor Party For The South," Jan 1936, 6 </p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>Mosley, Oswald: </p><p>
+Eyes on the World, Dec 1936, 16</p><p>Moss, Clinton: </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>
+Moss, Jugg: </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Moss, Sam: </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Mounds Mines: </p><p> "Ore Miners Describe Discrimination By TCI," Jan 1937, 9</p><p>Moulder's Union, Anniston, Ala.: </p><p> "Hosiery Drive Starts in South," Jan 1937, 8</p><p>Movies: </p><p>
+"Mill Movies Hide Misery," Feb 1936, 6</p><p>Murfreesboro, Ark.: </p><p> "Find New Method For Discrimination," Nov 1936, 4</p><p>Murray, Philip: </p><p>The American Scene, Jan 1937, 12
+News of the Month in the South," Harlan Coal Operators Tyranny Over Miners Told," May 1937, 13
+SW advertisement, May 1937, 16  </p><p>Musick, Marshall: </p><p>News of the Month in the South,"Harlan Coal Operators Tyranny Over Miners Told," May 1937, 13
+ 	"Harlan Cracks Open," Jun 1937, 6</p><p>Mussolini, Benito: </p><p>
+ "Ethiopia Drives Back Fascist Armies," Jan 1936, 1</p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>"Trade Union Topics," Feb 1936, 2</p><p> "People's Front Fights Fascists," Sep 1936, 1
+Cotton Row, Nov 1936, 5
+ "Defend Madrid; Need Munitions; Appeal for Aid," Nov 1936, 7</p><p>Eyes on the World, Dec 1936, 16</p><p>"Defend Democracy," Jan 1937, 2 
+"Tide of Battle Turns in Spain," Jan 1937, 14
+ Eyes On The World, Jan 1937, 15</p><p>The International Scene, Jul 1937, 10</p></odd></c><c id="aspace_ref21" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "N"</unittitle><container id="aspace_fee4ed38cb4a5001ba0d9754bb1fa9bb" label="Text" type="page">N</container></did><odd id="aspace_fd6e8a56e314b80eb256bf9c2e4c7b72"><head>General</head><p>N.Y.R.: </p><p>
+Letter, "N.Y.R. Pays $10 a Month," Feb 1936, 5</p><p>Nance, A. Steven: </p><p> "Since Appomattox," May 1937, 4
+ 	"Textile Town," May 1937, 5
+News of the Month in the South, "Georgia Federation Defeats Splitting Tactics," May 1937, 12
+ "Atlanta Worsted Mill Signs with TWOC," Jul 1937, 12
+ 	"Hosiery Workers Hold 'On to Victory' Conference," Jul 1937, 12</p><p>Nanking: </p><p>
+"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>Nashua Textile Mill: </p><p> "Union Parents Want Children Taught By Union Teachers in Walker County," Nov 1936, 2</p><p>Nashville, Chattanooga and St. Louis Railroad: </p><p>
+"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p>Nashville, Tenn.: </p><p> "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+ "Textile Town," May 1937, 5
+ "Textile Forges Ahead," Jul 1937, 5</p><p>Natchez, Miss.: </p><p>National Association of Manufacturers: </p><p>
+"Company Union Driven Out By Workers Demand," Jan 1936, 4
+ "Protect Our Gains," May 1937, 2</p><p>National Association for the Advancement of Colored People: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1
+The National Scene, May 1937, 10</p><p>National Committee for the Defense of Political Prisoners: </p><p> "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1
+"They Must Be Stopped," Jan 1937, 2 
+"Disarm Industry," Mar 1937, 6
+News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>National Child Labor Committee: </p><p> "Save Our Children," May 1937, 7</p><p>National Federation of Young Republicans: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>National Guard: </p><p>
+Letter, "WPA Workers Get Together Despite Boss," Feb 1936, 4
+ "Textile Town," May 1937, 5</p><p>National Labor Relations Board: </p><p> "Samoset Mill Claims Second Labor Victim," Jan 1937, 8
+News of the Month in the South, "Ore Minors Charge T.C.I. Discriminated Against Union," May 1937, 11</p><p>The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>National Manufacturers Association: 
+ "More Jobless," Mar 1937, 6</p><p>National Maritime Federation: 
+The American Scene, "Maritime Workers Win Most Demands in Strike," Mar 1937, 10</p><p>National Negro Congress: </p><p>
+ "Negro Congress Called To Meet In Washington," Jan 1936, 2 </p><p>"Negro Congress To Fight Lynching," Feb 1936, 6</p><p>"Alabama's New Game," Feb 1936, 8
+ 	"Negro Youth Hold Meeting," Sep 1936, 1
+Photo caption, James W. Ford, Nov 1936, 3
+ "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+Photo, Apr 1937, 4
+ "Negro Youth Unite," Apr 1937, 6
+The National Scene, May 1937, 10</p><p>National Negro Youth Conference: </p><p> "Negro Youth Unite," Apr 1937, 6</p><p>National Recovery Administration: </p><p>
+"A Farmer Labor Party For The South," Jan 1936, 6</p><p> "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14
+ 	"Vote Communist on Nov. 3: Election Issue is Fascism," Nov 1936, 1
+ 	 "AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+ "The People Versus the Supreme Court," Apr 1937, 5</p><p>National Republic, The: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>National Textile Act: 
+"Textile Gets Ready," Mar 1937, 3
+National Textile Relations Board: </p><p>
+"News In Brief," Jan 1936, 3</p><p>National Youth Administration:
+News Of The Month In The South, "Miners Demand Passage of Youth Act," Mar 1937, 11
+ "Negro Youth Unite," Apr 1937, 6</p><p>Navoo, Ala.: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Nazism:</p><p>
+The International Scene, Jul 1937, 10</p><p>Neal, Max: </p><p>"Stool pigeons exposed," Jul 1937, 15</p><p>Negro question: </p><p> "Answer Carpetbaggers," Apr 1937, 2</p><p>Nelson, George: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4 </p><p>Nerthercut, Paul: </p><p>
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7</p><p>New Deal: </p><p>
+"Big Business Prepares War Against Labor," Jan 1936, 1</p><p>"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p>"Why a Farmer-Labor Party?" Feb 1936, 8</p><p> "A People's Program," Mar 1937, 4 </p><p>New Masses: </p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4
+Trade Union Topics, Nov 1936, 2</p><p>New Orleans, La.: </p><p>
+ "Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3</p><p> "Court Denies Injunction," Sep 1936, 5</p><p> "Praise for Veto," Sep 1936, 6
+ "La. Sales Tax Up 2%, Consumers Protest Bitterly," Nov 1936, 4
+ "Sea Strike Spreads," Jan 1937, 7
+ "Book Burners Defeated," Jul 1937, 7</p><p>Untitled photo, Jul 1937, 7</p><p>New York Cubans: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>New York, NY: </p><p>"Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4
+Build the New South: Carolinas, Apr 1937, 2</p><p>New York University: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Nixon, Prof. H. C.: </p><p>
+"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p>Nixon, Vaughn: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Nitrod, W. Va.: </p><p>News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Norfork and Western Railroad: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Norman, Frank: </p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4
+The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10
+"As the Oranges Grow," Jul, 1937, 15</p><p>Norris, Clarence: </p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Norris, Tenn.: </p><p> "Religion," Jul, 1937, 13</p><p>Northern Oats Plant: </p><p> "Cereal Workers Strike," Sep 1936, 6</p><p>North American Committee to Aid Spanish Democracy: </p><p>
+"Italy, Germany Support Rebels," Dec 1936, 15
+ "That They May Live," Sep 1937, 16</p><p>North Carolina College for Negroes: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>North Carolina Federation of Textile Workers:</p><p> "Textile Forges Ahead," Jul 1937, 5</p><p>North Pole:</p><p>
+The International Scene, Jul 1937, 10</p><p>Notasulga, Ala.: </p><p>
+Letter, "Landlord Mobs Beat and Kill Union Sharecroppers," Feb 1936, 5</p><p>NRA: See National Recovery Administration</p></odd></c><c id="aspace_ref22" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "O"</unittitle><container id="aspace_41d1d12dacac7ab996a215f52913d68f" label="Text" type="page">O</container></did><odd id="aspace_b4753ba45e6ea4f01ff190b6cc48b826"><head>General</head><p>Oakland, Calif.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+ O'Brien. Edward J.: </p><p>"Got Jobs, But-, "Apr 1937, 15 </p><p>Ohio Boxboard Company: </p><p>
+ "Strikers Given Sentences," Sep 1936, 6</p><p>Oil rigs:</p><p>
+Photo, Jun 1937, 7</p><p>Oil Workers Union: </p><p> "C.I.O. Hits Oil," Jun 1937, 7</p><p>
+Old age pensions: </p><p>
+"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>Oliver, E.L.: </p><p>News of the Month in the South,"N.C. Progressive Comm. To Defend Textile Workers," May 1937, 13</p><p>Oliver, Sam: </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>O'Neal, William: </p><p> "Share Cropper Faces Prison," Apr 1937, 6
+ "Communist Party Is Legal," Jun 1937, 4
+ "Birmingham's Tom Mooney, "Jul 1937, 6</p><p>Open shop: </p><p>
+"In Dixie-Land," Sep 1936, 3</p><p>Order of '76, The: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Orlando, Fla.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Owen, Blane: </p><p> "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p>Owens, F.: </p><p>
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7</p><p>Overton Mine: </p><p>
+"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>Oxford, Miss.:  </p><p>
+"Teachers Go Unpaid in Oxford," Sep 1936, 6
+ "Oxford Farmer reports Another Gyp by C. of C," Nov 1936, 5
+A Page for Southern Women, Apr 1937, 14</p><p>Oxford Eagle: </p><p>
+ "Teachers Go Unpaid in Oxford," Sep 1936, 6</p></odd></c><c id="aspace_ref23" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "P"</unittitle><container id="aspace_2152f03baadc009fc1a5e8ae1a386c27" label="Text" type="page">P</container></did><odd id="aspace_e9913dec89da616665644e232209da70"><head>General</head><p>PTA:</p><p>
+ "Health in Danger, Birmingham Told," Dec 1936, 13</p><p>
+Paddock, Bishop Robert L.: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Paige, Satchel:
+ 
+ "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Palmer Memorial Institute: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Parent-Teacher Association: 
+ 	"Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4</p><p> "Health in Danger, Birmingham Told," Dec 1936, 13
+A Page For Southern Women, Mar 1937, 14
+Parkersburg, W. Va.: </p><p>News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Patrick, Luther: </p><p>Build the New South: Alabama, Apr 1937, 2</p><p>Patterson, Haywood: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p> "Attorneys For Scottsboro Boys Issue Statement." Feb 1936, 3</p><p>"Alabama's New Game," Feb 1936, 8
+AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4</p><p>Patterson, Lucille: </p><p> "Samoset Mill Claims Second Labor Victim," Jan 1937, 8</p><p>Patterson, Pat: </p><p>
+"Hod Carriers Hold Big Rally at Chattanooga," Feb 1936, 4</p><p>Patton's Funeral Home:</p><p> "Stool pigeons exposed," Jul 1937, 15  </p><p>Paul Reveres, The: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Peacher, Paul D.: </p><p> "Convict Planter of Slavery," Jan 1937, 12</p><p>Peel, John A.: </p><p>
+"Mill Movies Hide Misery," Feb 1936, 6</p><p>Pellagra: 
+A Page For Southern Women, Mar 1937, 14
+Pelzer, S.C.: </p><p>
+ "Mill Workers Freed Of Framed-Up Charge," Jan 1936, 2</p><p>Penny, T. L.: </p><p> "Racketeers In Patriotism," May 1937, 6</p><p>People's Bookstore, The: </p><p>
+Untitled photo, Jul 1937, 7
+ "Book Burners Defeated," Jul 1937, 7</p><p>Perry, J.L.: 
+News Of The Month In The South, "T.C.I. Ore Miners Talk Strike Against Stretchout," Mar 1937, 11
+Phillips, Smith: </p><p>
+ "Negro Youth Stabbed By White Man On Street Car," Jan 1936, 5 </p><p>Pickett, Mary: </p><p> "A Page for Southern Women," Jul, 1937, 14</p><p>Pike, Susan: </p><p>A Page for Southern Women, Apr 1937, 14</p><p>Pitkin, Rex: </p><p>
+Contributor, S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7 </p><p>Pinchot, Cornelia Bryce: </p><p>News of the Month in the South," N.C. Progressive Comm. To Defend Textile Workers," May 1937, 13</p><p>Pineville, Ky.: </p><p> "Harlan Cracks Open," Jun 1937, 6</p><p>Pink Slip Pilgrimage: </p><p> "425,000 To Be Cut Off WPA," Jan 1937, 13</p><p>Pittsburg Crawfords: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Pittsburg, Pa.: </p><p>
+"In Dixie-Land," Sep 1936, 3
+ "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1
+ "Price Rise Makes Birmingham's Milk Most Expensive in County," Nov 1936, 4
+Photo of leaders of National Negro Congress, Apr 1937, 4</p><p>Pittsburg Plate Glass Company: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Pleasantville, N.J.: </p><p> "425,000 To Be Cut Off WPA," Jan 1937, 13</p><p>Poetry, misc: </p><p>
+"In the Bluegrass" By "A Kentucky Worker," Dec 1936, 13</p><p>Police brutality: </p><p>
+Letter, "Negro Worker Murdered By Birmingham Police," Feb 1936, 7</p><p> 
+Poll tax: </p><p>
+"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8
+ "Can You Vote?" Nov 1936, 8
+"We Suit His Calibre," Jan 1937, 16</p><p> "1937—A New Year—A New Southern Worker," Jan 1937, 16
+ "Negro Youth Unite," Apr 1937, 6</p><p>Ponce, P.R.: </p><p>The International Scene, May 1937, 10</p><p>Port Arthur, Tex: </p><p> "Sea Strike Spreads," Jan 1937, 7</p><p>Porter Coal Company: </p><p>
+ "News In Brief: Miners Win Victory In State Court," Jan 1936, 3</p><p>Pound Building:  </p><p>
+Caption to photo of WPA worker bloodied in labor conflict, Sep 1936, 2</p><p>Powell, Ozie: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3
+ 	"Thousands Hit Murder Assault On Powell Boy," Feb 1936, 3</p><p>Pratt City, Ala.: </p><p>Photo caption, Birthplace of James W. Ford, Nov 1936, 3
+A Page for Southern Women, Jun 1937, 8</p><p>President's Committee on Farm Tenancy: </p><p> "Land for the Landless," Apr 1937, 16</p><p>Presley, J.D.: </p><p>News of the Month in the South, "Spindletop Farm Strikers Civil Liberties Violated," May 1937, 13</p><p>
+Prisons: </p><p>
+ "Twenty Negroes Burned Alive In Prison Truck," Feb 1936, 1
+ 
+Public Works Administration: </p><p>
+"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p>Pruett, G. P.: </p><p> "Sales Tax Passed In Alabama," Jan 1937, 7</p><p>Public transportation: </p><p> "Try To Segregate Negroes In Buses," Nov 1936, 4</p><p>Public Works Administration: </p><p> "3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2
+ "The Only Road," Mar 1937, 15
+Puerto Rican Nationalist Party: </p><p>The International Scene, May 1937, 10</p></odd></c><c id="aspace_ref25" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "R"</unittitle><container id="aspace_41289d8531057353f4cceb215ce426bb" label="Text" type="page">R</container></did><odd id="aspace_fbf0663006880d5d39740a93bb275a1b"><head>General</head><p>R.J. Reynolds Tobacco Company: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Railway Audit and Investigation Company: </p><p> "Labor Spies Activity Told," Nov 1936, 1</p><p>Raleigh, N.C.: </p><p>News of the Month in the South, "N.C. Liberals For Progessive Laws, " Apr 1937, 13  </p><p>Randolph, A. Phillip: </p><p> "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4</p><p>Raney, William: </p><p>Trade Union Topics, Nov 1936, 2</p><p>Reed Shirt Factory: 
+News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11
+Reeltown, Ala.: </p><p> "Share Cropper Faces Prison," Apr 1937, 6
+ News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Regional Conference of Mexican Workers: </p><p>
+Eyes on the World, Dec 1936, 16</p><p>Reid, Willie: </p><p> "Georgia Answers Congress With Another Lynching," Jul 1937, 13</p><p>Reiss, Julius: </p><p> "Book Burners Defeated," Jul 1937, 7</p><p>Relief:</p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>Letter, "T.C.I. Employee In Breadline After 11 Years," Jan 1936, 5</p><p>Letter, "Relief Workers Win Free Fare By Organization," Jan</p><p>"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p>Letter, "WPA Workers Get Together Despite Boss," Feb 1936, 4</p><p>Letter, "N.Y.R. Pays $10 a Month," Feb 1936, 5</p><p> Letter, "Relief Sewers Must Buy Coal," Feb 1936, 5 </p><p> Letter, "Negro Worker Murdered By Birmingham Police," Feb 1936, 7 
+Build The New South, Mar 1937, 2</p><p>"Farmers of Tomorrow," May 1937, 15</p><p>Remington Rand: </p><p> "Labor Spies Activity Told," Nov 1936, 1</p><p>Remington, William: </p><p> "Textile Organizers Beaten By Company Thugs," Jul 1937, 12</p><p>Republic Inland Steel Corp.: See Inland Republic Steel Corp.</p><p>Republic Iron and Steel Co.:</p><p>
+Photo caption, Jul 1937, 11</p><p>Republican Party: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3</p><p>Republic Steel:  See Republic Iron and Steel Co.</p><p>Rhea county, Tenn.: </p><p> "Children Forced to Slave in Berry Patches at Rhea Co," Jul 1937, 12</p><p>Richmond, Va: </p><p>
+"Negro Youth Hold Meeting," Sep 1936, 1
+ "Negro Youth Unite," Apr 1937, 6
+News of the Month in the South, "Youth Leadership Seminar to be Held in August," May 1937, 13
+News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Ricker, A.W.: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4 </p><p>Rieve, Emil: </p><p> "Hosiery Workers Hold 'On to Victory' Conference," Jul 1937, 12</p><p>Rittman Weekly Press: </p><p>
+ "Strikers Given Sentences," Sep 1936, 6</p><p>Riverside Mills: </p><p>"Textile Gets Ready," Mar 1937, 3
+"Textile is Next," Apr 1937, 4</p><p>Roanoke, Va.: </p><p>News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Roberson, William: </p><p>
+ "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Roberts, Owen J.: </p><p> "Communist Party Is Legal," Jun 1937, 4</p><p>Robinson, George: </p><p>
+ "Silicosis Victim Dies," Sep 1936, 6</p><p>The American Scene, "Supreme Court Tory Returns," Jul 1937, 10</p><p>Robinton, Ike: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>Rogers, Leroy: </p><p> "Arrest Planter for Kidnapping," Nov 1935, 5</p><p>Rome, Italy:</p><p>
+ "World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p>Roosevelt, Franklin Delano: </p><p>
+ "Big Business Prepares War Against Labor," Jan 1936, 1</p><p> "Fighting Ring Corner For Southern Women," Jan 1936, 3</p><p>"A Farmer Labor Party For The South," Jan 1936, 6
+"Vote Communist on Nov. 3: Election Issue is Fascism," Nov 1936, 1
+Cotton Row, Nov 1936, 5
+"A Christmas Present!," Jan 1937, 2
+ "Textile Gets Into Action," Jan 1937, 2
+ "AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+ "STFU Demands Aid for Farmers," Jan 1937, 6
+ "425,000 To Be Cut Off WPA," Jan 1937, 13 "Textile Gets Ready," Mar 1937, 3
+ "A People's Program," Mar 1937, 4
+"More Jobless," Mar 1937, 6
+ "Land for the Landless," Mar 1937, 7
+News Of The Month In The South, "Miners Demand Passage of Youth Act," Mar 1937, 11
+ "Steel Victorious!," Apr 1937, 3
+ "The People Versus the Supreme Court," Apr 1937, 5
+The American Scene, "Unpack Court, Demands Labor," Apr 1937, 10
+The American Scene, Youth Delegates March on Washington," Apr 1937, 10</p><p>The American Scene, "President Asks Wages Hours Law," Jul 1937, 10</p><p>The American Scene, "Supreme Court Tory Returns," Jul 1937, 10</p><p>Ross and Baumgardner: </p><p>
+Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax,"  
+Feb 1936, 2</p><p>Ross, Holt: </p><p>News of the Month in the South, "Georgia Federation Defeats Splitting Tactics," May 1937, 12</p><p>Rotary Club: </p><p>Trade Union Topics, Nov 1936, 2</p><p>Russell, Dean Elbert:</p><p>
+ "Scottsboro Defense Committee," Feb 1936, 6</p><p>Russellville, Ark.: </p><p>
+ "School's Our Right," Jul 1937, 15  </p><p>Ryan, C.A.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Ryan, Joseph F.: 
+"The Only Road," Mar 1937, 15
+Ryan, Marcelle: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p></odd></c><c id="aspace_ref26" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "S"</unittitle><container id="aspace_18ffc59a17365970e7c3641cf0331053" label="Text" type="page">S</container></did><odd id="aspace_f6d53561f1f2eb8df25f03531f543c36"><head>General</head><p>SCU: 	</p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>Sales Tax: </p><p>
+"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8
+ "Grid for Battle Against 3% Tax Graves Wants," Nov 1936, 4
+ "La. Sales Tax Up 2%, Consumers Protest Bitterly," Nov 1936, 4
+ "Sales Tax Passed In Alabama," Jan 1937, 7
+A Page For Southern Women, Mar 1937, 14
+News of the Month in the South, "Alabama Gets New Sales Tax," Apr 1937, 13  </p><p>Editorial cartoon, May 1937, 2</p><p>A Page For Southern Women," May 1937, 14</p><p>Salisbury, N.C.: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Samoset Cotton Mills: </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>"Organizer Framed for Murder," Sep 1936, 3</p><p> "Court Frames Organizer; Gets 10 Years," Dec 1936, 16
+ "Samoset Mill Claims Second Labor Victim," Jan 1937, 8
+News of the Month in the South, "Mistrial In Homer Welch Case," Apr 1937, 11
+ News of the Month in the South, "Talladega Cotton Mill Raises Wages 10 Per Cent," May 1937, 11</p><p>San Antonio, Tex.: </p><p>News of the Month in the South, "San Antonio W.A. Starts Organization Drive," May 1937, 13</p><p>San Francisco, Calif.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>San Jose, Calif.: </p><p>
+ "Laundry Workers Strike," Sep 1936, 5</p><p>Sand Springs, Okla: </p><p>"They Didn't Know," May 1937, 15</p><p>Sanders, Joseph: </p><p>
+ "Seeks Freedom For Framed-Up Youth," Jan 1936, 1</p><p>Sandlin, J. Street: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Santa Ana, Calif: </p><p>
+ "Labor Pickets Church," Sep 1936, 6</p><p>Sawyer, Phillip: </p><p>
+"What Social Security Really Means," Jan 1937, 11 </p><p>Scarlett, Rev. William: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Schools: </p><p>
+ "Fighting Ring Corner For Southern Women," Jan 1936, 3
+ "No Help Given Rural Schools," Nov 1936, 4
+"Schools in Miss. To Be Cut Short," Nov 1936, 5</p><p>A Page For Southern Women," May 1937, 14</p><p>Untitled editorial cartoon, Jul 1937, 15</p><p>"School's Our Right," Jul 1937, 15</p><p>Scheiffelin, Col. William Jay: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Scottsboro, Ala.: </p><p>
+ "Twenty Negroes Burned Alive In Prison Truck," Feb 1936, 1</p><p>Scottsboro Boys: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>"Scottsboro Defense Committee," Feb 1936, 6 </p><p>"London Calling," Feb 1936, 6	
+Group photo, Nov 1936, 4</p><p>"Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14
+ "Scottsboro Boys to Be Tried Again," Jul 1937, 13
+ "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+"All Scottsboro Boys are Innocent," Sep 1937, 12</p><p>Scottsboro Defense Committee: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>"Scottsboro Defense Committee," Feb 1936, 6</p><p>Scribener, Paul:</p><p>"As the Oranges Grow," Jul 6, 1937, 15</p><p>Scripps-Howard: 
+ "What About Sit-Down Strikes?" Mar 1937, 5
+Sedalia, N.C.: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Segregation: </p><p> "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1</p><p>Selassie, Haile: </p><p>
+ "Ethiopia Drives Back Fascist Armies," Jan 1936, 1</p><p>Senate Munitions Investigation Committee: </p><p>
+"Investigation Puts War Blame On Big Bankers," Feb 1936, 1</p><p>Seward, William H.: </p><p> "She Never Lost A Passenger," Jan 1937, 14</p><p>Shapiro, I.: 
+Contributor, "Cherry Pie: A Short Story," Mar 1937, </p><p>Sharecroppers Union: </p><p> "Farm Conference Demands Relief," Nov 1936, 5
+ 	 "1937—A New Year—A New Southern Worker," Jan 1937, 16
+ "Share Cropper Faces Prison," Apr 1937, 6
+News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3
+ 	News of the Month in the South, "Union Introduces Sharecrop Contract," May 1937, 13</p><p>Sheffield Steel and Iron Company: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Shoemaker, Joseph: </p><p>
+"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>"News In Brief," Feb 1936, 4</p><p>Sholtz, Dave: </p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>Shreveport: </p><p> "Blacks, Whites Solid in Strike," Nov 1936, 3</p><p>Silicosis: </p><p> "Silicosis Victim Dies," Sep 1936, 6</p><p>Sims, Robert: </p><p> "Samoset Mill Claims Second Labor Victim," Jan 1937, 8</p><p>Simmesport, La.: </p><p>
+"Union Organizer Mobbed By Louisiana Boss Thugs," Sep 1936, 2</p><p> "Union Organizer Beaten," Sep 1936, 3</p><p>Simms, Curtis: </p><p> "Chattanooga Labor Leaders Acquitted," Jan 1937, 10</p><p>Simmons, Oze: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Silva, Charles: </p><p>News of the Month in the South, "Fla. Federation Starts Organizing Citrus Workers," May 1937, 13</p><p>Sioux City, Iowa: </p><p> "Farm Conference Demands Relief," Nov 1936, 5</p><p>Skelly Oil Company: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Skelley, W.G.: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Sledge, Ida: </p><p>Review of Month, Sep 1937, 3</p><p>Sloan Sheffield Steel and Iron Company: </p><p>News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>Smith, Alfred: </p><p>
+"Impeach Those Judges Who Usurp People's Rights," Feb 1936, 1
+ "McCleny Turpentine Operations Charged with Peonage," Jul 1937, 13</p><p>Smith, Alphonse:  </p><p>
+Trade Union Topics, Sep 1936, 2 </p><p>Smith, Garson:  </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>Smith, Gerald L.K.: </p><p>
+"Audience Gives Lemke, Smith Cold Shoulder," Nov 1936, 3
+ Cotton Row, Nov 1936, 5</p><p>Smith, Harvey: </p><p> "Union Miners Attacked in Fentress Co., Tenn.," Jul 1937, 12</p><p>Smith, Potter:  </p><p>
+Trade Union Topics, Sep 1936, 2 </p><p>Snow Hill, N.C.: </p><p>
+ "Landlord Held for Murder of Tenant," Feb 1936, 7</p><p>Social Security Act: </p><p>"AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+ "What Social Security Really Means," Jan 1937, 11</p><p>Socialist Party: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>"Alabama's New Game," Feb 1936, 8</p><p>Songs: </p><p>
+ "The Bedspread Blues," Sep 1936, 6</p><p>Soule, Geo: </p><p>
+ "Magazine Writer Finds That Socialism Works," Feb 1936, 5</p><p>
+Southern Baptist Convention: </p><p> "The Baptists Have Fighting Traditions," Jan 1937, 15</p><p>Southern Federation of Labor: </p><p> "C.I.O. Fights for Unity Jun 1937, 5</p><p>Southern Negro Youth Congress: </p><p> "Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+News of the Month in the South, "Youth Leadership Seminar to be Held in August," May 1937, 13
+News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Southern Railway Company: </p><p>
+"News In Brief," Jan 1936, 3</p><p>Southern States Iron Roofing Company: </p><p>News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>Southern Tenant Farmers Union: </p><p>
+ "S.T.F.U. Meets In Arkansas," Jan 1936, 4
+S.T.F.U. Fights To Free Framed Farmers in Ark.," Feb 1936, 7 
+"AF of L To Help Organize Agricultural Workers," Jan 1937, 5
+ "STFU Demands Aid for Farmers," Jan 1937, 6</p><p>Southern Wage Differential: </p><p>
+"In Dixie-Land," Sep 1936, 3
+ "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1
+ "Up She Goes!" Nov 1936, 4</p><p> "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14</p><p>A Page For Southern Women, Mar 1937, 14
+ "Steel Victorious!" Apr 1937, 3
+ "Carpet Baggers—New Style," Apr 1937, 7
+News of the Month in the South, "Miners Demand Higher Wages," Apr 1937, 11
+ 	"Farm Workers' Challenge," May 1937, 5
+News of the Month in the South "Ala. Coal Miners Hold Out for Demands," May 1937, 11
+"Steel Drive Begun in Chattanooga," May 1937, 11
+"Birmingham W.P.A. Workers Protest Cuts at Meeting," May 1937, 13
+ 	"Build The C.I.O. To Abolish Southern Wage Differential," Jul 1937, 2
+"Build the C.I.O. To Abolish Southern Wage Differential," Jul 1937, 2
+ 	"Against Southern Differential Aluminum Workers Strike," Jul 1937, 11
+ "Textile Forges Ahead," Jul 1937, 11
+News of the Month in the South, "Against Southern Differential Aluminum Workers Strike," Jul 1937, 11
+ </p><p>Southern Worker: </p><p> "Evict Families in Talledega," Nov 1936, 1
+ Staff box" Nov 1936, 8</p><p>"Italy, Germany Support Rebels," Dec 1936, 15 
+"1937—A New Year—A New Southern Worker," Jan 1937, 16 
+Staff box says "Union Label Applied For," Jan 1937, 2 
+"A People's Program," Mar 1937, 4
+Postscript from the Editor, Mar 1937, 15
+ "Build the Southern Worker," Mar 1937, 16
+Build the New South: Carolinas, Apr 1937, 2 </p><p>Postscript from the Editor, Apr 1937, 15 </p><p>Membership blank, May 1937, 2</p><p>Advertisement, May 1937, 16</p><p>Membership blank, Jun 1937, 2</p><p>Staff box, Jun 1937, 2</p><p>Fund raising letter, Jun 1937, 3
+Notice reducing size to eight pages, Jun 1937, 3 
+ 	"An Appeal!" Jul 1937, 2</p><p>Spanish Civil War: </p><p> "People's Front Fights Fascists," Sep 1936, 1</p><p> "Trade Unions Help Spain," Sep 1936, 2
+ "Defend Madrid; Need Munitions; Appeal for Aid," Nov 1936, 8
+ "Before It Is Too Late," Nov 1936, 8</p><p>Copy of Catalan poster, "The Army Needs You," Dec 1936, 15
+"Italy, Germany Support Rebels," Dec 1936, 15</p><p>Eyes on the World, Dec 1936, 16
+ "Defend Democracy," Jan 1937, 2
+ "Tide of Battle Turns in Spain," Jan 1937, 14
+International News, Mar 1937, 10
+Build the New South: Alabama, Apr 1937, 2
+The American Scene, "Progressive Fight Fake Neutrality," Apr 1937, 10
+ "Mary and I Are Glad Our Son Went to Spain," Jul 1937, 8
+ The International Scene, Jul 1937, 10 
+Photo, "A Southern Worker Fights In Spain," Sep 1937, 1 
+"That They May Live," Sep 1937, 16</p><p>Spanish Morocco: </p><p> "Tide of Battle Turns in Spain," Jan 1937, 14</p><p>Speed, Mary Craik:  </p><p>Editor, A Page for Southern Women, Apr 1937, 14
+Editor, A Page for Southern Women, May 1937, 14
+Editor, A Page for Southern Women, Jun 1937, 8
+ 	Editor, A Page for Southern Women, Jul 1937, 14</p><p>
+Spindletop Farm, Ky.: </p><p>News of the Month in the South, "Spindletop Farm Strikers Civil Liberties Violated," May 1937, 13  </p><p>Spivak , John L.: </p><p> "Racketeers In Patriotism," May 1937, 6</p><p>Spokesman, The: </p><p>
+"Negro Youth Hold Meeting," Sep 1936, 1</p><p>St. Landry's Parish, Louisiana: </p><p>"Farmers Need Wagner Act," Jun, 1937</p><p>St. Louis, Mo.: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Stakhanov, Alexi: </p><p>
+ "Stakhanov Increases Well-being Of Workers In The U.S.S.R.," Jan 1936, 3</p><p>Stalin, Joseph: </p><p> "Here's What Soviet Workers Have," Jan 1937, 11</p><p>Standard Oil of New York: </p><p>
+ "Racketeers in Patriotism," May 1937, 6</p><p>Stapp, H.A.: </p><p>News of the Month in the South, "Policeman Stapp Fired by Civil Service Board," May 1937, 13</p><p>Stapp, P.L.: 
+News of the Month in the South, "Policeman Stapp Fired by Civil Service Board," May 1937, 13</p><p>Steel, A.F.: </p><p> "Find New Method For Discrimination," Nov 1936, 4</p><p>Steel Workers Organizing Committee:</p><p>"Steel Drive Moves Ahead in Alabama," Sep 1936, 1
+ "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1
+"CIO Tries to Secure Harmony with AF of L," Dec 1936, 15
+Organize Textile!" Jan 1937, 8
+ "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+News Of The Month In The South, "Birmingham's First Sit-Down Strike "Wins 20 Per Cent Wage Boost," Mar 1937, 11
+"Steel Victorious!" Apr 1937, 3
+News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>"Chattanooga Firm Signs with SWOC," Jul 1937, 11</p><p>Steele, Walter: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Stenographers, Typists, Bookkeepers and Assistants' Union: </p><p>
+"Trade Union Topics," Feb 1936, 2</p><p>Stewart, Dave: </p><p> "Birmingham's Tom Mooney," Jul 1937, 6</p><p>Stewart, Don: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>Stewart, Ogden: </p><p>
+"Scottsboro Defense Committee," Feb 1936, 6</p><p>STFU—See Southern Tenant Farmers' Union</p><p>Stockton, Calif.: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Stokes, Thomas L.: </p><p> "Carpet Baggers—New Style," Apr 1937, 7</p><p>Stoval, Lyle: </p><p>"Welcome Textile Drive," Apr 1937, 15</p><p>Strikes: </p><p>
+ "Bankhead Miners Win Union Wage," Jan 1936, 4</p><p>"Burlington Five to Be Tried For Frame-up Charge," Feb 1936, 2</p><p>Letter, "WPA Workers Get Together Despite Boss," Feb 1936, 4</p><p>"Ore Strike Ends in Agreement," Sep 1936, 1</p><p> "Chattanooga Labor Union Wins Contract. Pound Strike Ends With Union Victory," Sep 1936, 2</p><p> "Cereal Workers Strike," Sep 1936, 6</p><p> "Strikers Given Sentences," Sep 1936, 6
+ "Blacks, Whites Solid in Strike," Nov 1936, 3
+Trade Union Topics, "White Legion Being Revived," Nov 1936, 2
+ "3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2
+ "1,500 Atlanta Auto Workers Strike," Jan 1937, 6
+ "Sea Strike Spreads," Jan 1937, 7
+ "Chattanooga Labor Leaders Acquitted," Jan 1937, 10
+ "Jasper Central Body Backs Painters," Jan 1937, 10
+The American Scene, Jan 1937, 12
+"Auto Strikers Win," Mar 1937, 2
+"What About Sit-Down Strikes?" Mar 1937, 5
+The American Scene, "Auto Strike Just First Battle of Larger Struggle Says Lewis," Mar 1937, 10
+The American Scene, "Maritime Workers Win Most Demands in Strike," Mar 1937, 10
+News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11
+News Of The Month In The South, "T.C.I. Ore Miners Talk Strike Against Stretchout," Mar 1937, 11
+News Of The Month In The South, "Birmingham's First Sit-Down Strike Wins 20 Per Cent Wage Boost," Mar 1937, 11
+News Of The Month In The South, "Steel Workers In Second Sit-Down Strike," Mar 1937, 11
+News of the Month in the South, "Steel Workers Win Stove Strike," "Gin Co. Steel Workers Strike," Apr 1937, 11
+News of the Month in the South, "Mistrial In Homer Welch Case," Apr 1937, 11
+News of the Month in the South, "Chattanooga C.L.U. Backs Textile Drive," Apr 1937, 11
+"It Won't Be Long," Apr 1937, 15</p><p>"They Didn't Know," May 1937, 15</p><p>The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10
+News of the Month in the South, "Cleveland Foundries Closed by Strike," Jul 1937, 11</p><p> "Against Southern Differential Aluminum Workers Strike," Jul 1937, 11</p><p>Untitled photo, Jul 1937, 11</p><p>Stokes, Thomas L.: </p><p> "An Immediate Task," Jun 1937, 2</p><p>Strong, Edward: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Summers, P.:</p><p> 	 "T.C.I.'s Agreements," Jan 1937, 16</p><p>SWOC—see Steel Workers Organizing Committee</p><p>Swope, King: </p><p>News of the Month in the South, "Spindletop Farm Strikers Civil Liberties Violated," May 1937, 13</p></odd></c><c id="aspace_ref27" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "T"</unittitle><container id="aspace_90c63d56d38218cbd8ce80b093c105cd" label="Text" type="page">T</container></did><odd id="aspace_9ab594ae7d7dc20f0459fb733d5d96c0"><head>General</head><p>Tampa, Fla.: </p><p>
+"With the Trade Unions," Jan 1936, 2
+ "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+ "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Tackett, R.C.: </p><p>"Harlan Cracks Open," Jun 1937, 6</p><p>Talladega, Ala.: </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>"Organizer Framed for Murder," Sep 1936, 3
+ "Symbol of Reaction," Nov 1936, 1
+ "Evict Families in Talledega," Nov 1936, 1</p><p>"Court Frames Organizer; Gets 10 Years," Dec 1936, 16</p><p>"Samoset Mill Claims Second Labor Victim," Jan 1937, 8
+ "Women's Place In CIO Drive," Jan 1937, 13</p><p>"Textile Gets Ready," Mar 1937, 3
+News of the Month in the South "Mistrial In Homer Welch Case," Apr 1937, 11
+ News of the Month in the South ,"Talladega Cotton Mill Raises Wages 10 Per Cent," May 1937, 11  
+ "Homer Welch Elected President of Alabama Federation," Jul 1937, 12</p><p>Untitled photo, Jul 1937, 12</p><p>Talladega Cotton Factory: </p><p> "Evict Families in Talledega," Nov 1936, 1</p><p>Tallapoosa county, Ala.: </p><p>Letter, "Landlord Mobs Beat and Kill Union Sharecroppers," Feb 1936, 5
+ "No Help Given Rural Schools," Nov 1936, 4
+ "Share Cropper Faces Prison," Apr 1937, 6
+News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Talmadge, Eugene: </p><p>"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p> "Hard Time," Jan 1936, 5</p><p>"Impeach Those Judges Who Usurp People's Rights," Feb 1936, 1</p><p> "Dictator Of Georgia," Feb 1936, 4</p><p>Tampa, Fla.: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Tarrant, Ala.: </p><p>
+"With the Trade Unions," Jan 1936, 2</p><p>Letter, "WPA Workers Get Together Despite Boss," Feb 1936, 4</p><p>Taylor, Danny: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>Taylor, John: </p><p>"They Didn't Know," contributor, May 1937, 15 </p><p>Taylor, Myron: </p><p> "Ghost of Murdered Workers Haunts Steel Bosses' Feast," Nov 1936, 6</p><p>TCI—see Tennessee Coal, Iron and Railroad Company.</p><p>Tellico Plains, Tenn.: </p><p>"Tenders of Low-Flaming Fires," Jul 1937, 15</p><p>Tenayuca, Emma:</p><p>News of the Month in the South, "San Antonio W.A. Starts Organization Drive," May 1937, 13</p><p>Tennessee Coal, Iron and Railroad Company:  </p><p>
+Letter, "T.C.I. Employee In Breadline After 11 Years," Jan 1936, 5</p><p>"Trade Union Topics," Feb 1936, 2</p><p> Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>"Why a Farmer-Labor Party?" Feb 1936, 8</p><p> "Ore Strike Ends in Agreement," Sep 1936, 1</p><p>"Local Leader Railroaded to Chain Gang," Sep 1936, 1</p><p>"In Dixie-Land," Sep 1936, 3
+ "Labor Spies Activity Told," Nov 1936, 1
+Trade Union Topics, Nov 1936, 2
+ "Ghost of Murdered Workers Haunts Steel Bosses' Feast," Nov 1936, 6
+ "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9
+ "Ore Miners Describe Discrimination By TCI," Jan 1937, 9
+ "Disarm Industry," Mar 1937, 2
+News Of The Month In The South, "T.C.I. Ore Miners Talk Strike Against Stretchout," Mar 1937, 11
+News Of The Month In The South, "Steel Workers In Second Sit-Down Strike," Mar 1937, 11
+ 	"Steel Victorious!" Apr 1937, 3
+News of the Month in the South, "Alabama Industry Arms Against Unions," Apr 1937, 11
+News of the Month in the South "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11
+News of the Month in the South, "Steel Drive Begun in Chattanooga," "Ore Minors Charge T.C.I. Discriminated Against Union," May 1937, 11
+Review of Month, Sep. 1937
+Review of Month, Sep 1937, 2</p><p>Tennessee Valley Authority: </p><p>
+ "Big Business Prepares War Against Labor," Jan 1936, 1 </p><p>"Impeach Those Judges Who Usurp People's Rights," Feb 1936, 1</p><p> "T.V.A. Worker Asks For Unity Of All Labor," Sep 1936, 6
+The American Scene, "Disastrous Floord Leave 1,000,000 Homeless," Mar 1937, 10
+Textile Bulletin: </p><p> "Textile Forges Ahead," Jul 1937, 5</p><p>Textile Workers of America: 
+ "Textile Gets Ready," Mar 1937, 3 
+Textile Workers Organizing Committee: </p><p> "Textile Gets Into Action," Jan 1937, 2
+ "Organize Textile!" Jan 1937, 8
+"Textile Gets Ready," Mar 1937, 3
+"Textile is Next," Apr 1937, 4
+Caption, May 1937, 3
+News of the Month in the South, "T.W.O.C. Sings Up Viscose Largest Rayon Co," May 1937, 11
+ "Louisville Mill Gets Second T.W.O.C. Charter," May 1937, 11
+News of the Month in the South, "Georgia Federation Defeats Splitting Tactics May 1937, 12
+ News of the Month in the South, "Dobbs Reelection Keeps Chattanooga C.L.U. Unified," May 1937, 12</p><p>Untitled photo, Jul 1937, 5</p><p>Textile Workers Union: </p><p>News of the Month in the South. "Chattanooga C.L.U. Backs Textile Drive," Apr 1937, 11</p><p>Thornton, Eugene:</p><p> "Samoset Mill Claims Second Labor Victim," Jan 1937, 8 
+Tittsworth, R.G.: </p><p>
+"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>Toledo Scale Company: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>Townes, Roosevelt: </p><p>News of the Month in the South. "Miss. Mob Tortures, Lynches Negroes," May 1937, 11  </p><p>Townsend Club: </p><p>
+ "Workers Social Insurance Act," Feb 1936, 2</p><p>"Why a Farmer-Labor Party?" Feb 1936, 8</p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>The People's Demands: 
+ "A People's Program," Mar 1937, 4
+Thirty hour week: 
+ "A People's Program," Mar 1937, 4
+Thomas, Bob:  </p><p> "Gadsden Workers Speed Organization Despite Attacks," Jul 1937, 13</p><p>Thomas Furnace: </p><p> "Birmingham's Tom Mooney," Jul 1937, 6</p><p>Thomas, Norman: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p> "United Front Wins Herndon Release," Jan 1936, 4</p><p>Thompson, Jack: </p><p>
+ "Unemployed Misery Deepens In The South," Jan 1936, 1</p><p>Todd, Mervin: </p><p> "Textile Organizers Beaten By Company Thugs," Jul 1937, 12</p><p>Trotskyism: </p><p>International News, Mar 1937, 10
+Build the New South: Carolinas, Apr 1937, 2</p><p>True, Ned: </p><p>
+Contributor, "With the Trade Unions," Jan 1936, 2 </p><p>Contributor, "Trade Union Topics," Feb 1936, 2</p><p>Contributor, Trade Union Topics, Sep 1936, 2
+Contributor, Trade Union Topics, Nov 1936, 2 </p><p>Tuberculosis: 
+A Page For Southern Women, Mar 1937, 14
+Tubman, Harriet: </p><p> "She Never Lost A Passenger," Jan 1937, 14</p><p>Tucker, J. R.: </p><p>
+"With the Trade Unions," Jan 1936, 2</p><p>Tupelo, Miss.: 	</p><p>Review of Month, Sep 1937, 3</p><p>Turnblazer, William: 
+News Of The Month In The South, "Miners to Organize Harlan County," Mar 1937, 11
+Turney, Pete: </p><p>
+ "Turney Sends Greetings," Jan 1936, 2</p><p>TUUL—see Trade Union Unity League</p><p>TVA—See Tennessee Valley Authority
+TWOC—see Textile Workers Organizing Committee</p><p>Typhus: </p><p>
+ "Health in Danger, Birmingham Told," Dec 1936, 13</p></odd></c><c id="aspace_ref28" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "U"</unittitle><container id="aspace_cee6fb0c44844c39fc8134d19171df1c" label="Text" type="page">U</container></did><odd id="aspace_ee05553ae452438e197ed6f0b15e2194"><head>General</head><p>Unemployment insurance: </p><p>
+Letter, "T.C.I. Using Company Unions To Fight Unemployment Tax," Feb 1936, 2</p><p>"Graves Breaks Pledge Levying Sales Tax," Feb 1936, 8</p><p>United Iron, Steel and Mine Workers Union: </p><p> "C.I.O. Fights for Unity," Jun 1937, 5</p><p>Union Label League: </p><p> "Women's Place In CIO Drive," Jan 1937, 13</p><p>Union of Soviet Socialists Republics:</p><p>
+ 	 "Stakhanov Increases Well-being Of Workers In The U.S.S.R.," Jan 1936, 3</p><p>"A Farmer Labor Party For The South," Jan 1936, 6</p><p>Title Illegible, Jan 1936, 6</p><p>"Gastonia Leader Scorns Hearst," Feb 1936, 4</p><p>"World Is Facing Danger of New Slaughter," Feb 1936, 7</p><p> "Kids In The Soviet Union," Sep 1936, 6
+"Defend Madrid; Need Munitions; Appeal for Aid," Nov 1936, 7
+ "Compare Soviet Elections With Those in America," Nov 1936, 8
+ "Soviet Most Democratic," Nov 1936, 9</p><p>"Italy, Germany Support Rebels," Dec 1936, 15 
+ 	 "What Social Security Really Means," Jan 1937, 11
+ "Here's What Soviet Workers Have," Jan 1937, 11</p><p>Photo, May 1937, 7
+United Auto Workers:</p><p>The American Scene, Jan 1937, 12
+ "Auto Strikers Win," Mar 1937, 2
+United Citrus Workers Union: </p><p>
+"Florida Klan Murder Facts Told by Writer," Jan 1936, 4</p><p>United Mine Workers of America: </p><p>
+"With the Trade Unions," Jan 1936, 2 </p><p>"Miners Hail Industrial Union Fight," Feb 1936, 1</p><p>"News In Brief," Feb 1936, 4</p><p> "Negro Congress To Fight Lynching," Feb 1936, 6</p><p>"Miners' Convention," Feb 1936, 8</p><p> "Steel Drive Moves Ahead in Alabama," Sep 1936, 1
+ "A People's Program," Mar 1937, 4
+News Of The Month In The South, "Miners Demand Passage of Youth Act," Mar 1937, 11
+News Of The Month In The South, "Miners to Organize Harlan County," Mar 1937, 11
+ 	"Textile is Next," Apr 1937, 4
+News of the Month in the South, "Miners Demand Higher Wages," Apr 1937, 11
+News of the Month in the South, "Ala. Coal Miners Hold Out for Demands," May 1937, 11
+News of the Month in the South, "Birmingham W.P.A. Workers Protest Cuts at Mass Meeting," May 1937, 13</p><p>United Mine Workers Journal:</p><p>
+Credit line, photo, Jun 1937, 6</p><p>United Rubber Workers: </p><p>
+"Steel Drive Moves Ahead in Alabama," Sep 1936, 1</p><p>United Shoe Machine Company:</p><p> "Racketeers in Patriotism," May 1937, 6</p><p>United States Bureau of Statistics: </p><p>The American Scene, Jan 1937, 12</p><p>United States Department of Labor:  </p><p>
+Trade Union Topics, Sep 1936, 2</p><p>United States Fifth Circuit Court: </p><p>
+ "Court Denies Injunction," Sep 1936, 5</p><p>United States Supreme Court: </p><p>
+"Supreme Court Rules Farm Measure Out," Jan 1936, 4	</p><p>"Miners Hail Industrial Union Fight," Feb 1936, 1 </p><p> "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14
+"Herndon Defense Wins a Victory," Jan 1937, 6</p><p>Photo caption, Jun 1937, 4</p><p>United Textile Workers of America: </p><p>"Trade Union Topics," Feb 1936, 2</p><p>"Mill Movies Hide Misery," Feb 1936, 6
+"Organizer Framed for Murder," Sep 1936, 3
+"Court Frames Organizer; Gets 10 Years," Dec 1936, 16
+ "Samoset Mill Claims Second Labor Victim," Jan 1937, 8
+ "Organize Textile!" Jan 1937, 8
+"1937—A New Year—A New Southern Worker," Jan 1937, 16
+"A People's Program," Mar 1937, 4
+"Textile is Next," Apr 1937, 4
+"They Didn't Know," May 1937, 15</p><p>United Textile Workers: </p><p>
+ "Mill Workers Freed Of Framed-Up Charge," Jan 1936, 2</p><p>University of Alabama: </p><p> "Grand Jury Refuses To Indict Thugs Who Kidnapped Joseph Gelders," Dec 1936, 14
+ 	"Disarm Industry," Mar 1937, 6
+University of Iowa: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>University of Georgia: </p><p>"Negroes Forge Ahead In Sports," Jan 1937, 10</p><p>University of Virginia: </p><p>
+ "Browder Speaks At Virginia," Sep 1936, 6</p><p>U.S. Pipe Company: </p><p>
+"Union Worker Wins Freedom In Frame-Up," Feb 1936, 7</p><p>U.S. Smelting and Refining: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>USSR:  See Union of Soviet Socialist Republics</p><p>U.S. Steel:  </p><p>
+ "Why a Farmer-Labor Party?" Feb 1936, 8
+"Disarm Industry," Mar 1937, 2 
+"Disarm Industry," Mar 1937, 6 
+"Steel Victorious!" Apr 1937, 3
+News of the Month in the South, "Steel Drive Begun in Chattanooga," May 1937, 11</p><p>Uthank, Ben: </p><p>News of the Month in the South, "Harlan Coal Operators Tyranny Over Miners Told," May 1937, 13
+ 	"Harlan Cracks Open," Jun 1937, 6</p><p>Utilities Act: </p><p>
+ "Big Business Prepares War Against Labor," Jan 1936, 1</p><p>Utley, R. Willis: </p><p>
+"Company Union Driven Out By Workers Demand," Jan 1936, 4 </p><p>UTWU, U.T.W.U.—see United Textile Workers Union</p></odd></c><c id="aspace_ref29" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "V"</unittitle><container id="aspace_fcfb6bf23c753c0a94b30bc664f114eb" label="Text" type="page">V</container></did><odd id="aspace_8281376a542a53e44f9f2324591a6a92"><head>General</head><p>Van Devanter, Willis: </p><p> 	"Communist Party Is Legal," Jun 1937, 4
+ 	"Supreme Court Tory Retires," Jul 1937, 10</p><p>Van Zeeland, Paul: </p><p>The International Scene, May 1937, 10</p><p>Virginia Bridge and Iron Company: </p><p>News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>Viscose Corporation: </p><p>News of the Month in the South, "T.W.O.C. Signs Up Viscose Largest Rayon Co," May 1937, 11</p><p>Volunteer movement: </p><p>Review of Month, Sep 1937</p><p>Voting: </p><p> "Labor Backs Fight For Voting Machines," Jan 1937, 7</p><p>Vulcan Rivet and Bolt Company: </p><p>News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p></odd></c><c id="aspace_ref30" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "W"</unittitle><container id="aspace_77539e72520acb82dd1a791855bf79a6" label="Text" type="page">W</container></did><odd id="aspace_8e415dfd2977f49d680c693a7c01729c"><head>General</head><p>WA: </p><p>
+"News In Brief," Feb 1936, 4</p><p>Wadkins, Smith: </p><p>
+"Alabama Lynchers Don't Count The Dead," Jan 1936, 4</p><p>"S.T.F.U. Meets In Arkansas," Jan 1936, 4 </p><p>Wagner Act: </p><p>
+ "Big Business Prepares War Against Labor," Jan 1936, 1
+Wages: </p><p>
+"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p>"Hod Carriers Hold Big Rally at Chattanooga," Feb 1936, 4</p><p>"Organizer Framed for Murder," Sep 1936, 3</p><p>"In Dixie-Land," Sep 1936, 3</p><p>Wagner Act: </p><p> "Protect Our Gains," May 1937, 2
+ "Southern Workers Happier Days For," Jun 1937, 2</p><p>The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>Wagner Labor Disputes Act: </p><p>"AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+ "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Wagner Labor Relations Act: </p><p> "Steel Men Join Union Fast, Congress of Industrial Organizations Leader Reports," Nov 1936, 1</p><p>Wagner, Robert:</p><p>
+Photo, May 1937, 10</p><p>Wahlforth, Robert: </p><p> "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p>Wallace, Henry: </p><p>
+"Farm Leaders Hit Reduction In Crop Acres," Feb 1936, 4</p><p>Wallace, Woodrow: </p><p>
+"Boy Miners Sue Alabama Fuel Co.," Feb 1936, 2</p><p>Walls, Ollie: </p><p> "Gadsden Workers Speed Organization Despite Attacks," Jul 1937, 13</p><p>Walls, Tommie: </p><p> "Case Effected By Scottsboro," Nov 1936, 4</p><p>Walsh-Healey Act: </p><p>"Steel Victorious!" Apr 1937, 3</p><p>Ward, George: </p><p> "Harlan Cracks Open," Jun 1937, 6</p><p>Ward, O.P.: </p><p>"Stool pigeons exposed," Jul 1937, 15 </p><p>Ward, Sears: </p><p> "Arrest Planter for Kidnapping," Nov 1936, 5</p><p>Warren, Ark.: </p><p>
+ "Court Denies Injunction," Sep 1936, 5</p><p>Warren, Ed. G., Judge: </p><p>"They Didn't Know," May 1937, 15</p><p>Warren, William "Billy": </p><p>News of the Month in the South, "Paroles Appealed for In Reeltown Cases," May 1937, 3</p><p>Washington, D.C.:</p><p>
+ "Negro Congress Called To Meet In Washington," Jan 1936, 2</p><p>"Negro Youth Hold Meeting," Sep 1936, 1</p><p>"Southern Negro, White Youth Hold Conference in Richmond," Jan 1937, 3
+The American Scene, "Youth Delegates March on Washington," Apr 1937, 10</p><p>Washington Commonwealth Federation: </p><p>The American Scene, "Washington Repeals Syndicalism Law," Apr 1937, 10</p><p>Washington State House of Representatives: </p><p>The American Scene, "Washington Repeals Syndicalism Law," Apr 1937, 10</p><p>Washington State Federation of Labor: </p><p>The American Scene, "Washington Repeals Syndicalism Law," Apr 1937, 10</p><p>Water Valley, Miss.: </p><p> "White Farmer Hangs for Murder of Negro," Jan 1937, 12</p><p>Watkins, Joseph: </p><p>"Stool pigeons exposed," Jul 1937, 15 </p><p>Watts, Clarence J.: </p><p>
+"United Front Fighting For Scottsboro Freedom," Jan 1936, 1</p><p>Watts, Clarence L.: </p><p>
+ "Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Weather: </p><p>"Prevent Floods," Mar 1937, 2
+Weekly Worker, The:  </p><p> "Textile Forges Ahead," Jul 1937, 5</p><p>Weems, Charles: </p><p>
+ "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Weems, Frank: 	</p><p> "Negro Union Leader Describes Beating," Jul 1937, 3</p><p>Weinstein, A.: </p><p> "Textile is Next," Apr 1937, 4</p><p>Welch, Homer L.: </p><p>
+"Organizer Framed for Murder," Sep 1936, 3</p><p>
+"Court Frames Organizer; Gets 10 Years," Dec 1936, 16	
+ "AF of L Reactionaries Block Support of Scottsboro Boys," Jan 1937, 4
+ "Samoset Mill Claims Second Labor Victim," Jan 1937, 8
+"Textile Gets Ready," Mar 1937, 3
+News of the Month in the South, "Talladega Cotton Mill Raises Wages 10 Per Cent," May 1937, 11
+ "Homer Welch Elected President of Alabama Federation," Jul 1937, 12</p><p>Weller, H.C.: 	</p><p>News of the Month in the South, "Mistrial In Homer Welch Case," Apr 1937, 11
+ "Racketeers in Patriotism," May 1937, 6</p><p>Wellman, Ted: </p><p>
+ Contributor, "Chattanooga Labor Union Wins Contract. Pound Strike Ends With Union Victory," Sep 1936, 2
+Contributor, "3 Strikes Called by Chattanooga Building Trades," Nov 1936, 2</p><p>Contributor, "Hosiery Workers Will Start Southern Organization Drive," Dec 1936, 14
+Contributor, "Tide of Battle Turns in Spain," Jan 1937, 14
+"More Jobless," Mar 1937, 6</p><p>Staff box, May 1937, 2	</p><p>Staff box, May 1937, 3	
+ Staff Box, Jun 1937, 2
+ "Textile Forges Ahead," Jul 1937, 5
+Staff box, Sep 1937, 2 </p><p>Wells, Mrs. B.R.: </p><p>
+Trade Union Topics, "White Legion Being Revived," Nov 1936, 2</p><p>Wenonah, Ala.: </p><p> "Ore Miners Describe Discrimination By TCI," Jan 1937, 9</p><p>West, Don: </p><p>"Ky. Alliance To Demonstrate," Jan 1937, 12
+Contributor, Build The New South, Mar 1937, 2 </p><p>Short story, "Newt Gets 'Civilized'," May 1937, 8</p><p>West, J. Terry: </p><p> "Racketeers in Patriotism," May 1937, 6</p><p>West, Thomas: </p><p> "Stool pigeons exposed," Jul 1937, 15 </p><p>Wetmore, Fred: </p><p> "Against Southern Differential Aluminum Workers Strike," Jul 1937, 11</p><p>White, Alf: </p><p>
+ "Hero of Reeltown Murdered In Jail," Jan 1936, 5</p><p>White, High: </p><p>News of the Month in the South, "Miss. Mob Tortures, Lynches Negroes," May 1937, 11</p><p>White, Hugh: </p><p>Trade Union Topics, "Fear Greeks Bringing Gifts," Nov 1936, 2</p><p>White Legion: </p><p>Trade Union Topics, "White Legion Being Revived," Nov 1936, 2</p><p>White, Maude: </p><p> Photo, Apr 1937, 4</p><p>Whitman, John: </p><p> "Sales Tax Passed In Alabama," Jan 1937, 7</p><p>Whitney Building, New Orleans: </p><p> "Sea Strike Spreads," Jan 1937, 7</p><p>Wilber, Walter: </p><p> "Samoset Mill Claims Second Labor Victim," Jan 1937, 8</p><p>Williams, Claude: </p><p> "Negro Union Leader Describes Beating," Jul 1937, 13</p><p>Williams, David: </p><p> "Gelders Kidnapped, Beaten; Protested Barton Arrest," Nov 1936, 1</p><p>Williams, Dent: </p><p>"Disarm Industry," Mar 1937, 6
+Williams, Ed: </p><p> "Negroes Forge Ahead In Sports," Jan 1937, 10	</p><p>Williams, Eugene: </p><p>
+ "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Williams, Fred: </p><p> "Mary and I Are Glad Our Son Went to Spain," Jul 1937, 8</p><p>Williams, Roger: </p><p> "The Baptists Have Fighting Traditions," Jan 1937, 15</p><p>Williamson County, Ga.: </p><p>
+ "I.L.D. Fights Extradition of Georgia Negro," Sep 1936, 3</p><p>Williamson, Mrs. C.L.: </p><p> "Negro Free, 'Shot it Out' with Sheriff," Nov 1936, 4</p><p>Williamson, W.L.: </p><p> "They Must Be Stopped," Jan 1937, 2
+ "Steel Workers Soon To 'Talk Turkey," Jan 1937, 9</p><p>Willie, Sallie: </p><p>
+ "Hero of Reeltown Murdered In Jail," Jan 1936, 5</p><p>Wilson, Woodrow: </p><p>
+"Investigation Puts War Blame On Big Bankers," Feb 1936, 1</p><p>Winona, Miss.: </p><p>News of the Month in the South, "Miss. Mob Tortures, Lynches Negroes," May 1937, 11
+ "Pass Anti-Lynch Bill," Jul 1937, 2</p><p>Winston county, Ala.: </p><p>"Farmers of Tomorrow," May 1937, 15</p><p>Winston, Henry: </p><p> "Negro Youth Unite," Apr 1937, 5</p><p>Winston-Salem, N.C. Winston-Salem Teachers College: </p><p>News of the Month in the South, "Negro Youth Congress Extends Work Through South," May 1937, 13</p><p>Winston-Salem, N.C.: </p><p>
+"News In Brief," Feb 1936, 4</p><p> "N.C. Convention Endorses Alliance," Sep 1936, 3</p><p>Wichita, Kan: </p><p>Photo caption, Earl Browder, Nov 1936, 3 </p><p>Wolfe, George: </p><p> "AF of L To Help Organize Agricultural Workers," Jan 1937, 5</p><p>Woll, Matthew:</p><p> "Prevent a Split in the AF of L," Jan 1937, 2</p><p>Woodward Building, Birmingham: </p><p> "They Must Be Stopped," Jan 1937, 2</p><p>Woodward Iron Company: </p><p>News of the Month in the South, "12,000 Birmingham Steel Workers Get Union Recognition," May 1937, 11</p><p>Wooster, Ohio: </p><p>
+ "Strikers Given Sentences," Sep 1936, 6</p><p>Workers Alliance of America: </p><p>
+"Workers Leader Victim Memphis Police Terror," Feb 1936, 6</p><p> "N.C. Convention Endorses Alliance," Sep 1936, 3</p><p> "Ky. Unemployed Launch Drive for Organization," Sep 1936, 3
+ "A Christmas Present!," Jan 1937, 2
+ "Ky. Alliance To Demonstrate," Jan 1937, 12
+ "425,000 To Be Cut Off WPA," Jan 1937, 13
+"More Jobless," Mar 1937, 6
+The American Scene, "Governors Protest W.P.A. Cuts," Apr 1937, 10</p><p>Workmen's Circle: </p><p>
+ "Trade Unions Help Spain," Sep 1936, 2</p><p>Works Progress Administration: </p><p>
+"Unemployed Misery Deepens In The South," Jan 1936, 1</p><p> "WPA Workers Sentenced," Jan 1936, 3</p><p>"Company Union Driven Out By Workers Demand," Jan 1936, 4</p><p>Letter, "Relief Workers Win Free Fare By Organization," Jan 1936, 5 </p><p>"Red Scare Fails To Split Ranks of WPA Locals," Feb 1936, 1</p><p>"Trade Union Topics," Feb 1936, 2</p><p>Letter, "WPA Workers Get Together Despite Boss," Feb 1936, 4</p><p>"Hod Carriers Hold Big Rally at Chattanooga," Feb 1936, 4</p><p>Letter, "Foremen Abuse Negroes on WPA," Feb 1936, 5  </p><p>"WPA Worker Framed On Attack Charge," Feb 1936, 6
+ "A Farmer Labor Party For The South," Jan 1936, 6
+"Ky. Unemployed Launch Drive for Organization," Sep 1936, 3
+ "Farm Conference Demands Relief," Nov 1936, 5
+ "Ky. Alliance To Demonstrate," Jan 1937, 12</p><p> "1937—A New Year—A New Southern Worker," Jan 1937, 16
+ Build The New South, Mar 1937, 2
+"More Jobless," Mar 1937, 6  
+News Of The Month In The South, "Steel Workers In Second Sit-Down Strike," Mar 1937, 11
+"The Only Road," Mar 1937, 15
+News of the Month in the South, "Birmingham W.P.A. Workers Protest Cuts at Mass Meeting," May 1937, 13
+News of the Month in the South, "San Antonio W.A. Starts Organization Drive," May 1937, 13</p><p>WPA:  See Works Progress Administration</p><p>Wright, Andy: </p><p>
+ "Attorneys For Scottsboro Boys Issue Statement." Feb 1936, 3 </p><p>Wright, Elaine: 
+ News Of The Month In The South, "Miners Help Striking Clothing Workers," Mar 1937, 11
+Wright, E.E.: </p><p>News of the Month in the South, "Miss. Mob Tortures, Lynches Negroes," May 1937, 11</p><p>Wright, Roy: </p><p>
+"Sheriff Shoots Scottsboro Boy," Feb 1936, 1</p><p>Letter, "Attorneys For Scottsboro Boys Issue Statement," Feb 1936, 3</p><p>Wynn, W.J.: </p><p> "Try To Segregate Negroes In Buses," Nov 1936, 4</p></odd></c><c id="aspace_ref32" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "Y"</unittitle><container id="aspace_0eceddcf34e4f239ebbe3fe4ed5d09bb" label="Text" type="page">Y</container></did><odd id="aspace_e21abeb75087523acf3a45c810f7b38f"><head>General</head><p>Yackow, Gertrude:  </p><p> "Gadsden Workers Speed Organization Despite Attacks," Jul 1937, 13</p><p>Yalobusha county, Miss.: </p><p> "White Farmer Hangs for Murder of Negro," Jan 1937, 12</p><p>Young Communist League: </p><p> "Yes, Communists Run James Ford, Republicans Told," Nov 1936, 3
+ "Negro Youth Unite," Apr 1937, 6</p><p>Photo caption, Jun 1937, 4</p><p>Young, Leah:  </p><p> "Four Taken For Ride," Jan 1937, 15</p><p>Young, J.A.: </p><p> "Sheriff Threatens Forced Labor for Georgia Unemployed," Jul 1937, 12</p><p>Young Men's Christian Association: </p><p> "Negro Youth Unite," Apr 1937, 6</p><p>Youngstown Sheet and Tube Co.:</p><p>
+The American Scene, "S.W.O.C. Wins 5-2 In J. And L. Election," Jul 1937, 10</p><p>Youngston Steel &amp; Tube Co.:  See Youngstown Sheet and Tube Co.</p></odd></c><c id="aspace_ref33" level="otherlevel" otherlevel="Index"><did><unittitle>Contents Indexed under the Letter "Z"</unittitle><container id="aspace_ee877dc5d938c99414c20993ae2207ed" label="Text" type="page">Z</container></did><odd id="aspace_5713e2a2576663f79c084841d52d0206"><head>General</head><p>Zaphire, Tasfaye: </p><p>
+"Negro Congress To Fight Lynching," Feb 1936, 6 </p><p>Zenith Coal Mine: </p><p> 	"Union Miners Attacked in Fentress Co., Tenn.," Jul 1937, 12</p></odd></c></dsc>
+</archdesc>
+</ead>

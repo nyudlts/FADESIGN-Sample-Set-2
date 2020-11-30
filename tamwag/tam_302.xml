@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_302</eadid><filedesc><titlestmt><titleproper>Guide to the Howard and Beatrice Langford Papers <num>TAM.302</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:24:12 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Howard and Beatrice Langford Papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Soule, Alexis</persname>
+    </origination>
+    <unitid>TAM.302</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">17 Linear Feet</extent>
+      <extent altrender="carrier">(17 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_c9efbe215eb525fb3cd997e9f28e2234" label="Mixed Materials [31142063258118]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_7d6bb23f7c415026dae452fef4d61d1d" label="Mixed Materials [31142063258126]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_abf70ce3e4d6b7f97b8ba081f3bac9d3" label="Mixed Materials [31142063258159]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_5cd5477268318a6b20e4f1bbb4657bb2" label="Mixed Materials [31142063258167]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_53684e01dbc9722e2fb98d8df168d3be" label="Mixed Materials [31142063258225]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_584dadc301a2d4917c07c84068872077" label="Mixed Materials [31142063258233]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_5d4dbd2b45dfc5a2adc37885f112e12b" label="Mixed Materials [31142063258241]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_51fe7b8104d97e31cad7214f539457be" label="Mixed Materials [31142063258258]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_e19d6eb315de1741e35137c1d1301528" label="Mixed Materials [31142063258134]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_e2f4c79b3729890ecb5c818b02ce3f42" label="Mixed Materials [31142063258142]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_3cbb857f91bf3f49143e06d8d9aad1b2" label="Mixed Materials [31142063258266]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_a448b0369c51f8515060585b26bcf320" label="Mixed Materials [31142063258175]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_ef90be8e085d3f3037cbcdc6a671d861" label="Mixed Materials [31142063258183]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_fe3474f060e3a0ce770f0097fee30af2" label="Mixed Materials [31142063258191]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_f32bf570b3f532cf8e411b2f006b3d77" label="Mixed Materials [31142063258217]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_82fd899325268579159076b404224777" label="Mixed Materials [31142063258209]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_5463e7ecf3a605a9624a099b2a18e533" label="Mixed Materials [31142063258274]" type="box">17</container>
+  </did>
+  <accessrestrict id="aspace_47f2e15e01d7d804748ec3cb7b2ca5e6">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_d3d76e17501fe301252787c294277406">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Alexis Soule circa 2002. The accession number associated with this gift is 2002.040.</p>  </acqinfo>
+  <prefercite id="aspace_79360f7d9d976ac88373ebb6b26c0fad">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Howard and Beatrice Langford Papers; TAM 302; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <userestrict id="aspace_096e9281cdaa866c2e696db2eca46a43">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Alexis Soule was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Soule, Alexis</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

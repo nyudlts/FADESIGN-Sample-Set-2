@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_658">tam_658</eadid><filedesc><titlestmt><titleproper>Charles Keller Papers and Artwork<num>TAM.658</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:33:56 -0500</date>.</creation></profiledesc><revisiondesc><change><date>August 2017</date><item>Updated by Megan O'Shea to incorporate artwork being sent to offsite art storage in September 2017.</item></change><change><date>October 2018</date><item>Updated by Jacqueline Rider to reflect processing of undescribed materials.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Charles Keller Papers and Artwork</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Keller, Marthe, 1968-</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Keller, Charles, 1914-2006</persname>
+    </origination>
+    <unitid>TAM.658</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
+      <extent altrender="carrier">2 record cartons and 10 oversize flat boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <abstract id="aspace_f40740db0df0201d1726a2439404f9e9">Charles Keller (1914-2006) was a painter, printmaker, cartoonist and political activist. He studied printmaking at the Art Students League, NY, with Harry Sternberg and Will Barnet in the late 1930s and early 40s. Scenes of labor and portraits of the disenfranchised are prominent in his work. This collection consists of personal papers plus sketches and other original artwork from his training and career.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_67d8adcb399de2119687396e3de8c564" label="Mixed Materials [31142063125820]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_1549697e3f96278f15d32962efa25b2d" label="Mixed Materials [31142063125838]" type="box">2</container>
+    <container altrender="Flat OS Box - 17 - lengthwise" id="aspace_dacd626559f676a8aa324a3a83eb619a" label="Mixed Materials [31142063398575]" type="box">3</container>
+    <container altrender="OS Flat Box - 13.5 - lengthwise" id="aspace_a7509f75fb0a8d0471de36f1a8e6f3da" label="Mixed Materials [31142063398591]" type="Box">4</container>
+    <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_ccc2ee3698905293ec83a11823ad8d14" label="Mixed Materials [31142063398534]" type="Box">5</container>
+    <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f5dd90bd42a01f87b25c7d0b1c94dd79" label="Mixed Materials [31142063398559]" type="Box">6</container>
+    <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d1babb5c1d02ee907e69cf3c25a85706" label="Mixed Materials [31142063398567]" type="Box">7</container>
+    <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_72d10abe42065938a770b69dccfe5d94" label="Mixed Materials [31142063398542]" type="Box">8</container>
+    <container altrender="Flat OS Box - 17 - lengthwise" id="aspace_5e3c4db7491fac9252727f1aa9fe73bc" label="Mixed Materials [31142063398583]" type="Box">9</container>
+    <container altrender="OS Flat Box - 16.75 - lengthwise" id="aspace_1c29e366971c465f962486ecdf41181d" label="Moving Images [31142063130762]" type="Box">10</container>
+    <container altrender="OS Flat Box - 16.75 - lengthwise" id="aspace_ed9b13885613dd99bcd20facf7a015e2" label="Mixed Materials [31142063130770]" type="Box">11</container>
+    <container altrender="OS Flat Box - 20.25 x 24.5" id="aspace_53e1e530b201fc859ce2519cfec91ab0" label="Mixed Materials [31142063130788]" type="Box">12</container>
+    <container altrender="OS Flat Box - 20.25 x 24.5" id="aspace_ef1e6823244e304b6d7e63a36ef5e66e" label="Mixed Materials [31142063130796]" type="Box">13</container>
+  </did>
+  <accessrestrict id="aspace_f77518505579a2432d2f6e900f1fa565">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_c91db311dd0883425ce4abf9121b252e">
+    <head>Immediate Source of Acquisition</head>
+<p>The Keller family, as represented by Marthe Keller, donated Charles Keller's personal papers to the Tamiment Library and sold his original art to Tamiment in 2014. The accession numbers related to this gift are 2014.173 and 2018.005.</p>  </acqinfo>
+  <processinfo id="aspace_0bedbf1a0f5389bef1f6918b8d067902">
+    <head>Processing Information</head>
+<p>In August 2017, one item was prepared to be moved to offsite art storage in September 2017.</p>  </processinfo>
+  <userestrict id="aspace_1bf24cd91adf71d7237361a09378a967">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Charles Keller estate were transferred to New York University in 2014. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Political cartoons.</genreform>
+    <genreform source="aat">Caricatures.</genreform>
+    <genreform source="aat">Drawings</genreform>
+    <persname role="dnr" rules="dacs" source="local">Keller, Marthe, 1968-</persname>
+    <corpname rules="dacs" source="naf">Workshop of Graphic Art (New York, N.Y.)</corpname>
+    <persname rules="dacs" source="naf">Gellert, Hugo, 1892-1985</persname>
+  </controlaccess>
+  <dsc><c id="aspace_98b6c6d1f5f63a8a2e6124d5271e748a" level="file"><did><unittitle>Untitled [figures on recto/man in boat on verso]</unittitle><unitid>cuid887</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 item</extent><physfacet>one painting</physfacet></physdesc><unitdate normal="1936/1976" type="inclusive">Undated</unitdate><container id="aspace_551c5317d614e3117bd96f6aa2e2f5ea" label="Mixed Materials" type="item">TAM.658.cuid887</container></did><controlaccess><genreform source="aat">Paintings (visual works)</genreform></controlaccess></c></dsc>
+</archdesc>
+</ead>

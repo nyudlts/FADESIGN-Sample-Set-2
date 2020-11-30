@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/CALL_NUMBER/">tam_007_011</eadid><filedesc><titlestmt><titleproper>Rand School of Social Science Records: Addendum<num>TAM.007.011</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:03:53 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Rand School of Social Science Records: Addendum</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Rand School of Social Science</corpname>
+    </origination>
+    <origination label="source">
+      <corpname source="local">People's Educational Camp Society</corpname>
+    </origination>
+    <unitid>TAM.007.011</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">8.5 Linear Feet</extent>
+      <extent altrender="carrier">17 boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Manuscript box - Legal" id="aspace_ec473b64c8a37e3fc8ebd3a4331ec74a" label="Mixed Materials [31142062761765]" type="Box">1</container>
+    <container altrender="Manuscript box - Legal" id="aspace_526f89a7a492fed18f157bf3961e91ff" label="Mixed Materials [31142062761773]" type="Box">2</container>
+    <container altrender="Manuscript box - Legal" id="aspace_433b3d86190a914ee620b6896ef48987" label="Mixed Materials [31142062761781]" type="Box">3</container>
+    <container altrender="Manuscript box - Legal" id="aspace_010fa9863794841a860cb1c0d55f8a46" label="Mixed Materials [31142062761799]" type="Box">4</container>
+    <container altrender="Manuscript box - Legal" id="aspace_9a8316777d0082d64714df2002526d96" label="Mixed Materials [31142062761807]" type="Box">5</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_1643cec92ec22befee3c441af53e0574" label="Mixed Materials [31142062761815]" type="Box">6</container>
+    <container altrender="Manuscript box - Legal" id="aspace_caa8f180d0eb76bb28694f9c7870146e" label="Mixed Materials [31142062761823]" type="Box">7</container>
+    <container altrender="Manuscript box - Legal" id="aspace_523cf5dca9145f82486ad62b6e554192" label="Mixed Materials [31142062761831]" type="Box">8</container>
+    <container altrender="Manuscript box - Legal" id="aspace_a733d975f13cf64fb7dbc0566d55d867" label="Mixed Materials [31142062761856]" type="Box">9</container>
+    <container altrender="Manuscript box - Legal" id="aspace_1a7823c2dbaadfe096818ff9b857097c" label="Mixed Materials [31142062761849]" type="Box">10</container>
+    <container altrender="Manuscript box - Legal" id="aspace_e0dd8a77ddfc5bac3d79c7c720311ede" label="Mixed Materials [31142062761864]" type="Box">11</container>
+    <container altrender="Manuscript box - Legal" id="aspace_cff1321ed52608f73c416074c706154c" label="Mixed Materials [31142062761872]" type="Box">12</container>
+    <container altrender="Manuscript box - Legal" id="aspace_b5cd0f239533998c9203fc03b8d5813d" label="Mixed Materials [31142062761757]" type="Box">13</container>
+    <container altrender="Manuscript box - Legal" id="aspace_1ef9fbd0e394eb4b637c63e0c7f27ec3" label="Mixed Materials [31142062761880]" type="Box">14</container>
+    <container altrender="Manuscript box - Legal" id="aspace_1f99c8a713a93a5f09de8eebe99469f2" label="Mixed Materials [31142062761898]" type="Box">15</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_e35ad4d46ee2430690d34a4d3ff134fc" label="Mixed Materials [31142062761906]" type="Box">16</container>
+    <container altrender="Hollinger Flat OS 13" id="aspace_de958ca3cb6bee1f7f15432eee45ba75" label="Mixed Materials [31142062757599]" type="Box">17</container>
+  </did>
+  <controlaccess>
+    <corpname role="fmo" source="local">People's Educational Camp Society</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_3111f61eec29c053bcbb5bb1423684a1" level="file"><did><unittitle>Unprocessed Materials</unittitle><container altrender="Flat OS Box - 17 - lengthwise" id="aspace_98b9e0f0e0068dd4e356cecb7cc48b90" label="Mixed Materials [31142062760064]" type="box">OS006</container><container id="aspace_336a832fce9dffb6bcf68d1ef17615da" parent="aspace_98b9e0f0e0068dd4e356cecb7cc48b90" type="Folder">1</container></did></c></dsc>
+</archdesc>
+</ead>

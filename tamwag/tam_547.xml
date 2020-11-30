@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_547</eadid><filedesc><titlestmt><titleproper>Guide to the Jonathan Hafetz Papers on the Guantanamo Bay Detention Camp <num>TAM.547</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:30:04 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Jonathan Hafetz Papers on the Guantanamo Bay Detention Camp</unittitle>
+    <origination label="source">
+      <persname source="naf">Hafetz, Jonathan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="naf">Hafetz, Jonathan</persname>
+    </origination>
+    <unitid>TAM.547</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate normal="2005/2008" type="inclusive">2005-2008</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_64235a7533b150d2e6610c546b8478bf" label="Mixed Materials [31142062730489]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_67bedaa7e4e4551802cda976da8a24f2" label="Mixed Materials [31142062730497]" type="Box">2</container>
+  </did>
+  <accessrestrict id="aspace_4ccf0eae1663e5eb3409ebd6a30310d7">
+    <head>Conditions Governing Access</head>
+<p>Access to the Jonathan Hafetz Papers on the Guantanamo Bay Detention Camp is restricted.</p>  </accessrestrict>
+  <acqinfo id="aspace_751176fe55400233fb481a40aef64bc9">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection, provenance is unknown. The accession number associated with this collection is 2010.062.</p>  </acqinfo>
+  <prefercite id="aspace_d711b894caac68464087a8a528d92212">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Jonathan Hafetz Papers on the Guantanamo Bay Detention Camp; TAM 547; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_29c1882abe044c7b4d889cfdb1af96cc">
+    <head>Scope and Contents</head>
+<p>Legal files and court documents regarding the case of Ali Saleh Kahlah Al-Marri.</p>  </scopecontent>
+  <userestrict id="aspace_4166df6f51afa6d9e3447a42c3cc579c">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 2005-2008, are expected to enter the public domain in 2128.</p>  </userestrict>
+  <controlaccess>
+    <persname role="fmo" source="naf">Hafetz, Jonathan</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

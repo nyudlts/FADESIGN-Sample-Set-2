@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/CALL_NUMBER/">films_015</eadid><filedesc><titlestmt><titleproper>Center for Cuban Studies films<num>FILMS.015</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:11:52 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Center for Cuban Studies films</unittitle>
+    <unitid>FILMS.015</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">12 boxes</extent>
+      <extent altrender="carrier">(12 linear feet)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <container altrender="Film can 16.5 - upright" id="aspace_3141bca197a16ff2abd3ca9d49b0ec15" label="Moving Images [31142063128337]" type="reel">12</container>
+    <container altrender="Film can 16.5 - upright" id="aspace_df7acfca5a00890525ee5f5dc57c6c9e" label="Moving Images [31142063270998]" type="reel">11</container>
+    <container altrender="Film Can - 11" id="aspace_b90a12067b900ae587642a8a62c30036" label="Moving Images [31142063129202]" type="reel">1</container>
+    <container altrender="Film Can - 11" id="aspace_84df6320f3b5bfdbd2e237519b10344e" label="moving images [31142063129210]" type="reel">2</container>
+    <container altrender="Film Can - 11" id="aspace_132b3cf9c37200ecb24d9531cf8d8765" label="Moving Images [31142063129228]" type="reel">3</container>
+    <container altrender="Film Can - 11" id="aspace_a8eecb8cb9539bb529150fe9958f9e09" label="Moving Images [31142063129236]" type="reel">4</container>
+    <container altrender="Film Can - 11" id="aspace_de539a60860f2052933a351dc18b171a" label="Moving Images [31142063129244]" type="reel">5</container>
+    <container altrender="Film Can - 11" id="aspace_f27173ce24a58f518c57ff288b81718a" label="Moving Images [31142063129251]" type="reel">6</container>
+    <container altrender="Film Can - 11" id="aspace_715565beea7d034e0f57d006a3659920" label="Moving Images [31142063129269]" type="reel">7</container>
+    <container altrender="Film Can - 11" id="aspace_b282c3763b7e213427482282421fe6cd" label="Moving Images [31142063129285]" type="reel">8</container>
+    <container altrender="Film Can - 11" id="aspace_d7e1df2b8e9c75101aeb271b9a59025b" label="Moving Images [31142063129293]" type="reel">9</container>
+    <container altrender="Film Can - 11" id="aspace_d11a6ca6e21be82ebf6e6abd3cb68d93" label="Moving Images [31142063129301]" type="reel">10</container>
+    <container altrender="Film Can - 11" id="aspace_a68f19f0865216cd0a0e1f2dc7ebf75b" label="Moving Images [31142063129319]" type="reel">13</container>
+    <container altrender="Film Can - 11" id="aspace_fce116ad71104d2218d237a8d077be9d" label="Moving Images [31142063129327]" type="reel">14</container>
+    <container altrender="Film Can - 11" id="aspace_b6feb942b4552aeafdb0de0af170e700" label="Moving Images [31142063129335]" type="reel">15</container>
+    <container altrender="Film Can - 11" id="aspace_5ec80d54f4bad41141c319ba64117448" label="Moving Images [31142063129343]" type="reel">16</container>
+    <container altrender="Film Can - 11" id="aspace_8d054531dd09e7adaabef5bbcbc81533" label="Moving Images [31142063129350]" type="reel">17</container>
+    <container altrender="Film Can - 15.25" id="aspace_6be429b8b4ab55ec8b6d7173cb1423a4" label="Moving Images [31142063129442]" type="reel">18</container>
+    <container altrender="Film Can - 15.25" id="aspace_59106e929b1bbffa1e4683b9bc991369" label="Moving Images [31142063129459]" type="reel">19</container>
+    <container altrender="Film Can - 15.25" id="aspace_b66ff1855d96af47517d66ed15c57a77" label="Moving Images [31142063129467]" type="reel">20</container>
+    <container altrender="Film Can 12 - thin" id="aspace_f484ddc9e1306a720d4929e2023f6967" label="Moving Images [31142063129277]" type="reel">21</container>
+    <container altrender="Film Can - 11" id="aspace_5ca7cfaf3015bfaa944d98a0de69ee90" label="Moving Images [31142063129780]" type="reel">22</container>
+    <container altrender="Film Can - 11" id="aspace_9b7c899ba8d92a076c7115cf64f27484" label="Moving Images [31142063129772]" type="reel">23</container>
+    <container altrender="Film Can - 11" id="aspace_8615efca4b4c1d0cdf91c2e1cddda57a" label="Moving Images [31142063129764]" type="reel">24</container>
+    <container altrender="Film Can - 11" id="aspace_880e63f3b617cd0309677a6957bd0083" label="Moving Images [31142063129756]" type="reel">25</container>
+    <container altrender="Film Can - 11" id="aspace_32f92789066ff7e22deccf6b3328a8cc" label="Moving Images [31142063129749]" type="reel">26</container>
+    <container altrender="Film Can - 11" id="aspace_69e2aa4467659ca86f48005cc8ddf646" label="Moving Images [31142063129731]" type="reel">27</container>
+    <container altrender="Film Can - 11" id="aspace_84fe029920556e11d32f2c6091577bb7" label="Moving Images [31142063129723]" type="reel">28</container>
+    <container altrender="Film Can - 11" id="aspace_755201686b98e6bfbd5f9e9a0aeae2f7" label="Moving Images [31142063129863]" type="reel">29</container>
+    <container altrender="Film Can - 11" id="aspace_a7e60a2cbb0ad1f9b30007f232fedde1" label="Moving Images [31142063129855]" type="reel">30</container>
+    <container altrender="Film Can - 11" id="aspace_f31884b69f3b806a13cc05104846bc92" label="Moving Images [31142063129848]" type="reel">31</container>
+    <container altrender="Film Can - 11" id="aspace_3bfa2e74f25571dc843838c29c8dacd4" label="Moving Images [31142063129830]" type="reel">32</container>
+    <container altrender="Film Can - 11" id="aspace_62bc9f62b850a6a5aa0249ee145fd27b" label="Moving Images [31142063129822]" type="reel">33</container>
+    <container altrender="Film Can - 11" id="aspace_4ab47f6ed3ac7f64b3c630ea3b1d15cb" label="Moving Images [31142063129814]" type="reel">34</container>
+    <container altrender="Film Can - 11" id="aspace_b1cc96c5a88463d0876cfbd554caa8b5" label="Moving Images [31142063129806]" type="reel">35</container>
+    <container altrender="Film Can - 11" id="aspace_e53d6f80adf5ebeb90443443b96c225b" label="Moving Images [31142063129798]" type="reel">36</container>
+    <container altrender="Record carton" id="aspace_5efd69abf464b01508d46d3cee3a5c5d" label="Moving Images [31142063130101]" type="Box">37</container>
+    <container altrender="Record carton" id="aspace_a99c07345c74f775e966f1d689c7e71a" label="Moving Images [31142063130085]" type="Box">38</container>
+    <container altrender="Film Can 14.25 - thick" id="aspace_daaa9adadea0e70e1322cc7b032d6459" label="Moving Images [31142063129475]" type="reel">39</container>
+    <container altrender="Film Can 10.5 - thick" id="aspace_c296d3c303cef6c2eaf12619ceb1d77a" label="Moving Images [31142063129368]" type="reel">40</container>
+    <container altrender="Film Can - 10.5" id="aspace_21cb40e413f58d9de97b2c34b1d555b9" label="Moving Images [31142063129376]" type="reel">41</container>
+    <container altrender="Film Can - 10.5" id="aspace_a19ef16f39644d8954fb178ada6d2a00" label="Moving Images [31142063129384]" type="reel">42</container>
+    <container altrender="Film Can - 10.5" id="aspace_82590003ff25f234eadf864da43bd488" label="Moving Images [31142063129392]" type="reel">43</container>
+    <container altrender="Film Can - 10.5" id="aspace_94bb26de7ea8a588c874c2c4df603d9a" label="Moving Images [31142063129418]" type="reel">45</container>
+    <container altrender="Film Can - 10.5" id="aspace_eea8cbcbada26535b71e9105f7388b6d" label="Moving Images [31142063129426]" type="reel">46</container>
+    <container altrender="Film Can - 11" id="aspace_78a791857c29a801ae18d45fac79e461" label="Moving Images [31142063129483]" type="reel">48</container>
+    <container altrender="Film Can - 10.5" id="aspace_2da5fe13f389fcc2af3d2b1b96fbf2f6" label="Moving Images [31142063129434]" type="reel">47</container>
+    <container altrender="Film Can - 11" id="aspace_53a1dbca37523fc67d4ecaa6ebba7e7a" label="Moving Images [31142063129491]" type="reel">49</container>
+    <container altrender="Film Can - 11" id="aspace_b10d8fcb337a7c146fafe3da2fd3b40f" label="Moving Images [31142063129509]" type="reel">50</container>
+    <container altrender="Film Can - 10.5" id="aspace_5d9f00df5d5ae4ab537f88356c1054e2" label="Moving Images [31142063129400]" type="reel">44</container>
+    <container altrender="Film Can - 11" id="aspace_12c8418ec4b5bff6b615918e40167863" label="Moving Images [31142063129517]" type="reel">51</container>
+    <container altrender="Film Can - 11" id="aspace_0b3a676d90129a778a24465589499690" label="Moving Images [31142063129525]" type="reel">52</container>
+    <container altrender="Film Can - 11" id="aspace_0049333aea69e1922eb733ec982f8444" label="Moving Images [31142063129533]" type="reel">53</container>
+    <container altrender="Film Can - 11" id="aspace_dc21a0d1d13cfa8ae47021f8f84c2be7" label="Moving Images [31142063129541]" type="reel">54</container>
+    <container altrender="Film Can" id="aspace_4ff1c295805ee4c3b6e15bb29d36ca00" label="Moving Images [31142063129558]" type="reel">55</container>
+    <container altrender="Film Can - 11" id="aspace_e33ede45cd4a80489d1d6e2991dccb9e" label="Moving Images [31142063129566]" type="reel">56</container>
+    <container altrender="Film Can - 11" id="aspace_6e0fe97f43ce1194471758f1907f486b" label="Moving Images [31142063129574]" type="reel">57</container>
+    <container altrender="Film Can - 11" id="aspace_b888445b0f741f1d31fbe11a991c0a62" label="Moving Images [31142063129582]" type="reel">58</container>
+    <container altrender="Film Can - 11" id="aspace_097109a70b663243fb6f03cc83db299a" label="Moving Images [31142063129590]" type="reel">59</container>
+    <container altrender="Film Can - 15.25" id="aspace_4bd65cb2887ac5563f6ca6afe8133671" label="Moving Images [31142063129996]" type="reel">60</container>
+    <container altrender="Film Can - 15.25" id="aspace_92625014de0d749751a53aca0d382384" label="Moving Images [31142063130002]" type="reel">61</container>
+    <container altrender="Film Can 11 - thin" id="aspace_3c910bdcb5a41059fb1a827689e5a6f8" label="Moving Images [31142063129608]" type="reel">62</container>
+    <container altrender="Film Can 11 - thin" id="aspace_f6f28c8c54871df19b14e3cf5637e82a" label="Moving Images [31142063129616]" type="reel">63</container>
+    <container altrender="Film Can - 11" id="aspace_bc0076936c0674d7cf9b2743119771a6" label="Moving Images [31142063129871]" type="reel">64</container>
+    <container altrender="Film Can - 11" id="aspace_7d9651a4c253aad234296ec9d2baa059" label="Moving Images [31142063129889]" type="reel">65</container>
+    <container altrender="Film Can - 11" id="aspace_0183ded959cb869a069311d336eb3a3d" label="Moving Images [31142063129897]" type="reel">66</container>
+    <container altrender="Film Can - 11" id="aspace_3d80293a16ce8b59f3aa669a5ee446dc" label="Moving Images [31142063129905]" type="reel">67</container>
+    <container altrender="Film Can - 11" id="aspace_b608eb0b34e7e9e2248fb47bcc526eb8" label="Moving Images [31142063129913]" type="reel">68</container>
+    <container altrender="Film Can - 11" id="aspace_a180b8067c1d691df6428d4550276977" label="Moving Images [31142063129921]" type="reel">69</container>
+    <container altrender="Film Can - 11" id="aspace_3e3007d056efb41efee35c3c1114990a" label="Moving Images [31142063129939]" type="reel">70</container>
+    <container altrender="Film Can 11 - thin" id="aspace_9a5f9489ce610a8375de9db584f33e01" label="Moving Images [31142063130192]" type="reel">71</container>
+    <container altrender="Film Can 11 - thin" id="aspace_47458cab6f006976d36759b9a0355018" label="Moving Images [31142063130184]" type="reel">72</container>
+    <container altrender="Film Can 11 - thin" id="aspace_0691e14a6365155f33fee9a18e2a2ffb" label="Moving Images [31142063130176]" type="reel">73</container>
+    <container altrender="Film Can 11 - thin" id="aspace_0c14142a7a13a8d71e2f26c35dbdefe0" label="Mixed Materials [31142063130168]" type="reel">74</container>
+    <container altrender="Film Can 11 - thin" id="aspace_069a36ee24670b2a2f8bd8ebe924bde0" label="Moving Images [31142063130150]" type="reel">75</container>
+    <container altrender="Film Can 11 - thin" id="aspace_e4bf85b15e207290726a0987d8118631" label="Moving Images [31142063130143]" type="reel">76</container>
+    <container altrender="Film Can - 11" id="aspace_ed778cca1d96ae828f21b9c617bcebaa" label="Moving Images [31142063130127]" type="reel">77</container>
+    <container altrender="Film Can - 11" id="aspace_f444abbbb124d473b88ca1e00dfc7dcf" label="Moving Images [31142063130135]" type="reel">78</container>
+    <container altrender="Film Can - 11" id="aspace_1dd6732d354cf8c41dafb6d9ca363c86" label="Moving Images [31142063130119]" type="reel">79</container>
+    <container altrender="Film Can - 11.25 " id="aspace_914fa82468f4229a5f434099fed49e68" label="Moving Images [31142063130010]" type="reel">80</container>
+    <container altrender="Film Can - 11.25 " id="aspace_c0297ede27c686be933aa1872d0f79a2" label="Moving Images [31142063130028]" type="reel">81</container>
+    <container altrender="Film Can - 11.25 " id="aspace_c67c750b62613bc37ca4e0e8da7fbc5d" label="Moving Images [31142063130036]" type="reel">82</container>
+    <container altrender="Film Can - 11.25 " id="aspace_27e36d92c3c86cf646065c57f770634a" label="Moving Images [31142063130044]" type="reel">83</container>
+    <container altrender="Film Can - 11.25 " id="aspace_aee4d518e31677159db7e87b7b87e0f3" label="Moving Images [31142063130051]" type="reel">84</container>
+    <container altrender="Film Can - 11.25 " id="aspace_8c40d417480ec23e073707c3af65955e" label="Moving Images [31142063130069]" type="reel">85</container>
+    <container altrender="Film Can - 11.25 " id="aspace_7ceee2825e4325d42ada975e82946ffc" label="Moving Images [31142063130077]" type="reel">86</container>
+    <container altrender="Film Can - 11.25 " id="aspace_e1943589f1aef056331a6796685bb506" label="Moving Images [31142063130093]" type="reel">87</container>
+    <container altrender="Film Can - 12.25" id="aspace_f03936bc689e6e3359bf04c15e3c5fa8" label="Moving Images [31142063129947]" type="reel">88</container>
+    <container altrender="Film Can 14.25 " id="aspace_ca904097043504973399fef7878531f7" label="Moving Images [31142063129954]" type="reel">89</container>
+    <container altrender="Film Can 14.25 " id="aspace_81190c5ee402baa4ef555cbd85031058" label="Moving Images [31142063129962]" type="reel">90</container>
+    <container altrender="Film Can 14.25 " id="aspace_ffd1da2f8f9d0c7ad1ceaa6b528389ca" label="Moving Images [31142063129970]" type="reel">91</container>
+    <container altrender="Film Can - 15.25" id="aspace_b7ac3459d1f14914695c77e6f75309f0" label="Moving Images [31142063129988]" type="reel">92</container>
+  </did>
+  <dsc/>
+</archdesc>
+</ead>

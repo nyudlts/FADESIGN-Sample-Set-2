@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">oh_053</eadid><filedesc><titlestmt><titleproper>Harry Fleischman - History of American Socialism and Other Topics Oral History Collection (Addendum 2005)<num>OH.053</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:14:43 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Harry Fleischman - History of American Socialism and Other Topics Oral History Collection (Addendum 2005)</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Fleischman, Harry</persname>
+    </origination>
+    <unitid>OH.053</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">2 boxes boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_427246ca33403882a0eae29ba9c3e718">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restricitions.</p>  </accessrestrict>
+  <acqinfo id="aspace_3acb4ab5312b5431795db0a66e5e9114">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Harry Fleischman in circa 1974, additional materails were donated in 1990. The accession numbers related to this gift are 1990.017, 1990.018, 1990.019, and 2005.004.</p>  </acqinfo>
+  <scopecontent id="aspace_0c354321005cc645035a596685c33ab5">
+    <head>Scope and Contents</head>
+<p>Index available in repository.  Contact gail.malmgreen@nyu.edu for details.</p>  </scopecontent>
+  <phystech id="aspace_510a2917628fde4b52f780552254304f">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_ace0bf77b9a88e7270ff24698afde889">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Harry Fleischman, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" source="local">Fleischman, Harry</persname>
+  </controlaccess>
+  <dsc><c id="aspace_5a00db573bfa80360c7808e7989e31b8" level="file"><did><unittitle>Preservation Masters</unittitle></did><c id="aspace_f6221d3f8a374134370f5d8e6fb096f4" level="file"><did><unittitle>Cassettes 1-29</unittitle><container altrender="Hollinger Cassette Box 9.5" id="aspace_6d7991a669b38d06084236e929288da1" label="Audio [31142062672095]" type="Box">1</container></did></c><c id="aspace_ff5de477f33cc16c35b02930976f92c7" level="file"><did><unittitle>Cassettes 30-34</unittitle><container altrender="Hollinger Cassette Box 9.5" id="aspace_1e07e0e3b2540b84795f76a4f1e1fc88" label="Audio [31142062672608]" type="Box">Shared Cassette Box 12</container></did></c><c id="aspace_c86c405fa7526c36c07de5c4acda3dd3" level="file"><did><unittitle>Cassettes 35A-36</unittitle><container altrender="Hollinger Cassette Box 9.5" id="aspace_97d3e7cd99c58d2e39b69754a35a05cd" label="Audio [31142062672566]" type="Box">Shared Cassette Box 19</container></did></c></c></dsc>
+</archdesc>
+</ead>

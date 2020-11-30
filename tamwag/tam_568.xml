@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_568</eadid><filedesc><titlestmt><titleproper>Guide to the Carol Greitzer Papers <num>TAM.568</num></titleproper><author>Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:30:31 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Carol Greitzer Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" source="local">Greitzer, Carol</persname>
+    </origination>
+    <unitid>TAM.568</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">21 Linear Feet</extent>
+      <extent altrender="carrier">(21 boxes; 1 loose, rolled poster)</extent>
+    </physdesc>
+    <unitdate>1960s-1990s</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_ea7961c925867c078fb78a0a4a21bcc2" label="Mixed Materials [31142063173317]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_d35c9edd007be3749de02d00d83fb298" label="Mixed Materials [31142063173325]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_c0377d43204f1a9d3b5dd5e86333619e" label="Mixed Materials [31142063173333]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_673723ab41f66370bb2af81832a82fab" label="Mixed Materials [31142063173341]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_8a87bd9854c05cc0aa25fb3f38b4ca8f" label="Mixed Materials [31142063173358]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_68105eebb17b3e60d58a3d6e797bb707" label="Mixed Materials [31142063173366]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_d17fe94e34a6f2683c79977f984a1e80" label="Mixed Materials [31142063173374]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_fb47d4f3d0031a94a9cc29e293bf9b30" label="Mixed Materials [31142063173382]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_1a3a3ace04c3653f74a9d62293d26749" label="Mixed Materials [31142063165503]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_cb3c1c95d5eb5d1b22e2197f9c9dc0d0" label="Mixed Materials [31142063165511]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_235e08a8fdc1fa62a6abfddb5aeea43b" label="Mixed Materials [31142063165545]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_572ff749a5976bbabef034bf50069d2b" label="Mixed Materials [31142063165552]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_b2f40a04124f80968da05ef8bc53ae97" label="Mixed Materials [31142063165560]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_9741486af58042a196602c654a0a41ad" label="Mixed Materials [31142063165578]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_edddf312272de5a969f9a1fea9280795" label="Mixed Materials [31142063165586]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_22e47e97f9ccf1adda6c644b26f336f5" label="Mixed Materials [31142063165594]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_4e340cd16bb9c7d95a400bf181ba0653" label="Mixed Materials [31142063165602]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_d6ad3d87b57c49fc4345e7277f3189b6" label="Mixed Materials [31142063165529]" type="box">11</container>
+    <container id="aspace_c628059dd17664704759f25555c867f4" label="Mixed Materials [31142063165537]" type="box">12</container>
+  </did>
+  <accessrestrict id="aspace_42020ca49f464ee0c3aaada713e75127">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_41ad2947db1bad40b2c149c528685588">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Carol Greitzer in 2011. The accession number associated with this gift is 2011.013.</p>  </acqinfo>
+  <arrangement id="aspace_da0f2c830b71c6367462ce90a28f6e68">
+    <head>Arrangement</head>
+<p>This collection has not be arranged by an archivist.</p>  </arrangement>
+  <bioghist id="aspace_ad4f96eeb60c3f86f7ab40b6f3a5e3ac">
+    <head>Historical/Biographical Note</head>
+<p>Carol Greitzer (1933- ) served as member of the New York City Council for 22 years, 1969-1991. From 1969-1974 she was the council person for District 2 which represents the Lower East Side, East Village, Gramercy Park, Rosehill, Kips Bay; southern part of Murray Hill. From 1975-1991 she was the council person for District 3, which represents Chelsea-Clinton, Greenwich Village, Flatiron, Midtown and Soho. Ms. Greitzer graduated from Hunter and received a MA in English literature from New York University. She was the first president of the National Abortion Rights Action League (NARAL) and a founder of the First Women's Bank in New York.</p>  </bioghist>
+  <prefercite id="aspace_3bab562145f39740c3e6826b9f4ac439">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Carol Greitzer Papers; TAM 568; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_4578757fc597a09ae8de5e0a3faeace1">
+    <head>Scope and Content Note</head>
+<p>This collection contains materials pertaining to the women's movement, the rise of the Democratic reform movement (particularly in Greenwich Village), and papers from the New York City Council.</p>  </scopecontent>
+  <userestrict id="aspace_76731825e4bfba60666ab588bd3c04cc">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Carol Greitzer were transferred to New York University in 2011 by Carol Greitzer. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Abortion rights movement.</subject>
+    <geogname source="lcsh">Greenwich Village (New York, N.Y.)</geogname>
+    <subject source="lcsh">Women's rights -- New York (State) -- New York.</subject>
+    <persname source="local">Greitzer, Carol</persname>
+    <corpname source="naf">New York (N.Y.). City Council</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

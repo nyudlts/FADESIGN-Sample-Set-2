@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_363/">tam_363</eadid><filedesc><titlestmt><titleproper>Preliminary Inventory to the Fly Papers on Squatters' Rights <num>TAM.363</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/11/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:26:06 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Fly Papers on Squatters' Rights</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="ingest">Fly.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="ingest">Fly.</persname>
+    </origination>
+    <unitid>TAM.363</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate>1980s-2000s</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_214545e1821a6871841d9406e6ab2bf7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_d472913a4912c2811d363ca94a87cf74">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials donated by Fly in circa 2006. The accession number associated with this gift is 2006.022.</p>  </acqinfo>
+  <bioghist id="aspace_05110b737ac2d5686f41ce87d9bd4503">
+    <head>Historical/Biographical Note</head>
+<p>Fly is a visual artist who was involved in the 1980s squatters' rights movement in New York City's East Village which culminated in the Tompkins Square Park Police Riot of August 1988.</p>  </bioghist>
+  <scopecontent id="aspace_c7bfa6dabe66a5c2f7f672cd470f0630">
+    <head>Scope and Contents</head>
+<p>The collection consists of photographs, a scrapbook that contains clippings, artwork and photographs, and copies of zines, including <emph render="italic">Dog Days</emph> and <emph render="italic">Slug and Lettuce</emph>.</p>  </scopecontent>
+  <userestrict id="aspace_541e63f33f8b4ced8e91faca3f1b2e54">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Fly was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Squatters -- New York (State) -- New York</subject>
+    <geogname source="lcsh">Lower East Side (New York, N.Y.) -- Social conditions.</geogname>
+    <subject source="local">Tompkins Square Park Riot, New York, N.Y., 1988.</subject>
+    <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+    <persname role="dnr" rules="dacs" source="ingest">Fly.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Art Publications: Includes <emph render="italic">Dog Days</emph> and <emph render="italic">Peoples</emph></unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_f0748998a62deb5bdb7aaa2f381cc844" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_c2a269d2913b2aaff6a754085ebdcc98" parent="aspace_f0748998a62deb5bdb7aaa2f381cc844" type="folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Artworks, Photos</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_b6ba42f804754829080bff0db3401478" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_16f03a915698d9d21b330a712566d607" parent="aspace_b6ba42f804754829080bff0db3401478" type="folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Clippings</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_40ca3438ae2364c0b3a95a72a6e98f8b" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_c8d9da72f7247c43cf99f6a47330e45e" parent="aspace_40ca3438ae2364c0b3a95a72a6e98f8b" type="folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Fliers, Leaflets</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_05b62c9a5ee0b31f9f12fc3aaa242b71" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_d35a2460d67740b0e08ab11b6791725c" parent="aspace_05b62c9a5ee0b31f9f12fc3aaa242b71" type="folder">4</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>"Inside Out: The Art World of the Squats" Exhibition Catalogue</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ce12b31cf651b45459a331dad0a900b" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_7f6dd947c917ec1e3fd87ec2820e7618" parent="aspace_0ce12b31cf651b45459a331dad0a900b" type="folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Poster (framed)</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_89426d8d9fcbe73e2549ccfc86194d47" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_71b95d42b4f4a88744544755d4e64d7b" parent="aspace_89426d8d9fcbe73e2549ccfc86194d47" type="folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Posters</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e2546cd3915cd1332a5e65579818349" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_477d59e9c1c42c256f39746008155cba" parent="aspace_2e2546cd3915cd1332a5e65579818349" type="folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle><emph render="italic">Slug and Lettuce</emph> numbers 39--57</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_08545ac691097219e5a3a3757b1d8279" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_db1b9e3fc42f07a7f1bea637d23e567f" parent="aspace_08545ac691097219e5a3a3757b1d8279" type="folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle><emph render="italic">Slug and Lettuce</emph> numbers 62--74</unittitle><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_1124200b25dc4122b0fd7c9ed9f44d2b" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_ae491edd74bb5afac1c55f73b9552b6e" parent="aspace_1124200b25dc4122b0fd7c9ed9f44d2b" type="folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle><emph render="italic">Slug and Lettuce</emph> numbers 79--85</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent></physdesc><unitdate>1990s-2000s</unitdate><container altrender="Manuscript box - Legal" id="aspace_ffffcc919bd93eeb349da89690873175" label="Mixed Materials [31142062721371]" type="box">1</container><container id="aspace_75ed0de7a39d9afd4785f03d6d1d799a" parent="aspace_ffffcc919bd93eeb349da89690873175" type="folder">10</container></did></c></dsc>
+</archdesc>
+</ead>

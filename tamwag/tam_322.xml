@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unprocessed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_322</eadid><filedesc><titlestmt><titleproper>Sidney Gluck Papers <num>TAM.322</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:24:51 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sidney Gluck Papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Gluck, Sidney</persname>
+    </origination>
+    <unitid>TAM.322</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">18 Linear Feet</extent>
+      <extent altrender="carrier">(18 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1943/2010" type="inclusive">1943-2010</unitdate>
+    <unitdate normal="1961/1976" type="bulk">1961-1976</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_212106076fa0d7dc640b15e40b91a6f7" label="Mixed Materials [31142063143690]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_3a4fc250d363d050023965a7a0a5d5eb" label="Mixed Materials [31142063143708]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_0174ede1719d8ec9de944a7ea992d209" label="Mixed Materials [31142063143716]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_965b42e417714238e01bc5f8324e420f" label="Mixed Materials [31142063143724]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_532bda71bf88ebda023e7e09270ede8d" label="Mixed Materials [31142063143732]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_c1e271988114ce23be2b8cc4a6cbfbd6" label="Mixed Materials [31142063143740]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_015e7d86558bdec3ccf91cc485ca6c72" label="Mixed Materials [31142063143757]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_e5993e0ccfbd71ca502192b762b77d29" label="Mixed Materials [31142063143765]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_0ecb41b394d221526d485c2ab56f4261" label="Mixed Materials [31142063143773]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_8eff594238a369eaea0a81efa1ca0332" label="Mixed Materials [31142063143781]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_0e45744af72f942e2214f52f9b3ed261" label="Mixed Materials [31142063143799]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_1464266d50bfd8dbd320967bb8be2edb" label="Mixed Materials [31142063143807]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_d6dc048f93e86c31640bfab3dc45f0da" label="Mixed Materials [31142063143815]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_5ca08928654746becf050a320c3b1e5b" label="Mixed Materials [31142063143823]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_4cb093e4abead66b4ed8c348a3ccf663" label="Mixed Materials [31142063143831]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_3dde3086e68379212537b0673d3d7ddd" label="Mixed Materials [31142063143849]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_f3dc2aa135b4913d21fd8a1e2c5b62d8" label="Mixed Materials [31142063143856]" type="box">17</container>
+    <container id="aspace_132ced4a17ce84c656426c468dd707c3" label="Mixed Materials" type="box">18</container>
+  </did>
+  <accessrestrict id="aspace_b416bdceb338ee247aaa85efec0f6805">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_67697bb89ede7e0204046b58e6faa5ab">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Sidney J. Gluck in circa 2004; additional materials were donated by Gluck in 2009 and 2014. The accession numbers associated with these gifts are 1950.271, 2009.011, and 2014.167.</p>  </acqinfo>
+  <bioghist id="aspace_0c533be649a8661f06a04ae6a61e501f">
+    <head>Historical/Biographical Note</head>
+<p>Sidney J. Gluck was born in 1916. He was an outspoken public advocate and had a long career in business, education, and the arts. Gluck began his business career in the 1930s in the textile industry, and during World War II he was responsible for a number of developments including the introduction of the heat set method to stabilize uneven nylon fibers for parachutes and initiating spun glass/fiber laminates with epoxy for bullet-proof vests. He later established his own company Malibu Textiles, which was a leading innovator in rubber thread stretch fabrics, and won several textile-related patents during this period. He retired from the textile industry in the mid-1970s.</p><p>Sidney Gluck was also an educator and public advocate. He was the Chairman of the Economics and Politics Department of the Jefferson School of Social Science; an adjunct Professor of Economics at Ramapo College School of Social Relations; and a member of the Social Science Faculty of the New School for Social Research in New York for twenty years. He also taught at textile institutes including Parsons School of Design, Fashion Institute of Technology, Philadelphia College of Textile Science, and the New York School for Interior Design.</p><p>As a political advocate, Gluck was involved in a number of campaigns including: organizing opposition to exorbitant bail for political defendants; organizing the Live and Let Live movement which was used by President Nixon in opening relations with China; serving a treasurer of committees for Medical Aid to Cuba and Chairman of the Emergency Committee for Disaster Relief to Cuba after Hurricane Flora in 1963, and encouraging public opposition to USA invasion and occupation of Grenada during the Cold War. He was Co-Director of World Fellowship of Faiths with Dr. Willard Uphaus from 1957 to 1967 and served as the President of the Sholom Aleichem Memorial Foundation as of 2014.</p>  </bioghist>
+  <scopecontent id="aspace_5487d7b88c17fc273c5bfcc73fc738f9">
+    <head>Scope and Content Note</head>
+<p>This collection contains 17 boxes that primarily consist historical materials on China composed largely of periodicals such as Beijing Review, China Reconstructs, and China Foreign Trade, which will most likely be separated to the Library's serials collection at a later date. It also contains several autobiographical sketches and a resume.</p><p>The collection also contains one additional box of Sidney Gluck's personal papers from the 1950s to the early 2000s. These materials consist as of Gluck's Freedom of Information Act (FOIA) files (possibly both FBI and CIA), which cover the years 1943 to 1974. It also contains several files from the 1960s and 1970s related to Marxist political activist campaigns including a protest of the embargo on Cuba, the "Spirit of Geneva" campaign, and protests against the war in Vietnam. These materials consist of correspondence, clippings, and pamphlets. This box also includes printout outs of 35 articles written by Gluck between 1976-2006 and three audiocassettes titled "Childhood", "To Hope: The Dreams", and "To Hope: Mother's Cooking", which were recorded in 1997. </p>  </scopecontent>
+  <userestrict id="aspace_858553a1f9aebca5e8f9ba0aee66e13d">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Sidney J. Gluck were transferred to New York University in 2004 by Sindey J. Gluck. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Gluck, Sidney</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

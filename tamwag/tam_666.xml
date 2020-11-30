@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_666/">tam_666</eadid><filedesc><titlestmt><titleproper>Guide to the Bill Davis Papers  <num>TAM.666</num></titleproper><author>Emma Sarconi</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2/16/2016</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:34:14 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Bill Davis Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="local">Davis, Bill</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs">Esther Moroze</persname>
+    </origination>
+    <unitid>TAM.666</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">17.25 Linear Feet</extent>
+      <extent altrender="carrier">in 17 record cartons and 1 flat box</extent>
+    </physdesc>
+    <unitdate normal="1941/1994" type="inclusive">1941-1994</unitdate>
+    <abstract id="aspace_2e1c79de6bdf7066ba24802d850dd2ad">Bill Davis is a member of the Communist Party of the United States (CPUSA) and an employee of the New York City Department of Welfare (later Social Services) from the late 1960s through 1995. This collection contains both personal and professional materials. The personal records span from 1941 to 1994 and include family correspondence, school documents, personal writings and records of awards and achievements. Davis' professional papers span from 1979 to 1994 and include notebooks detailing daily working activities (including meetings and assignments) and duties; flyers and other promotional material from events held by both the NYC Department of Welfare and the US Communist Party; multiple folders detailing the planning of May Day over several years; general administrative documents such as correspondence and receipts; and relevant articles and newspaper clippings on subjects ranging from US Politics to cultural affairs. Some names and personal details have been redacted by the donor to maintain confidentiality.</abstract>
+    <langmaterial id="aspace_baf7ee0f6ffe85d3a7a198c8ff647d1d">Materials are in English</langmaterial>
+    <container altrender="Record carton" id="aspace_436193c8c6f1b893b4fac61c3504ec6f" label="Mixed Materials [31142063165867]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_5caa0ba0d78cfaf221670907c0142d18" label="Mixed Materials [31142063165875]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_5a5e2282f4f92fca12c816b79f930f79" label="Mixed Materials [31142063165917]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_d5134fad1a150b8c83df53fe27c90d10" label="Mixed Materials [31142063165925]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_a560349771b229d31b9734351b00d71e" label="Mixed Materials [31142063165883]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_f345d74c1965f14a8e69677afbac20a7" label="Mixed Materials [31142063165974]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_d34fc1d2854052fc7f5c38a394030e0c" label="Mixed Materials [31142063165990]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_57e42d8a4737df7506ec6a184501c9be" label="Mixed Materials [31142063165982]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_f1756a61ccabeae57f4ce6bae6c7b949" label="Mixed Materials [31142063165966]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_c11cb8db63ef4456932f0c0871029c4f" label="Mixed Materials [31142063165941]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_b6f447c680b44212ac12c49108112c09" label="Mixed Materials [31142063165958]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_797078b44a02cc146c9ee2a09fd39b28" label="Mixed Materials [31142063165909]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_401a0ea4cfc6d8e6d1ef267ffc496183" label="Mixed Materials [31142063165891]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_760289c5765391286fbcec7ba2db5b01" label="Mixed Materials [31142063165933]" type="box">14</container>
+    <container altrender="Flat Box 11.75 x 15.5" id="aspace_8b530ae19ebc479582ae678f682be4cb" label="Mixed Materials [31142063166030]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_6ecb335c4dd5ff70dcf6fea62a68caaa" label="Mixed Materials [31142063166006]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_6ab2acb397dfa63459c1d7896e26b2d0" label="Mixed Materials [31142063166014]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_f82d58f0c481f1e31e38ab7dc5f53dc2" label="Mixed Materials [31142063166022]" type="box">18</container>
+  </did>
+  <accessrestrict id="aspace_ea864a6ee4cb990d30d029bae9cfab5f">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_01115234f7af0c0e0a6f3eb98c0d62d1">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Bill Davis in 2015; additional materials were donated by Esther Moroze in 2016. The accession numbers related to these gifts are 2015.017 and 2016.003.</p>  </acqinfo>
+  <arrangement id="aspace_a54708ce68c0addcc77ef4e3a8916f2a">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_f86a5e7225d35cce78229bd3b8b15999">
+    <head>Historical/Biographical Note</head>
+<p>Bill Davis (1942- ) is a member of the Communist Party of the United States (CPUSA) and an employee of the New York City Department of Welfare (later Social Services) from the late 1960s through 1995. After graduating from Columbia University (New York), Davis began his work with the NYC Department of Welfare. Shortly after starting, however, Davis was drafted to fight in the Vietnam War, where he spent two years in Germany. After the war, he resumed his work at the Department of Welfare, and motivated by his time in service, joined the Communist Party of the United States (CPUSA) in 1971 as a way to address the social and economic inequalities he considered to be plaguing the United States at the time. After retiring from social work in 1995, Davis became a full time volunteer for the CPUSA and has served as a delegate to national conventions, a member of the National Committee and National Board, and as a District Organizer for the state of New York. As of 2016 he is the manager of the Communist Party of the United States' headquarters building at 235 W. 23rd Street in New York City.</p>  </bioghist>
+  <prefercite id="aspace_f2ef420ff4cb0986ffe0c30833560bca">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Bill Davis Papers; TAM 666; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_28ce766f95b8ee2081e6dfa6af6d90c5">
+    <head>Processing Information</head>
+<p>No physical processing or arrangement took place. Materials were rehoused in acid free boxes and, when appropriate, folders. Oversized material was removed from original order and placed in an oversized box.</p>  </processinfo>
+  <scopecontent id="aspace_9e61685927875ad26d5dc1b214d2817b">
+    <head>Scope and Content Note</head>
+<p>Davis' professional papers span from 1979 to 1994 and include notebooks detailing daily working activities (including meetings and assignments) and duties; flyers and other promotional material from events held by both the NYC Department of Welfare and the US Communist Party; multiple folders detailing the planning of May Day over several years; general administrative documents such as correspondence and receipts; and relevant articles and newspaper clippings on subjects ranging from US Politics to cultural affairs. Some names and personal details have been redacted by the donor to maintain confidentiality. Davis' personal papers include familial correspondence, documents detailing his adolensent extra cirricular activities (including Cub Scouts), materials from his time in high school including a yearbook, accolades and awards, and Davis' college applications and some administrative material from his acceptence to Columbia.</p>  </scopecontent>
+  <userestrict id="aspace_26753404c85b42bb0f40cc76d6bb241f">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Bill Davis, the creator of this collection, were relinquished and transferred to the public domain in 2015 by Bill Davis. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Labor union democracy -- New York (State) -- New York.</subject>
+    <subject source="lcsh">Communism -- New York (State) -- New York</subject>
+    <subject source="lcsh">Communist parties</subject>
+    <subject source="lcsh">Communist party work</subject>
+    <subject source="lcsh">Social workers |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Labor unions and communism -- New York (State) -- New York.</subject>
+    <persname role="dnr" rules="dacs">Esther Moroze</persname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>

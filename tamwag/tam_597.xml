@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_597</eadid><filedesc><titlestmt><titleproper>Guide to the Workers Solidarity Alliance Records <num>TAM.597</num></titleproper><author>Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>March 2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:31:47 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Workers Solidarity Alliance Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Workers Solidarity Alliance</corpname>
+    </origination>
+    <origination label="source">
+      <corpname role="dnr" source="naf">Workers Solidarity Alliance</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Rabinowitz, Steven</persname>
+    </origination>
+    <unitid>TAM.597</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">13.5 Linear Feet</extent>
+      <extent altrender="carrier">in 13 record cartons and one manuscript box.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_3a9c5adc6351eb753211dec907ed8fe3" label="Mixed Materials [31142062765030]" type="Box">1</container>
+    <container altrender="Record carton" id="aspace_87ca79632241f688d619858fff494487" label="Mixed Materials [31142062765048]" type="Box">2</container>
+    <container altrender="Record carton" id="aspace_5dcbe915391a2b52e31aa7d44d85c4b1" label="Mixed Materials [31142062765055]" type="Box">3</container>
+    <container altrender="Manuscript box - Letter" id="aspace_ae7114679905037a8b75edb7dd0ed0ca" label="Mixed Materials [31142062765063]" type="Box">4</container>
+    <container altrender="Record carton" id="aspace_6d2a9c27d9d97c2bfa85c57302b5280a" label="Mixed Materials [31142062765071]" type="Box">5</container>
+    <container altrender="Record carton" id="aspace_46244ec658c76050f4a4cb1937120f6c" label="Mixed Materials [31142062765089]" type="Box">6</container>
+    <container altrender="Record carton" id="aspace_fb6ded240c3a6bae9f3a572f61fa7525" label="Mixed Materials [31142051750142]" type="Box">7</container>
+    <container altrender="Record carton" id="aspace_ef0a0b1a8b4e1cf9d2bab3d9ec9d282f" label="Mixed Materials [31142051750159]" type="Box">8</container>
+    <container altrender="Record carton" id="aspace_2e7d7ecf87cc25519296b46c8da214a8" label="Mixed Materials [31142051750167]" type="Box">9</container>
+    <container altrender="Record carton" id="aspace_12d54896d9ec955b0fd0eeac4f3b92b1" label="Mixed Materials [31142051750175]" type="Box">10</container>
+    <container altrender="Record carton" id="aspace_f70a39a8196ca0c2f58b47345210c749" label="Mixed Materials [31142051750183]" type="Box">11</container>
+    <container altrender="Record carton" id="aspace_fa107a845851e5c8821fb74650217bd9" label="Mixed Materials [31142051750209]" type="Box">12</container>
+    <container altrender="Record carton" id="aspace_b623adffb0bfcde6a25a59608ff8bdbe" label="Mixed Materials [31142051750191]" type="Box">13</container>
+    <container altrender="Record carton" id="aspace_9159f2f2ecdcd4de342aee2fd24a253b" label="Mixed Materials [31142051750217]" type="Box">14</container>
+  </did>
+  <accessrestrict id="aspace_5535301d8a1fc236650d29e6cde2831e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_3b56b35a23a13065682cc5920e2af1af">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Steven Rabinowitz on behalf of the Workers Solidarity Alliance in 2011. The accession number associated with this gift is 2011.136.</p>  </acqinfo>
+  <arrangement id="aspace_6a02db88662db657f2429e0d68599471">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. Materials are in the order in which they were received from the donor.</p>  </arrangement>
+  <prefercite id="aspace_286d4139cf38f4af955f22a688c724d0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Workers Solidarity Alliance Records; TAM 597; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_05a357922bbf6c9ab21678951bdf1534">
+    <head>Scope and Contents</head>
+<p>This collection contains records from the Workers Solidarity Alliance, anarchist periodicals and a small amount of printed ephemera.</p>  </scopecontent>
+  <phystech id="aspace_0442da520216b9933201f165f1123e96">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Due to technical or privacy issues, archived websites may not be exact copies of the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>  </phystech>
+  <userestrict id="aspace_76619aa389b8172ec64d818aba0d7e2c">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights for publicity and privacy) held by the Workers Solidarity Alliance were transferred to New York University in 2011 by Stephen Rabinowitz. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Anarchism -- United States.</subject>
+    <subject source="lcsh">Syndicalists |z United States.</subject>
+    <corpname role="dnr" source="naf">Workers Solidarity Alliance</corpname>
+    <corpname source="naf">Workers Solidarity Alliance</corpname>
+    <persname role="dnr" rules="dacs" source="local">Rabinowitz, Steven</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref10" level="otherlevel" otherlevel="unspecified"><did><unittitle>Workers Solidarity Alliance Archived Website</unittitle><unitdate>4/19/2009-Ongoing</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6335/*/http://ideasandaction.info/" xlink:role="service" xlink:show="new" xlink:title="Workers Solidarity Alliance" xlink:type="simple"><daodesc><p>Workers Solidarity Alliance</p></daodesc></dao></did><scopecontent id="aspace_2859fe24bd57035d798fe8ddd40960cd"><head>Scope and Content Note</head><p>Workers Solidarity Alliance is an anti-capitalist, anti-authoritarian organization of activists who believe that working people can build a new society and a better world based on the principles of solidarity and self-management. WSA also publishes ideas and action, which was created in July, 1981 as an independent anarcho-syndicalist semi-annual print magazine. After Workers Solidarity Alliance was founded in November, 1984, ideas and action became the magazine of WSA (with issue #5), and continuing through the publication of issue #17 in 1997. It now exists as a blog on the WSA website.</p></scopecontent></c></dsc>
+</archdesc>
+</ead>

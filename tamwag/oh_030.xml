@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_030">oh_030</eadid><filedesc><titlestmt><titleproper>Guide to the Marine Workers Historical Collection Oral Histories <num>OH.030</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:14:11 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Marine Workers Historical Collection Oral Histories</unittitle>
+    <unitid>OH.030</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.0010 Linear Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_8cf4f14ff91fa81dcaef930776859067">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_e2642dc9e815a029baeed4bfc87dc9f0">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was funded by Marine Workers Historic Foundation and the Chelsea Waterfront History Project. Interviews were conducted between 1980 and 1992 by Joe Doyle, Morris Weiner, and Debra Bernhardt. The accession number associated with this collection is 1950.044.</p>  </acqinfo>
+  <scopecontent id="aspace_63837b081eeccd6c76a84b4099f3dc22">
+    <head>Scope and Contents</head>
+<p>Interviews were conducted between 1980 and 1992 by Joe Doyle, Morris Weiner, and Debra Bernhardt.  Some of the interviews were funded by the Chelsea Waterfront History Project.  SUMMARY:  The collection contains six interviews with merchant seamen and longshoremen.  Topics include the National Maritime Union, New York City waterfront corruption, the Chelsea Irish community, and political campaigns.  Index available in repository.  RELATED MATERIALS:  See OH-01, New Yorkers at Work, for other oral accounts of New York's waterfront history.</p>  </scopecontent>
+  <phystech id="aspace_cc6c8acd852db457e205bf687d252152">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_79c422d68ad04a5ab3ceeeefd46ab5e7">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by the Tamiment Library and Robert F. Wagner Labor Archives are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Jimmy Gavin</unittitle><unitdate normal="1981/1981" type="inclusive">Jan 24, 1981</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_5c0299280cf06906f3e57989697619f2" label="access cd [31142062734663]" type="Box">Access Audio 2</container><container id="aspace_8109d374af6cbc347c678e28735f450b" label="Audio" type="cassette">1-3</container></did></c><c id="aspace_4270e5d8773f244ec4a3dad59f59d3f9" level="file"><did><unittitle>Preservation Masters</unittitle></did><c id="aspace_49d94d88ab26d3f4151218586c1e60f0" level="file"><did><unittitle>Bell-West, Cassettes 1A-11</unittitle><container altrender="Hollinger Cassette Box 9.5" id="aspace_599909c37cfeaace7393997e8abf4988" label="Audio [31142062672590]" type="Box">Shared Cassette Box 5</container></did></c></c></dsc>
+</archdesc>
+</ead>

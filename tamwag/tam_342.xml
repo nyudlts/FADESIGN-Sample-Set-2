@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">tam_342</eadid><filedesc><titlestmt><titleproper>Committee for International Human Rights Inquiry Records <num>TAM.342</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:25:22 -0500</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Committee for International Human Rights Inquiry Records</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="naf">Wilson, Ruth</persname>
+    </origination>
+    <unitid>TAM.342</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">35 Linear Feet</extent>
+      <extent altrender="carrier">35 boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_d9b4e021a2fbcf49251de5ef10879f94" label="Mixed Materials [31142063142999]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_8c1c6cbe9af6c3df8edc7a631ead543b" label="Mixed Materials [31142063143005]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_16d92703022d032ac78200682802377c" label="Mixed Materials [31142063143013]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_dbc00801fa88ca86df7455446db8a105" label="Mixed Materials [31142063143021]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_005e09964a8a049eadac7b4c09ce33bf" label="Mixed Materials [31142063143039]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_c911630c79847c79717cfb3dd003e71d" label="Mixed Materials [31142063143047]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_f79718ef3cf6fa8ba3873fbaa1694e0f" label="Mixed Materials [31142063143054]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_a02913251bda9b3feb1386de029f104b" label="Mixed Materials [31142063143062]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_e7fb0810e83bf2d078854b0cd679b9d2" label="Mixed Materials [31142063143070]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_f8bf7ba0c280236ed06171dd1a4b1205" label="Mixed Materials [31142063143088]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_7b16edf29b0729594476549eece9983f" label="Mixed Materials [31142063143096]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_8e0a808abfcfc09bfd89de745335a3f7" label="Mixed Materials [31142063143104]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_5938da2d48fab0af9624d7ca5e189fe3" label="Mixed Materials [31142063143112]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_ce0ee46183196a7f4beed15dc770ae5c" label="Mixed Materials [31142063143120]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_1438a4b2362e5bb7732eb9b8bfd219f2" label="Mixed Materials [31142063143138]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_71648dcfc4f932a3aa56c72425a22f56" label="Mixed Materials [31142063143146]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_63555cf6cd5b93e5d916433bf327b856" label="Mixed Materials [31142063258464]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_7580b214077ecffe4e9b9fce2ed01092" label="Mixed Materials [31142063258456]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_8a0474d4a0bfb0061fe80dfa69b6c21f" label="Mixed Materials [31142063258449]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_850d19da18b7318c92108eff1a86d458" label="Mixed Materials [31142063258431]" type="box">20</container>
+    <container altrender="Record carton" id="aspace_5fd8db7bfa58914d42d2df5862e9687d" label="Mixed Materials [31142063258423]" type="box">21</container>
+    <container altrender="Record carton" id="aspace_1cd7aae85bfe4c6ab599ab431eb6300d" label="Mixed Materials [31142063258415]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_da3177deb214e8237aa78dd9a64c0c4b" label="Mixed Materials [31142063258407]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_d015bf060cde4db3c2cfe1f50d16a2c9" label="Mixed Materials [31142063258399]" type="box">24</container>
+    <container altrender="Record carton" id="aspace_47d4c73f57d8c3fec0c625cb459ba3a7" label="Mixed Materials [31142063258381]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_ed6f29717c068cf1a297c6bfb297196c" label="Mixed Materials [31142063258373]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_8e4980862b3f9a3ba2ff309ddf9455fe" label="Mixed Materials [31142063258365]" type="box">27</container>
+    <container altrender="Record carton" id="aspace_eacde760803401596a485b75281b820b" label="Mixed Materials [31142063258357]" type="box">28</container>
+    <container altrender="Record carton" id="aspace_07004c2585dc4b7127b4f5528d8d9b75" label="Mixed Materials [31142063258340]" type="box">29</container>
+    <container altrender="Record carton" id="aspace_ae2a5519cd004f23773c97791822397a" label="Mixed Materials [31142063258332]" type="box">30</container>
+    <container altrender="Record carton" id="aspace_900abf095203e05fc3908465c589ca56" label="Mixed Materials [31142063258324]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_f032f2198d5e8bffa762d5c28f71ae1a" label="Mixed Materials [31142063258316]" type="box">32</container>
+    <container altrender="Record carton" id="aspace_6b753c90bcc3dd3bbc8c5eaa1abdef9c" label="Mixed Materials [31142063258308]" type="box">33</container>
+    <container altrender="Record carton" id="aspace_c60b1a0b248c2a696bebc9cebedced96" label="Mixed Materials [31142063258290]" type="box">34</container>
+    <container altrender="Record carton" id="aspace_1cfdf3ca575951a14d6da8df9f58df25" label="Mixed Materials [31142063258282]" type="box">35</container>
+  </did>
+  <accessrestrict id="aspace_79ec547356a618a004c1cb85347e5870">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_5a79da927fd00af2c2e0803a5adb8a99">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials were donated by Ruth H. Wilson on behalf of the Committee for International Human Rights Inquiri (CHIRI) in 2005. The accession number associated with this gift is 2005.027.</p>  </acqinfo>
+  <userestrict id="aspace_fc2682a31ce795641f81475365f8da3b">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Committee for International Human Rights Inquiry were transferred to New York University in 2005 by Ruth H. Wilson. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" source="naf">Wilson, Ruth</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

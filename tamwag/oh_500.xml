@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL">oh_500</eadid><filedesc><titlestmt><titleproper>Oral History Collections - Unprocessed<num>OH.500</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:15:25 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Oral History Collections - Unprocessed</unittitle>
+    <unitid>OH.500</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">89 Linear Feet</extent>
+      <extent altrender="carrier">89 boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_0d0b2d37ec4a26ab72bae46e9b9fc7e8" label="Mixed Materials [31142063148566]" type="box">39</container>
+    <container altrender="Record carton" id="aspace_0b82fafbefd07905990def9ff1f2565b" label="Mixed Materials [31142063151271]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_a3d16f880cdda35d2e1c58935621d22a" label="Mixed Materials [31142063151263]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_34445dfb5a0bf4c7a44cee2996cd50d8" label="Mixed Materials [31142063151479]" type="box">3</container>
+    <container id="aspace_52f99d45d5462d0344836b28fadd5a88" label="Mixed Materials" type="box">4</container>
+    <container id="aspace_dacc02b4ba5e29d16d26bd34835348f5" label="Mixed Materials" type="box">5</container>
+    <container id="aspace_21312e0d01700fcfb1f86dab2c780a88" label="Mixed Materials" type="box">6</container>
+    <container id="aspace_400ea6625d7ad4596df97e86175510b4" label="Mixed Materials" type="box">7</container>
+    <container id="aspace_e91fa320c55481bbe004238b12e4df1b" label="Mixed Materials" type="box">8</container>
+    <container altrender="Record carton" id="aspace_45f224816fe487b8da6099f5da6210a0" label="Mixed Materials [31142063150810]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_95433e490c832c244afbf35a55c747db" label="Mixed Materials [31142063151131]" type="box">10</container>
+    <container altrender="Manuscript box - Legal" id="aspace_114f7bc1faa2c26e3242a1b81f29ee1c" label="Mixed Materials [31142063150422]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_dfcdcfa945cf38024923d13b51c99aa6" label="Mixed Materials [31142063150992]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_a1bc117d968c6c58fac8f5ee4d86dab4" label="Mixed Materials [31142063150604]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_af6c94c0a09692c4fee1a1c0d621560a" label="Mixed Materials [31142063151149]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_1393ccef80f49bc8a9d35a05b93ffdd2" label="Mixed Materials [31142063151248]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_13102e0534cf13acd5108672d9eb940e" label="Mixed Materials [31142063151230]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_fa1a180ccacd6b7e7e6833c653fdcf82" label="Mixed Materials [31142063150968]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_225998a76965b6464dffe42ae9e70659" label="Mixed Materials [31142063150638]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_f147d566beb05c47787e7620dd089f99" label="Mixed Materials [31142063151214]" type="box">19</container>
+    <container id="aspace_4f5586f20280505241db180251f8af32" label="Mixed Materials" type="box">20</container>
+    <container id="aspace_f91d69b92574bfe3644f750e11bcbda9" label="Mixed Materials" type="box">21</container>
+    <container altrender="Record carton" id="aspace_21a52593165c1b660a434451230c9b71" label="Mixed Materials [31142063148509]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_c3457b525f0e20c46edc2e5a177a350b" label="Mixed Materials [31142063150414]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_a56b85312848501118228350d266813e" label="Mixed Materials [31142063151156]" type="box">24</container>
+    <container altrender="Record carton" id="aspace_a5f4f9e18ff8caf3f010458c1d81c518" label="Mixed Materials [31142063150943]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_28dd3c4aa06e8b29b6cffcfd64229ba8" label="Mixed Materials [31142063151073]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_3178ec95d4a25b666f333ac34259d8b4" label="Mixed Materials [31142063150786]" type="box">27</container>
+    <container altrender="Record carton" id="aspace_630885781d47e4cbfc388f33263c1878" label="Mixed Materials [31142063150711]" type="box">28</container>
+    <container altrender="Record carton" id="aspace_271805278ab716557a40f9d817e58157" label="Mixed Materials [31142063150901]" type="box">29</container>
+    <container altrender="Record carton" id="aspace_3d61c925194a949f28b358eaabf7bf2b" label="Mixed Materials [31142063150760]" type="box">30</container>
+    <container altrender="Record carton" id="aspace_050b58458684cd2d2fda4591661d0da5" label="Mixed Materials [31142063150570]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_3ae19b656a5f643b3a4e02c5227e45bc" label="Mixed Materials [31142063151107]" type="box">32</container>
+    <container altrender="Record carton" id="aspace_a90b8b5e7a7db32f0fb9cb74b4537271" label="Mixed Materials [31142063150430]" type="box">33</container>
+    <container altrender="Record carton" id="aspace_0d4182fa5bfa9890826442235fae428a" label="Mixed Materials [31142063151115]" type="box">34</container>
+    <container altrender="Record carton" id="aspace_1d48dc0c9f304d86450fe6f7c749d29b" label="Mixed Materials [31142063150505]" type="box">35</container>
+    <container altrender="Record carton" id="aspace_d05787db1e3f9ac11c7ef7f9f97b0396" label="Mixed Materials [31142063151339]" type="box">36</container>
+    <container altrender="Record carton" id="aspace_b5c66616161d02cf9ae0f28ddf42be4f" label="Mixed Materials [31142063150919]" type="box">37</container>
+    <container altrender="Record carton" id="aspace_d01c5c116483512a221766a7b7c45a99" label="Mixed Materials [31142063150448]" type="box">38</container>
+    <container altrender="Record carton" id="aspace_f20cb3646a96a54a4429c5ab583e2b0e" label="Mixed Materials [31142063150950]" type="box">43</container>
+    <container altrender="Record carton" id="aspace_dfe318dc480e12777c1f9a3718dfab59" label="Mixed Materials [31142063150406]" type="box">40</container>
+    <container altrender="Record carton" id="aspace_38d175f1f45d615efaa70d7ffcb51dbd" label="Mixed Materials [31142063150513]" type="box">41</container>
+    <container altrender="Record carton" id="aspace_d70ae6aca6348f0d9db3500d4404fd6d" label="Mixed Materials [31142063150687]" type="box">42</container>
+    <container altrender="Record carton" id="aspace_40baa2c1c51047d528682809140840b6" label="Mixed Materials [31142063150869]" type="box">44</container>
+    <container altrender="Record carton" id="aspace_e08dbd3d4f9f37adad873aae78d91dc4" label="Mixed Materials [31142063151164]" type="box">45</container>
+    <container altrender="Record carton" id="aspace_a9a1ad41cf495339e90f306045554e57" label="Mixed Materials [31142063150703]" type="box">46</container>
+    <container altrender="Record carton" id="aspace_c6b345b100a5cfd261c4345daa124634" label="Mixed Materials [31142063150976]" type="box">47</container>
+    <container altrender="Record carton" id="aspace_8074cf4edc24b14fd44638a556ad4146" label="Mixed Materials [31142063151206]" type="box">48</container>
+    <container altrender="Record carton" id="aspace_ecf0fa87f0511564ba698238b9798f64" label="Mixed Materials [31142063150778]" type="box">49</container>
+    <container altrender="Record carton" id="aspace_9a5d14193648264a59b8eda74b104473" label="Mixed Materials [31142063150828]" type="box">50</container>
+    <container altrender="Record carton" id="aspace_f59a10f20347152a684ab9fa02341f58" label="Mixed Materials [31142063151198]" type="box">51</container>
+    <container altrender="Record carton" id="aspace_f3e8d9dfb28d7a73c64a518aa0a6e229" label="Mixed Materials [31142063151461]" type="box">52</container>
+    <container altrender="Record carton" id="aspace_e688c52c199c7ed34568101c18fdb877" label="Mixed Materials [31142063151453]" type="box">53</container>
+    <container altrender="Record carton" id="aspace_eb5f6f4f96ebdbbd52cb0ee9131eea48" label="Mixed Materials [31142063151099]" type="box">54</container>
+    <container altrender="Record carton" id="aspace_e9d47ceae51ef96681bfe67eaf2a6d7e" label="Mixed Materials [31142062735199]" type="box">55</container>
+    <container altrender="Record carton" id="aspace_f6604a53e890304cb5513146504564f2" label="Mixed Materials [31142063150562]" type="box">56</container>
+    <container altrender="Record carton" id="aspace_1bb9b15f7e640b2142de971af9114140" label="Mixed Materials [31142063148517]" type="box">57</container>
+    <container altrender="Record carton" id="aspace_472643dd9cd88b689cc8d8963daeb0d0" label="Mixed Materials [31142063150554]" type="box">58</container>
+    <container altrender="Record carton" id="aspace_61614a8ebe4694378220a9297977e80b" label="Mixed Materials [31142063151321]" type="box">59</container>
+    <container altrender="Record carton" id="aspace_7564e7f419953f9fa3cad8798a4998ca" label="Mixed Materials [31142063150935]" type="box">60</container>
+    <container altrender="Record carton" id="aspace_d11b0ffaf956e3a7ee75cba6b9c27cd5" label="Mixed Materials [31142063150752]" type="box">61</container>
+    <container altrender="Record carton" id="aspace_c0a70b8fe10e422fa671ffd7e7bab9d7" label="Mixed Materials [31142063150547]" type="box">62</container>
+    <container altrender="Record carton" id="aspace_76129f6c4f42837ff92c16e6ee70eba0" label="Mixed Materials [31142063151180]" type="box">63</container>
+    <container altrender="Record carton" id="aspace_ff5114681b99ce233174b9371ebc1ab3" label="Mixed Materials [31142063151008]" type="box">64</container>
+    <container altrender="Record carton" id="aspace_a786cb05ebd2c4c324f4ec37c9eabed1" label="Mixed Materials [31142063151040]" type="box">65</container>
+    <container altrender="Record carton" id="aspace_c38eda5d87b62170eac69474af44a913" label="Mixed Materials [31142063151032]" type="box">66</container>
+    <container altrender="Record carton" id="aspace_5ab10ba07e9083bd598d932985d2307c" label="Mixed Materials [31142063150745]" type="box">67</container>
+    <container altrender="Record carton" id="aspace_49511234bc7a350a5a1f2910a26e3dd2" label="Mixed Materials [31142063150646]" type="box">68</container>
+    <container altrender="Record carton" id="aspace_1c42231f56040bf49bf47ee4fef29b60" label="Mixed Materials [31142063151347]" type="box">69</container>
+    <container altrender="Record carton" id="aspace_4cc939c1e323a27cb2760a3ad6519c24" label="Mixed Materials [31142063148525]" type="box">70</container>
+    <container altrender="Record carton" id="aspace_eb796876d75ec453026994b9ef6bdbb0" label="Mixed Materials [31142063151255]" type="box">71</container>
+    <container altrender="Record carton" id="aspace_7a056a621545a38b46c1e042dca7ccdd" label="Mixed Materials [31142063151420]" type="box">72</container>
+    <container altrender="Record carton" id="aspace_62f4ce909c408e838fd66fb2d8b146b4" label="Mixed Materials [31142063150695]" type="box">73</container>
+    <container altrender="Record carton" id="aspace_84057f4e16f98a26c9ebfb2ef512c59b" label="Mixed Materials [31142063148541]" type="box">74</container>
+    <container id="aspace_4dccd5f3b4dd1cfe48ae7df39b8c7ee4" label="Mixed Materials" type="box">75</container>
+    <container altrender="Record carton" id="aspace_6c7fd2f23f3c995359d4e29712d90bb4" label="Mixed Materials [31142063150661]" type="box">76</container>
+    <container altrender="Record carton" id="aspace_261ef53c17c4f3e2bb551440f102812c" label="Mixed Materials [31142063151289]" type="box">77</container>
+    <container id="aspace_788d5ca525e0324a93a970f1925aa93c" label="Mixed Materials" type="box">78</container>
+    <container altrender="Record carton" id="aspace_2381185ad75406cb781c7a7f4e5c28a7" label="Mixed Materials [31142063151495]" type="box">79</container>
+    <container id="aspace_b6b5f2dd95ecdae0721f06e969c39e9a" label="Mixed Materials" type="box">80</container>
+    <container altrender="Record carton" id="aspace_6b3ea1cd3d7d9d86042cd5627b02a0eb" label="Mixed Materials [31142063148533]" type="box">81</container>
+    <container altrender="Record carton" id="aspace_cff9896d1980c368b6d861f8d750c63f" label="Mixed Materials [31142063150737]" type="box">82</container>
+    <container altrender="Record carton" id="aspace_e12096880bef59a3a9a7f2fc745a8a19" label="Mixed Materials [31142063151305]" type="box">83</container>
+    <container altrender="Record carton" id="aspace_767d9bbfa10ad9c579b82f70e53f3268" label="Mixed Materials [31142063151438]" type="box">84</container>
+    <container altrender="Record carton" id="aspace_45cba4f045fea21b152e3fb69652761a" label="Mixed Materials [31142063150836]" type="box">85</container>
+    <container altrender="Record carton" id="aspace_9a3734efbfe07f9b7b23646b14371358" label="Mixed Materials [31142063150877]" type="box">86</container>
+    <container altrender="Record carton" id="aspace_2313f0b74c7ab1a14cb9914f201c1e32" label="Mixed Materials [31142063150455]" type="box">87</container>
+    <container altrender="Record carton" id="aspace_dbee7cbd83ce8d217d8ce8f362c11c86" label="Mixed Materials [31142063151081]" type="box">88</container>
+    <container altrender="Record carton" id="aspace_76a31b8f689773ef2dea05b625bd1240" label="Mixed Materials [31142063151024]" type="box">89</container>
+    <container altrender="Record carton" id="aspace_cff01e1124fad8cf88f3ed1f474b8ef4" label="Mixed Materials [31142063151370]" type="box">90</container>
+    <container id="aspace_bfa3f74881e69d04c26deca6fe81b0ea" label="Mixed Materials" type="box">91</container>
+    <container altrender="Record carton" id="aspace_d3ad1847a4157afec8b81f70b846df29" label="Mixed Materials [31142063151388]" type="box">92</container>
+    <container altrender="Record carton" id="aspace_00147a045cbceb010d754f844c3d891a" label="Mixed Materials [31142063150927]" type="box">93</container>
+    <container altrender="Record carton" id="aspace_1a9364ea815255c4d7b3928b1849efc3" label="Mixed Materials [31142063151123]" type="box">94</container>
+    <container altrender="Record carton" id="aspace_c30d99dac5cb13d2b15808cc45d35a10" label="Mixed Materials [31142063151396]" type="box">95</container>
+    <container altrender="Record carton" id="aspace_f7ab463979501448f25e88fe9335d455" label="Mixed Materials [31142063151065]" type="box">96</container>
+    <container altrender="Record carton" id="aspace_d830dca1f0c06b5ab2fff0271fb6b0fd" label="Mixed Materials [31142063150851]" type="box">97</container>
+    <container altrender="Record carton" id="aspace_8190d03cb82fcd2f43cfdd474e3f2bfc" label="Mixed Materials [31142063151362]" type="box">98</container>
+    <container altrender="Record carton" id="aspace_17d177fd6bc263bdede3d168d306576e" label="Mixed Materials [31142063150802]" type="box">99</container>
+    <container altrender="Record carton" id="aspace_84ac5b3f79126ca650a2b4d9028026fc" label="Mixed Materials [31142063150521]" type="box">100</container>
+    <container altrender="Record carton" id="aspace_918f18dcbb0f8e9d3bc9d369bbc52c45" label="Mixed Materials [31142063150885]" type="box">101</container>
+    <container id="aspace_dca3dea9c2dbe7776d49ab2800a9df11" label="Mixed Materials" type="box">102</container>
+    <container altrender="Record carton" id="aspace_4838b97a6366ea8b0e85203f351b6b5f" label="Mixed Materials [31142063150844]" type="box">103</container>
+    <container altrender="Record carton" id="aspace_936d2fa0fc73836abb681b78e9a6d009" label="Mixed Materials [31142063151446]" type="box">104</container>
+    <container altrender="Record carton" id="aspace_2c2de8c691dac60a927754d2a7b5f5bf" label="Mixed Materials [31142063150620]" type="box">105</container>
+    <container altrender="Record carton" id="aspace_00e69b5901254f39cabc43b25fdcee6a" label="Mixed Materials [31142063150653]" type="box">106</container>
+    <container altrender="Record carton" id="aspace_398d0d16087e1a81b2e3bddaaf111e7f" label="Mixed Materials [31142063151487]" type="box">107</container>
+    <container altrender="Record carton" id="aspace_66161acfaf64a753d69d1980190e8070" label="Mixed Materials [31142063150679]" type="box">108</container>
+    <container altrender="Record carton" id="aspace_d2577c4a7031be7501c283e61b57d9f0" label="Mixed Materials [31142063151222]" type="box">109</container>
+    <container altrender="Record carton" id="aspace_1675c8cf6a0382343c0c83e677b80c6e" label="Mixed Materials [31142063151313]" type="box">110</container>
+    <container altrender="Record carton" id="aspace_18c8d75b9b077d140b4cfa655c78d06e" label="Mixed Materials [31142063151354]" type="box">111</container>
+    <container altrender="Record carton" id="aspace_8b980a621553cf640aa8196061755aa3" label="Mixed Materials [31142063151297]" type="box">112</container>
+    <container altrender="Record carton" id="aspace_37f4be7e62915685aa4044a388bb27cf" label="Mixed Materials [31142063150729]" type="box">113</container>
+    <container altrender="Record carton" id="aspace_437326d2e0c71b2983cc0f71744ddbfe" label="Mixed Materials [31142063150471]" type="box">114</container>
+    <container altrender="Record carton" id="aspace_502c2df613a64b1481749b00ea3352e8" label="Mixed Materials [31142063150794]" type="box">115</container>
+    <container altrender="Record carton" id="aspace_58afc3a054aa762fc9324bccd9b301a5" label="Mixed Materials [31142063150463]" type="box">116</container>
+    <container altrender="Record carton" id="aspace_5ff3dcbce114e940ba450c2991fab9c9" label="Mixed Materials [31142063150588]" type="box">117</container>
+    <container altrender="Record carton" id="aspace_bc01e0483b112c10cd7294cb93c6ea15" label="Mixed Materials [31142063151172]" type="box">118</container>
+    <container altrender="Record carton" id="aspace_0336878c8ec00ab353ceca4160a853c1" label="Mixed Materials [31142063148558]" type="box">119</container>
+    <container altrender="Record carton" id="aspace_3ec998b6062480e0a514f8662eb9eadb" label="Mixed Materials [31142063150612]" type="box">120</container>
+    <container altrender="Record carton" id="aspace_af0558adc9993660fd528640cfdb21fb" label="Mixed Materials [31142063151057]" type="box">121</container>
+    <container altrender="Record carton" id="aspace_b6c9b21c5d2932d382cc1f4c535921ae" label="Mixed Materials [31142063150539]" type="box">122</container>
+    <container altrender="Record carton" id="aspace_d4348538c5227352013bdef5e083a648" label="Mixed Materials [31142063150893]" type="box">123</container>
+    <container altrender="Record carton" id="aspace_942c32dea3738d1755981932b5106599" label="Mixed Materials [31142063151412]" type="box">124</container>
+    <container altrender="Record carton" id="aspace_8ba2ec798b63640209e57c1fd47f037e" label="Mixed Materials [31142063290954]" type="box">125</container>
+    <container altrender="Record carton" id="aspace_5c451f701b10dedcbaf329d2780e92f1" label="Mixed Materials [31142063150596]" type="box">126</container>
+    <container altrender="Record carton" id="aspace_ba0216eb998c5de095a93a33058f6349" label="Mixed Materials [31142063150489]" type="box">127</container>
+    <container altrender="Record carton" id="aspace_ddf74914709931ef8f7e008f65e91a09" label="Mixed Materials [31142063151404]" type="box">128</container>
+    <container altrender="Record carton" id="aspace_59b6056ce39642f8c95cd90c06973ba2" label="Mixed Materials [31142063150984]" type="box">129</container>
+    <container altrender="Record carton" id="aspace_d82a5859843ef4076c3393407b99ae67" label="Mixed Materials [31142063151016]" type="box">130</container>
+    <container altrender="Record carton" id="aspace_a21540b4b1610749832c59589ee1ee72" label="Mixed Materials [31142062671626]" type="box">131</container>
+    <container altrender="Record carton" id="aspace_755d5438778cdf4254e6351ebae8134e" label="Mixed Materials [31142062671634]" type="box">132</container>
+    <container altrender="Record carton" id="aspace_b1dd7bae461e132649ef73c3e87418dd" label="Mixed Materials [31142062671642]" type="box">133</container>
+    <container altrender="OS Flat Box 13 x 13" id="aspace_57ec69a9023d8b00d414ce20bdb5d667" label="Mixed Materials [31142063148582]" type="box">134</container>
+    <container altrender="Record carton" id="aspace_d86ea2c48b458bf934c6040c2b2fdf59" label="Mixed Materials [31142063148574]" type="box">135</container>
+  </did>
+  <scopecontent id="aspace_e5b9ffc22764d8892d6aee10cd490bd1">
+    <head>Scope and Contents</head>
+<p>89 boxes.</p>  </scopecontent>
+  <dsc/>
+</archdesc>
+</ead>

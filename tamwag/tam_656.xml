@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_656">tam_656</eadid><filedesc><titlestmt><titleproper>Kathleen Newman Records of the Graduate Employees and Students Organization (GESO) of Yale University<num>TAM.656</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:33:31 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Kathleen Newman Records of the Graduate Employees and Students Organization (GESO) of Yale University</unittitle>
+    <unitid>TAM.656</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+      <extent altrender="carrier">in four 12 x 13 x 15 moving boxes</extent>
+    </physdesc>
+    <unitdate>circa 1990-1997</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_675988351cc1d32548913a909fa61f7b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a4a6442542f6bdbf756863684a834c40">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Kathleen (Kathy) M. Newman in 2014. The accession number associated with this gift is 2014.166.</p>  </acqinfo>
+  <phystech id="aspace_5d517c5e56009c3d1f471861a4f5b19c">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_05bda97dde6c6e342ddaf97653e741b9">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Kathleen Newman was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <dsc><c id="aspace_00082308923d93577b9dd20a3ec7e8d3" level="series"><did><unittitle>Unprocessed Materials</unittitle><container altrender="Record carton" id="aspace_c302ba7744a5323688e35de48ea75c58" label="Mixed Materials [31142062899466]" type="Box">1</container><container altrender="Record carton" id="aspace_d9043dcb50d015a4907528e0b1c867f9" label="Mixed Materials [31142062899474]" type="Box">2</container><container altrender="Record carton" id="aspace_7fffd8111358b7a1ab8069ed12e154b2" label="Mixed Materials [31142062899482]" type="Box">3</container><container altrender="Record carton" id="aspace_9e544e1933fa96d4c5208b7cd86db0cc" label="Mixed Materials [31142062899490]" type="Box">4</container><container altrender="Manuscript box - Legal" id="aspace_bd3134c9797f84da8d2b5d957367fb4d" label="Mixed Materials [31142062899508]" type="Box">5</container></did></c></dsc>
+</archdesc>
+</ead>

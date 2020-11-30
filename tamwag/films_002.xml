@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/films_002/">films_002</eadid><filedesc><titlestmt><titleproper>Guide to the David Loeb Weiss Film Collection <num>FILMS.002</num></titleproper><author>Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2014</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:11:25 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>David Loeb Weiss Film Collection</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Weiss, David Loeb</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="naf">Weiss, David Loeb</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Sluchansky, Steven</persname>
+    </origination>
+    <unitid>FILMS.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.999 Linear Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Record carton" id="aspace_3d672036f128b6b813de84129012aecd" label="Mixed Materials [31142063117363]" type="box">1</container>
+    <container altrender="Record carton" id="aspace_9ffb7a2ddc2c3fc35eccbcbe6429ac4f" label="Mixed Materials [31142063117371]" type="box">2</container>
+    <container altrender="Record carton" id="aspace_716735eb321263befc87e1b5e4d627ee" label="Mixed Materials [31142063117389]" type="box">3</container>
+    <container altrender="Record carton" id="aspace_1b8b9911edd39b06885a73ad6ce3ce9c" label="Mixed Materials [31142063117397]" type="box">4</container>
+    <container altrender="Record carton" id="aspace_88db39e02b44cfff7e91134127966303" label="Mixed Materials [31142063117405]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_cdc9d89ddb0b0bfe21294c0c9ff6b754" label="Mixed Materials [31142063117413]" type="box">6</container>
+    <container altrender="Record carton" id="aspace_693d4e019f2ff6d26feea468ea10ebfe" label="Mixed Materials [31142063117421]" type="box">7</container>
+    <container altrender="Record carton" id="aspace_7ba75e8673b653fd94e024038df9eb80" label="Mixed Materials [31142063117439]" type="box">8</container>
+    <container altrender="Record carton" id="aspace_206bc8ed32ad55bd12331ba61ca07a07" label="Mixed Materials [31142063117447]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_d8b7a5668bae64290d50e91daccd653c" label="Mixed Materials [31142063117454]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_54098faa7394712ae082abbbd6c5d605" label="Mixed Materials [31142063117462]" type="box">11A</container>
+    <container altrender="Record carton" id="aspace_d7161dab01fd17726a13308ce2b27bd1" label="Mixed Materials [31142063117470]" type="box">11B</container>
+    <container altrender="Record carton" id="aspace_2538fa8d664320caffafd5f674d9a404" label="Mixed Materials [31142063117488]" type="box">12A</container>
+    <container altrender="Record carton" id="aspace_264a73bfd81279cb4da3e87bb61bc69e" label="Mixed Materials [31142063117496]" type="box">12B</container>
+    <container altrender="Record carton" id="aspace_7fde5892cb2e8318114359a282f24b0d" label="Mixed Materials [31142063117504]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_f08457516c4a2e131adef619942134a6" label="Mixed Materials [31142063117512]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_47cbf6aec09265762f3417000cff70f1" label="Mixed Materials [31142063117520]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_7d941fd510f9191fea703b6da535c917" label="Mixed Materials [31142063117538]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_b7d0868fd95fd9016349684c681769f7" label="Mixed Materials [31142063117546]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_83ef2bc2a90fdf9b961cfba43426af87" label="Mixed Materials [31142063117553]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_c20bc3f9280ce9a7010cda4d752e1ae0" label="Mixed Materials [31142063117587]" type="box">21</container>
+    <container altrender="Record carton" id="aspace_c1e373be23ff89131db929a2f9b5a834" label="Mixed Materials [31142063117561]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_65f99c3b0a7a441b54191cc261a895cd" label="Mixed Materials [31142063117579]" type="box">20</container>
+    <container altrender="Record carton" id="aspace_c67b3a130151776b1fe088686b018a53" label="Mixed Materials [31142063117595]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_437014a3c3358307a9f4f4eaaac66c58" label="Mixed Materials [31142063117603]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_bbd484efdc64a918e1a558afefbf6418" label="Mixed Materials [31142063117611]" type="box">24</container>
+    <container altrender="Record carton" id="aspace_9b952a0ad15f619eb5d96494e4d48b94" label="Mixed Materials [31142063117629]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_2f70a1a322659e50b722a39ee53b3e27" label="Mixed Materials [31142063117637]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_a6d4931c016b13b9f964d40e019a864d" label="Mixed Materials" type="box">27</container>
+    <container altrender="Record carton" id="aspace_1ae34de5b8db9ad9a10a5dfc39dd26ff" label="Mixed Materials [31142063117645]" type="box">28</container>
+    <container altrender="Record carton" id="aspace_700a4e240abe5eb053db8e4764661044" label="Mixed Materials [31142063117652]" type="box">29</container>
+    <container altrender="Record carton" id="aspace_9159d9bdddcf2167a74ae0aede09c9fb" label="Mixed Materials [31142063117660]" type="box">30</container>
+    <container altrender="Record carton" id="aspace_64fc4d703d997c44b2beb6ac4b8a290c" label="Mixed Materials [31142063117678]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_5cd3463b43ce48df3018ca7429125bf6" label="Mixed Materials [31142063117686]" type="box">32</container>
+    <container altrender="Record carton" id="aspace_4687b3424b8b87834d5c702e90d63c40" label="Mixed Materials [31142063117702]" type="box">33</container>
+    <container altrender="Record carton" id="aspace_d1384db0f465ff8173ba502f0d0f073d" label="Mixed Materials [31142063117694]" type="box">34</container>
+    <container altrender="Record carton" id="aspace_d2bcadc5f01caf177612077da6e1e883" label="Mixed Materials [31142063117710]" type="box">35</container>
+    <container altrender="Film Can - 15.25" id="aspace_28e14e0a8d9de562379c042afa237582" label="film [31142063127263]" type="box">36</container>
+    <container altrender="Film Can - 15.25" id="aspace_76b6eb1d113e48e63ecd84e5f51fdeb6" label="film [31142063127271]" type="box">37</container>
+    <container altrender="Film Can - 15.25" id="aspace_0d068e44d31e024727b5096eb052a2a2" label="film [31142063127297]" type="box">39</container>
+    <container altrender="Film Can - 15.25" id="aspace_75555a10b5298579d9cbed1bfa5d3759" label="film [31142063127289]" type="box">38</container>
+    <container altrender="Film Can - 15.25" id="aspace_a3803b42031ecbfaed340d785bd0d693" label="film [31142063127305]" type="box">40</container>
+    <container altrender="Film Can - 15.25" id="aspace_cd8c1039fb474899b99dc351217f5120" label="film [31142063127313]" type="box">41</container>
+    <container altrender="Film Can - 15.25" id="aspace_d8c1d94fea1080a085a62f0524f6ac86" label="film [31142063127248]" type="box">42</container>
+    <container altrender="Film Can - 15.25" id="aspace_cd8c38e9bc3a47ba40883ff335da8b8f" label="film [31142063127255]" type="box">43</container>
+  </did>
+  <prefercite id="aspace_0ddb8242634d9654ea885c175ab8626f">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; David Loeb Weiss Film Collection; FILMS 002; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_e9bfa0700291b83987688b6cd748aa76">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_053c500614e2fcfeede1b97804ce6fbb">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by David Loeb Weiss were transferred to New York University in 2002 by David Loeb Weiss. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
+  <acqinfo id="aspace_1125738b691f0345d8940969b0267f73">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by David Loeb Weiss in 2002. The accession numbers associated with this gift are 2002.020 and NPA.2002.044.</p><p>An additional gift was donated by Steven Sluchanksy in 2003. The accession number associated with this gift is 2003.053.</p>  </acqinfo>
+  <phystech id="aspace_96627247137c34a62e485f84783d5254">
+    <head>Audiovisual Access Policies and  Procedures</head>
+<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.</p><p>Some audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu, (212) 998-2630 with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <controlaccess>
+    <persname role="dnr" source="naf">Weiss, David Loeb</persname>
+    <persname role="dnr" rules="dacs" source="local">Sluchansky, Steven</persname>
+  </controlaccess>
+  <dsc><c id="aspace_05c6e7ceb967c16a6900cbdfb9fe5459" level="file"><did><unittitle>LDT-R1 'Traitor' Cannon </unittitle><unitid>cuid209</unitid><unitdate normal="2018/2018"> </unitdate><container altrender="Record carton" id="aspace_90b96ce07f2f88ea00bd079566ce0ab8" label="film" type="box">27</container><container id="aspace_19961d511d696918331e8a9ce3daa0c8" parent="aspace_90b96ce07f2f88ea00bd079566ce0ab8" type="Reel">1</container><container id="aspace_10f9329db72e57fd9ff343686258b1c1" label="digital_access_copy" type="E-records">tamwag_films002</container><container id="aspace_e24a15ce7f16fde8f5abc6c203db7380" parent="aspace_10f9329db72e57fd9ff343686258b1c1" type="E-records">cuid209</container></did><phystech id="aspace_038ac77983121a8b63eee509fb9bc791"><head>Physical Characteristics and Technical Requirements</head><p>Format: 16mm film [Camera Original], Duration: 9 min. 22 sec., Color, Silent; Preservation note: "B-wind double-perf color reversal. Ektachrome EF stock with 1972 date code. Slight edgewave; soundtrack is not available."</p></phystech></c><c id="aspace_73527d5bce1f0e840be9b929240f7b56" level="file"><did><unittitle>LDT-R2 'Traitor' Cannon, Nick Castle</unittitle><unitid>cuid210</unitid><container altrender="Record carton" id="aspace_f92ce17a2e19d2a230794b4d7832e7b2" label="film" type="box">27</container><container id="aspace_dd010ce1f416322ba8cba368fd5edce8" parent="aspace_f92ce17a2e19d2a230794b4d7832e7b2" type="Reel">2</container><container id="aspace_bb1dc329203397fb30a381a18075066c" label="digital_access_copy" type="E-records">tamwag_films002</container><container id="aspace_4a6864f237c1ed954b150602960c0682" parent="aspace_bb1dc329203397fb30a381a18075066c" type="E-records">cuid210</container></did><phystech id="aspace_fa262a16d8f31706ff73ba453ac1c55a"><head>Physical Characteristics and Technical Requirements</head><p>Format: 16mm film [Camera Original], Duration: 11 min. 39 sec., Color, Silent; Preservation note: "B-wind double-perf color reversal. Ektachrome EF stock with 1972 date code; soundtrack element is not available."</p></phystech></c><c id="aspace_4d144aaba10123b9a8d8280ad0ee81bb" level="file"><did><unittitle>LDT-R3 'Traitor' Cannon</unittitle><unitid>cuid211</unitid><unitdate>undated</unitdate><unitdate normal="2017/2017"> </unitdate><container altrender="Record carton" id="aspace_d3041c7e51a27135669a4f61ab71457f" label="film" type="box">27</container><container id="aspace_13e2c5a606c479b4ead4386f3d7943e6" parent="aspace_d3041c7e51a27135669a4f61ab71457f" type="Reel">3</container><container id="aspace_e384c636288d104bb8c03ee70daba74d" label="digital_access_copy" type="E-records">tamwag_films002</container><container id="aspace_b36b1d101b53111e58558bba71bc3924" parent="aspace_e384c636288d104bb8c03ee70daba74d" type="E-records">cuid211</container></did><phystech id="aspace_7bf01aab0e6847427c8c1761106e18ba"><head>Physical Characteristics and Technical Requirements</head><p>Format: 16mm film [Camera Original], Duration: 11 min. 37 sec., Color, Silent; Preservation  note: "B-wind double-perf color reversal. Ektachrome EF stock with 1972 date code. Edgewave; soundtrack element is unavailable."</p></phystech></c><c id="aspace_2586f68ce6c5d7bc36b04bb00eed5975" level="file"><did><unittitle>J. P. Cannon Roll 3 Part 2</unittitle><unitid>cuid212</unitid><container altrender="Record carton" id="aspace_d40ff83a2e9cc1cf31789982afb96b8b" label="master reel [31142063117660]" type="box">30</container><container id="aspace_291bfd0f55a233479f5e46f96ca430cb" parent="aspace_d40ff83a2e9cc1cf31789982afb96b8b" type="film">1</container></did></c></dsc>
+</archdesc>
+</ead>

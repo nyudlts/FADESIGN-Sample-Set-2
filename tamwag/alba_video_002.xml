@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="x_collectionlist" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_video_002">alba_video_002</eadid><filedesc><titlestmt><titleproper>Guide to the Abraham Lincoln Brigade Archives Video Collection <num>ALBA.VIDEO.002</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:10:54 -0500</date>.</creation><langusage>Finding aid written in English</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Abraham Lincoln Brigade Archives Video Collection</unittitle>
+    <unitid>ALBA.VIDEO.002</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+      <extent altrender="carrier">in 7 boxes</extent>
+    </physdesc>
+    <unitdate normal="1987/1999" type="inclusive">1987-1990s, undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <scopecontent id="aspace_356425ce58c17eadc75c1c0598e60565">
+    <head>Scope and Contents</head>
+<p>Seven boxes of mixed Betacam tapes, VHS tapes, and DVD tapes.</p>  </scopecontent>
+  <acqinfo id="aspace_38bbb6fff1404ce1626de668a9ee89e8">
+    <head>Immediate Source of Acquisition</head>
+<p>Original provenance is unknown. In May 2019, Karen Black donated two boxes of additional video recordings on behalf of ALBA; the accession number associated with this gift is 2019.071.</p>  </acqinfo>
+  <processinfo id="aspace_60ec963a3317752b6956148d97367c74">
+    <head>Processing Information</head>
+<p>Decisions regarding the arrangement, description, and physical interventions taken on this collection prior to 2019 have not yet been recorded. In 2019 an accretion was rehoused in archival boxes and intellectually incorporated into the collection.</p>  </processinfo>
+  <dsc><c id="aspace_03a9097cfdc3531f1eaafb537eb5eeab" level="file"><did><unittitle>Exilios: Réfugiés espagnols dans le Midi de la France</unittitle><unitid>cuid850</unitid><langmaterial><language langcode="fre" scriptcode="Latn">French</language>.</langmaterial><container altrender="Record carton" id="aspace_0b126a41e0be8d1191dad207d11a68c4" label="master vhs [31142062723708]" type="Box">1</container><container altrender="Card Box - 6.5 - long" id="aspace_dcf6969d7454fa7a4268410bd1a8d1f3" label="access dvd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container><container id="aspace_6eaea6f4bf201ef74abb66cc6f7d0ead" parent="aspace_dcf6969d7454fa7a4268410bd1a8d1f3" type="dvd">1</container></did></c><c id="aspace_d9dffc10d0de8e5ea2473ed015b03525" level="file"><did><unittitle>Spanish Civil War Refugees in French "Camps"</unittitle><unitid>cuid851</unitid><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container altrender="Record carton" id="aspace_46b87f740b5331c4cb702f19bff864e6" label="master vhs [31142062723708]" type="Box">1</container><container altrender="Card Box - 6.5 - long" id="aspace_179753f2a665f537386ea534301840a8" label="access dvd [31142062734804]" type="box">ALBA Shared Access CD/DVD Box 2</container><container id="aspace_9e3122c55666a629ec35495dac2ce652" parent="aspace_179753f2a665f537386ea534301840a8" type="dvd">1</container></did></c><c id="aspace_636948e3a66ea15370c1b90b8921a9e8" level="file"><did><unittitle>Unprocessed Materials</unittitle><container altrender="Record carton" id="aspace_08dfd5641829c09d2b6ec69795983e58" label="Mixed Materials [31142062723724]" type="Box">3</container><container altrender="Record carton" id="aspace_1f237c3a61911d79465a01717b899261" label="Mixed Materials [31142062723732]" type="Box">4</container><container altrender="Record carton" id="aspace_b1df3051235db9da86541349f2ba3d8d" label="Mixed Materials [31142062723740]" type="Box">5</container><container altrender="Record carton" id="aspace_b28be603bea7faad4c716617845e873c" label="Mixed Materials [31142062723716]" type="Box">2</container></did></c></dsc>
+</archdesc>
+</ead>

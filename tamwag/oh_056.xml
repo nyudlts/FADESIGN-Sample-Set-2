@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/oh_056">oh_056</eadid><filedesc><titlestmt><titleproper>Guide to the Murray Bookchin Audiocassettes <num>OH.056</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 13:14:47 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Murray Bookchin Audiocassettes</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Bookchin, Murray, 1921-2006</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="naf">Biehl, Janet, 1953-</persname>
+    </origination>
+    <unitid>OH.056</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      <extent altrender="carrier">4 boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_b9256eac5d259c34f23c49e5170127f7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restricitions.</p>  </accessrestrict>
+  <acqinfo id="aspace_673522c5c6126b5058571e7a81484bdb">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Murray Bookchin and Janet Biehl in 2003. The accession number associated with this gift is 2003.002.</p>  </acqinfo>
+  <scopecontent id="aspace_17931bd4d5ce152b4adeca3a39369368">
+    <head>Scope and Contents</head>
+<p>4 boxes. Collection consists of audiocassettes, containing approximately 500 tapes; date span ca. 1984 -  ca. 1998.  The cassettes contain interviews, speeches and talks, radio programs, etc.  Unprocessed.  No index or finding aid available.</p>  </scopecontent>
+  <phystech id="aspace_95e8ca491cd67f950d1d31a46e1e4f70">
+    <head>Audiovisual Access Policies and Procedures</head>
+<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
+  <userestrict id="aspace_2be0a2b780d2180a128e8506f666cfa9">
+    <head>Conditions Governing Use</head>
+<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Copyright (and related rights to publicity and privacy) to materials in this collection, created by Murray Bookchin, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="naf">Bookchin, Murray, 1921-2006</persname>
+    <persname role="dnr" source="naf">Biehl, Janet, 1953-</persname>
+  </controlaccess>
+  <dsc><c id="aspace_eca2c1ae6c236ce0f7d868bab82fcff0" level="file"><did><unittitle>Unprocessed audiocassettes</unittitle><container altrender="Custom-cassette tote bag" id="aspace_d1f4f953b64ef79cc57be2e5fec22e73" label="Audio [31142062672210]" type="Box">1</container><container altrender="Custom-cassette tote bag" id="aspace_8f2b14a67a03437225da00a6987f8418" label="Audio [31142062672228]" type="Box">2</container><container altrender="Record carton" id="aspace_1f31bd9876191e6fa9e4b5ad6e5520b1" label="Audio [31142062672236]" type="Box">3</container><container altrender="Record carton" id="aspace_2227f835513d77e4bf9d0a1ab8272001" label="Audio [31142062672244]" type="Box">4</container></did></c><c id="aspace_8cfa1869bcf12184e7ec3f593cd7ced4" level="file"><did><unittitle>Preservation Masters</unittitle></did><c id="aspace_0d48fe84c17b9f7119d0f02dcaa7e00b" level="file"><did><unittitle>Cassettes 1-4</unittitle><container altrender="Hollinger Cassette Box 9.5" id="aspace_e40cff5bce12dd80d24f6eef337a228f" label="Audio [31142062672533]" type="Box">Shared Cassette Box 15</container></did></c></c></dsc>
+</archdesc>
+</ead>

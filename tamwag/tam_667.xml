@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unprocessed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_667">tam_667</eadid><filedesc><titlestmt><titleproper>Guide to the Donald S. Daughtry Papers <num>TAM.667</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:34:16 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Donald S. Daughtry Papers</unittitle>
+    <origination label="Creator">
+      <persname role="dnr" rules="dacs" source="local">Daughtry, Donald S., Reverend</persname>
+    </origination>
+    <unitid>TAM.667</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">28.5 Linear Feet</extent>
+      <extent altrender="carrier">in 26 records boxes, 1 non-records box, 1 manuscript box, 1 oversized flat box, and two oversized pieces.</extent>
+    </physdesc>
+    <unitdate normal="1955/2015" type="inclusive">1955-2015</unitdate>
+    <unitdate normal="1970/2013" type="bulk">1970-2013</unitdate>
+    <abstract id="aspace_ba320dd0fd71ebd9cb92219c7e4c3d9d">The Donald S. Daughtry Papers consist of material compiled between 1965-2010 by the Reverend Donald S. Daughtry in his capacity as a participant in civil rights and anti-war causes. The papers include correspondence to allies and opponents, drafts of sermons addressing pacificist and humanist topics, and manuscripts of Daughtry's politically-oriented poetic work.</abstract>
+    <langmaterial id="aspace_1364eb3f522655e404050edd4ffe5752">Materials are in English</langmaterial>
+    <container altrender="Record carton" id="aspace_7de54d84d6936c0a37f07ff544481e75" label="Mixed Materials [31142063135886]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_25426e3f0cb9918a5e6cbfbdbceb38c4" label="Mixed Materials [31142063135894]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_d90066576343b18288a0777c34f07013" label="Mixed Materials [31142063135902]" type="box">27</container>
+    <container altrender="Manuscript box - Legal" id="aspace_a94f52c99e6aa296fe0488e1e49d6b06" label="Mixed Materials [31142063135910]" type="box">28</container>
+    <container altrender="Record carton" id="aspace_038f03583b9a158b496cd15bb8b10b08" label="Mixed Materials [31142063135852]" type="box">29</container>
+    <container altrender="Record carton" id="aspace_2b28260663d4d6c86bf4aed1c8f3a708" label="Mixed Materials [31142063135860]" type="box">30</container>
+    <container altrender="Record carton" id="aspace_ce952661ab015039050daa376f4f9410" label="Mixed Materials [31142063135845]" type="box">31</container>
+    <container altrender="Record carton" id="aspace_61513358033e2d021b00bcfa19e7e5ea" label="Mixed Materials [31142063135878]" type="box">32</container>
+  </did>
+  <accessrestrict id="aspace_2812a64447811da6be174a2d9d35fed9">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a66172ceb7df1e322cfbd15c99b95482">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Reverend Donald S. Daughtry in 2015. The accession numbers related to this gift are 2015.019 and 2015.058.</p>  </acqinfo>
+  <arrangement id="aspace_301d1e3b48ca9380f749d1cf12ab4498">
+    <head>Arrangement</head>
+<p>Material from accrual 2015.058 has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_bb896c0a96552677de1bafedf61cdc09">
+    <head>Historical/Biographical Note</head>
+<p>Donald S. Daughtry (1930-) was a pastor active in the American civil rights and anti-war movements in the late 20th Century. Born into a conservative Southern Baptist family in Charleston, SC, he joined the Air Force, served as a chaplain for the Pacific Missile Range, and founded the Marshall Islands Journal, the first newspaper in the Marshall Islands. Beginning in 1967, Daughtry was associate pastor of First Congregational Church in Atlanta, GA and pursued an active role in the civil rights movement. A friend of Martin Luther King, Sr., Daughtry was introduced to Martin Luther King Jr. and, after MLK's assassination, met regularly with religious leaders in Coretta Scott King's house. Daughtry settled in Florida after serving in churches in Seattle and Hawaii and began a period of concerted activism. He became a poet, a leader of the nuclear-freeze movement, an advocate of US-Soviet friendship, a facilitator of increased ties between Jewish and Christian religious leaders.</p>  </bioghist>
+  <prefercite id="aspace_2860afc1e323003bf7c5918565155794">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Donald S. Daughtry Papers; TAM 667; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_87e251180b4d8b09497da133cc111e9a">
+    <head>Processing note</head>
+<p>Materials from accrual 2015.058 were moved into archival housing at the time of accessioning, and a collection finding aid was created to describe these materials. No physical processing or arrangement was performed at this time.</p>  </processinfo>
+  <scopecontent id="aspace_9de5ae438c05466a0a2fe0c4f496ba08">
+    <head>Scope and Content Note</head>
+<p>Material from a 2015 accrual includes personal correspondence, drafts of articles and sermons addressing such topics as civil rights, poverty and capitalism, charity, feminism, and universal humanism, Daughtry's poetic manuscripts, and a large quantity of letters addressed to prominent world leaders (circa 1980-2008).</p>  </scopecontent>
+  <userestrict id="aspace_10ef41a5433f2499ffab7f65a39aa689">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Reverend Donald S. Daughtry, the creator of this collection, were relinquished and transferred to the public domain in 2015 by Reverend Donald S. Daughtry. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Sermons.</genreform>
+    <subject source="lcsh">Civil rights workers.</subject>
+    <subject source="lcsh">Anti-war demonstrations.</subject>
+    <subject source="lcsh">War resistance movements -- United States.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="recordgrp"><did><unittitle>2015.058 accrual to existing collection</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4 boxes</extent></physdesc><container id="aspace_f7f0de91c636037c887c20f0a66f6776" label="Mixed Materials" type="box">1-4</container></did></c><c id="aspace_581dac4947828ff70a47bb4ed05a06a8" level="series"><did><unittitle>Accn. 2015.019 </unittitle><container altrender="Record carton" id="aspace_a25e95372b78f0d96eaa4782cbb018eb" label="Mixed Materials [31142063135647]" type="box">5</container><container altrender="Record carton" id="aspace_df2dcf30d9129b66dad441419eb89d12" label="Mixed Materials [31142063135654]" type="box">6</container><container altrender="Record carton" id="aspace_5cb1bae697fa3c1478a34cd8b92ef5c3" label="Mixed Materials [31142063135662]" type="box">7</container><container altrender="Record carton" id="aspace_881638f77f25c14bf52de0cf909a6bbc" label="Mixed Materials [31142063135670]" type="box">8</container><container altrender="Record carton" id="aspace_6c3495cae2793e42534f056b759f0af3" label="Mixed Materials [31142063135688]" type="box">9</container><container altrender="Record carton" id="aspace_ad16f72e7c36bfa75d3a78914c573f31" label="Mixed Materials [31142063135696]" type="box">10</container><container altrender="Record carton" id="aspace_bdfa591c847d447783d6fc1320b9f9fb" label="Mixed Materials [31142063135704]" type="box">11</container><container altrender="Record carton" id="aspace_7b67d029e2293ec8cbfc39d4c1af5335" label="Mixed Materials [31142063135712]" type="box">12</container><container altrender="Record carton" id="aspace_be1887edb5bb24f6656f2a1c104c1242" label="Mixed Materials [31142063135720]" type="box">13</container><container altrender="Record carton" id="aspace_b4a8be0949f071f44a56598657eec864" label="Mixed Materials [31142063135738]" type="box">14</container><container altrender="Record carton" id="aspace_d560f1b94cf31b540b0f20c63337a07d" label="Mixed Materials [31142063135746]" type="box">15</container><container altrender="Record carton" id="aspace_0a09a241ee7d685ca92c5809a675649d" label="Mixed Materials [31142063135753]" type="box">16</container><container altrender="Record carton" id="aspace_3a65415087d77e4a124ac35b8c7892b1" label="Mixed Materials [31142063135761]" type="box">17</container><container altrender="Record carton" id="aspace_81ed7105ca4b11202846614b58ee7aaa" label="Mixed Materials [31142063135779]" type="box">18</container><container altrender="Record carton" id="aspace_98af29d53719478294e4df7f7030798b" label="Mixed Materials [31142063135787]" type="box">19</container><container altrender="Record carton" id="aspace_7f8efe28440f7ac1b547cc5f0c12f3fd" label="Mixed Materials [31142063135795]" type="box">20</container><container altrender="Record carton" id="aspace_c4695bbe26e2e36b726386884eaf2fe2" label="Mixed Materials [31142063135803]" type="box">21</container><container altrender="Record carton" id="aspace_359eab5990de55232eecc35f0d936fc7" label="Mixed Materials [31142063135811]" type="box">22</container><container altrender="Record carton" id="aspace_6929df9ca47ef0d432a5612d178d1d96" label="Mixed Materials [31142063135829]" type="box">23</container><container altrender="Record carton" id="aspace_3295fa41674d4d22ba820c6c243d99d2" label="Mixed Materials [31142063135837]" type="box">24</container></did></c><c id="aspace_5ecc06f10f74df82e001fadc77619eaa" level="file"><did><unittitle>Unprocessed</unittitle><container id="aspace_a326c3d54bcea6af34b8e227d1a1d1aa" label="Mixed Materials [31142063130754]" type="Box">34</container><container id="aspace_83d39955ae85303523a11661698e80b3" label="Mixed Materials [31142063130747]" type="Box">33</container></did></c></dsc>
+</archdesc>
+</ead>

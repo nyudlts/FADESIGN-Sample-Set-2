@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_267">tam_267</eadid><filedesc><titlestmt><titleproper>Tamiment Library Records<num>TAM.267</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:22:28 -0500</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Tamiment Library Records</unittitle>
+    <origination label="Creator">
+      <corpname source="naf">Tamiment Library</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="naf">Robert F. Wagner Labor Archives</corpname>
+    </origination>
+    <unitid>TAM.267</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">39.5 linear feet</extent>
+      <extent altrender="carrier">in 55 boxes</extent>
+    </physdesc>
+    <unitdate normal="1950/2011" type="inclusive">circa1950s-2000s</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    <container altrender="Flat Box - 9.25" id="aspace_d2fb1ac75dd3d2a39d8759d31b1c59f0" label="Mixed Materials [31142063264686]" type="box">1</container>
+    <container altrender="Flat Box - 9.25" id="aspace_6287da2bccedd08032fa7c86a2dcb418" label="Mixed Materials [31142063264694]" type="box">2</container>
+    <container altrender="Card Box - 6.5" id="aspace_fa0b45dfa1c689cc4a108cc3be86c860" label="Mixed Materials [31142063264678]" type="box">3</container>
+    <container altrender="Manuscript box - Legal" id="aspace_81ad4b915f1c87a8f4a2bc9179499930" label="Mixed Materials [31142063264900]" type="box">4</container>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_d1a29cecac4a2faf406dffe03211bd4c" label="Mixed Materials [31142063264892]" type="box">5</container>
+    <container altrender="Record carton" id="aspace_a0fe7e51a24f0d3750cecf42edd9c2e6" label="Mixed Materials [31142063264926]" type="box">6</container>
+    <container altrender="Manuscript box - Legal" id="aspace_9dfd4fb1f59ede276f3035520fe98a25" label="Mixed Materials [31142063264918]" type="box">7</container>
+    <container altrender="Manuscript box - Legal" id="aspace_4a8dfd861c4e044553e062ca2b58990e" label="Mixed Materials [31142063264744]" type="box">8</container>
+    <container altrender="Hollinger Flat OS 12.25 - lengthwise" id="aspace_620805780bd9d80869b56e1e1e8a0da1" label="Mixed Materials [31142063264702]" type="box">9</container>
+    <container altrender="Record carton" id="aspace_dcc6a1620a2d0a4c9f0c8364edb9c32d" label="Mixed Materials [31142063264728]" type="box">10</container>
+    <container altrender="Record carton" id="aspace_23c5e1ff40136aa9ecc50dfd2d5d3b0a" label="Mixed Materials [31142063277142]" type="box">11</container>
+    <container altrender="Record carton" id="aspace_bb2bf6e032f2ff80c222bee5120d139a" label="Mixed Materials [31142063264710]" type="box">12</container>
+    <container altrender="Record carton" id="aspace_7cf5d29ba3c81732e004bcce5d198306" label="Mixed Materials [31142063264736]" type="box">13</container>
+    <container altrender="Record carton" id="aspace_8c9b2c264fb2d98a136bc47ce5151244" label="Mixed Materials [31142063264777]" type="box">14</container>
+    <container altrender="Record carton" id="aspace_dc6ec86419db2fd0284b9ba1f4295cd4" label="Mixed Materials [31142063264785]" type="box">15</container>
+    <container altrender="Record carton" id="aspace_d70eafd63c741f2cf55bc7585fbd81a5" label="Mixed Materials [31142063264793]" type="box">16</container>
+    <container altrender="Record carton" id="aspace_15084f7e164b9a31fb5f40d5169650ae" label="Mixed Materials [31142063264884]" type="box">17</container>
+    <container altrender="Record carton" id="aspace_63c8bb12ae2d28206ffe2f5d292fce3a" label="Mixed Materials [31142063264801]" type="box">18</container>
+    <container altrender="Record carton" id="aspace_bf21dc93189edd44e6d91655ce53f79b" label="Mixed Materials [31142063264819]" type="box">19</container>
+    <container altrender="Record carton" id="aspace_dbda4de9eedda41b8fc9ef1935f03ad3" label="Mixed Materials [31142063264751]" type="box">20</container>
+    <container altrender="Manuscript box - Legal" id="aspace_071413ea92616f03796febff2ca652e4" label="Mixed Materials [31142063264769]" type="box">21</container>
+    <container altrender="Record carton" id="aspace_897826b7e31669f9287552e40c40cdf9" label="Mixed Materials [31142063264827]" type="box">22</container>
+    <container altrender="Record carton" id="aspace_e82e2cbbcec8f57235f2c9687926b944" label="Mixed Materials [31142063264835]" type="box">23</container>
+    <container altrender="Record carton" id="aspace_5c41852a64d8028a84bfe7bfff30efe7" label="Mixed Materials [31142063264843]" type="box">24</container>
+    <container altrender="Record carton" id="aspace_86d9d2a13933922da5e8631ab181eb34" label="Mixed Materials [31142063264850]" type="box">25</container>
+    <container altrender="Record carton" id="aspace_cfe85471304aacb068e481130aa6f55e" label="Mixed Materials [31142063264868]" type="box">26</container>
+    <container altrender="Record carton" id="aspace_a29c9f10d01f240cd31f501bf676cf82" label="Mixed Materials [31142063264876]" type="box">27</container>
+    <container altrender="Manuscript box - Legal" id="aspace_50129ca3a58ba19ae377da0e93790921" label="Mixed Materials [31142063268620]" type="box">49</container>
+    <container altrender="Manuscript box - Legal" id="aspace_dd8c8fec19d833581f493968e101bc19" label="Mixed Materials [31142063268638]" type="box">50</container>
+    <container altrender="Record carton" id="aspace_144c431b54c14ea7f46198fe1fbedd85" label="Mixed Materials [31142062745578]" type="Box">34</container>
+    <container altrender="Record carton" id="aspace_1e8e85e4969947fbf49dffda0a602f16" label="Mixed Materials [31142062745560]" type="Box">35</container>
+    <container altrender="Record carton" id="aspace_b7ddf19ccff6c5d09fd74b4acccabcfb" label="Mixed Materials [31142062745552]" type="Box">36</container>
+    <container altrender="Record carton" id="aspace_08fa776181e708649f8021e7be6e0a11" label="Mixed Materials [31142042188733]" type="Box">37</container>
+    <container altrender="Record carton" id="aspace_1141008d2b39366f20ce111fb1c2e80c" label="Mixed Materials [31142063397247]" type="Box">38</container>
+    <container altrender="Record carton" id="aspace_225e7911c3989a4b16cee016e47d3c0a" label="Mixed Materials [31142063397254]" type="Box">39</container>
+    <container altrender="Record carton" id="aspace_a246233dc663079f816a37fcbfbca576" label="Mixed Materials [31142042188923]" type="Box">40</container>
+    <container altrender="Record carton" id="aspace_7c0a3dccb5760a4541386fec87f580ab" label="Mixed Materials [31142063397262]" type="Box">41</container>
+    <container altrender="Record carton" id="aspace_affef9f161d253427069ac34c42ad5b6" label="Mixed Materials [31142042188840]" type="Box">42</container>
+    <container altrender="Record carton" id="aspace_0e5da38bc0ea9b66f5f93cf20fcfd842" label="Mixed Materials [31142042188816]" type="Box">43</container>
+    <container altrender="Record carton" id="aspace_5185dece0a958ae8f98e0a5719748cd9" label="Mixed Materials [31142063397270]" type="Box">44</container>
+    <container altrender="Record carton" id="aspace_7dcf1b162c1aca793575568a5cffc2e1" label="Mixed Materials [31142063397288]" type="Box">45</container>
+    <container altrender="Manuscript box - Legal" id="aspace_1a7985f4746bae272d0b77256ec41285" label="Mixed Materials [31142063397239]" type="Box">46</container>
+    <container altrender="Record carton" id="aspace_dd3f2b5a12708c907cdbc3d7e7a2efab" label="Mixed Materials [31142062912145]" type="Box">51</container>
+    <container altrender="Record carton - lengthwise" id="aspace_0fe87f9a0b17c23c89fa3c70c6f6c10a" label="Mixed Materials [31142062759447]" type="Box">52</container>
+    <container altrender="Record carton" id="aspace_f70e0dc862374584d8afdffc27c285fc" label="Mixed Materials [31142063037454]" type="Box">53</container>
+  </did>
+  <dsc><c id="aspace_15124c907dc2570e4f5d24f1237ac128" level="file"><did><unittitle>Copy Negatives - scans of materials across multiple collections</unittitle><unitdate>undated</unitdate><container altrender="Record carton" id="aspace_8b245c0d4a30b5f41d00e22f5556ab5e" label="Mixed Materials [31142062882629]" type="Box">73</container><container altrender="Record carton" id="aspace_5b06cb652f949775a7f1b6e5970426a0" label="Mixed Materials [31142062882637]" type="Box">75</container><container altrender="Record carton" id="aspace_1e3f85566ee9aa063b26075bf6671f31" label="Mixed Materials [31142062882645]" type="Box">76</container></did></c><c id="aspace_7b00353b2f63f2ef981343aab24e79a4" level="file"><did><unittitle>LaborFest '80</unittitle><unitdate normal="1980/1980">1980</unitdate><container altrender="Record carton" id="aspace_ab78f23e81222a8ab6807c2718405539" label="Mixed Materials [31142062882645]" type="Box">76</container><container id="aspace_c227ec4d8b4dc0d45c90aa52cc40285d" parent="aspace_ab78f23e81222a8ab6807c2718405539" type="Folder">2</container></did></c><c id="aspace_c3647b0fad9cc380079e8b7bc62037ae" level="file"><did><unittitle>Staff correspondence</unittitle><unitdate normal="1995/1995">1995</unitdate><container altrender="Record carton" id="aspace_c3e84fe5523438fa3a575deea997a6cc" label="Mixed Materials [31142062882645]" type="Box">76</container><container id="aspace_b64369c3bb7698f3482599fdc0c1e536" parent="aspace_c3e84fe5523438fa3a575deea997a6cc" type="Folder">3</container></did></c><c id="aspace_8620402596be7cae95bb27fe376fb915" level="file"><did><unittitle>Zip disks</unittitle><container altrender="Manuscript box - Legal" id="aspace_4529f16dc6f922632eae36562cae11dc" label="Mixed Materials [31142062722874]" type="Box">55</container></did></c><c id="aspace_3f51d6b007cdb8b182e8e16b5f5ec130" level="file"><did><unittitle>Collection barcodes</unittitle><container altrender="Record carton" id="aspace_461308becb3ae357fef68cd65772c0a6" label="Mixed Materials [31142062735512]" type="Box">79</container><container altrender="Record carton" id="aspace_5d17d2c87d4d58f2a30de3ce8e5a4a08" label="Mixed Materials [31142062735520]" type="Box">80</container><container altrender="Record carton" id="aspace_e2edec03d9656f819c8f666929c7bd5b" label="Mixed Materials [31142062735538]" type="Box">81</container></did></c><c id="aspace_f9658a1ec3bce9cb4453b5eaef2557af" level="file"><did><unittitle>Call slips, photography forms, reproduction forms</unittitle><container altrender="Record carton" id="aspace_3c16a65e8987b289176cbc03f4056b4e" label="Mixed Materials [31142062735546]" type="Box">82</container></did></c></dsc>
+</archdesc>
+</ead>

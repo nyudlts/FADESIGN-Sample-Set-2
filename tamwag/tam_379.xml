@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_379">tam_379</eadid><filedesc><titlestmt><titleproper>Guide to the David Loeb Weiss Papers <num>TAM.379</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-11-30 14:26:22 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>David Loeb Weiss Papers</unittitle>
+    <origination label="source">
+      <persname source="naf">Weiss, David Loeb</persname>
+    </origination>
+    <unitid>TAM.379</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">11 Linear Feet</extent>
+      <extent altrender="carrier">in 11 record cartons.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <physloc id="aspace_a062266e43a0c3bcaf66d66800a2b2e2">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+    <langmaterial id="aspace_bd5cd546f9b545d18d44d2429ac0ca67">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f79b0f673e30d5094394432cb00c83b3">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_9625cc30e833f85755d5ce1d2912363a">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by David Loeb Weiss in 2002. The accession number associated with this gift is 2002.022.</p>  </acqinfo>
+  <userestrict id="aspace_7f633dc28dcedcafb05d8768915666c5">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by David Loeb Weiss were transferred to New York University in 2002 by David Loeb Weiss. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <prefercite id="aspace_897f95199e504171c52fe5211f429606">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; David Loeb Weiss Papers; TAM 379; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <arrangement id="aspace_717b0925c5eb72cdf15686b2b9a35494">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
+  <processinfo id="aspace_61f3cee1e16d02ac38afb1ebf092fc26">
+    <head>Processing Information</head>
+<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019, materials were placed in new acid-free folders and boxes.</p>  </processinfo>
+  <controlaccess>
+    <persname role="fmo" source="naf">Weiss, David Loeb</persname>
+  </controlaccess>
+  <dsc><c id="aspace_b6880bd98a1cabd70601ae639c83903a" level="file"><did><unittitle>Box 1</unittitle><container altrender="Record carton" id="aspace_a7c1d53fee1cf95624233982aaa03f2f" label="Mixed Materials [31142063277381]" type="box">1</container></did></c><c id="aspace_15d7d584656e9c6602788547efcd6d14" level="file"><did><unittitle>Box 2</unittitle><container altrender="Record carton" id="aspace_b99bbebe1b14156ff00ff9dc65a69508" label="Mixed Materials [31142063277399]" type="box">2</container></did></c><c id="aspace_b9006f895175ecd169b6248dfa9c93ab" level="file"><did><unittitle>Box 3</unittitle><container altrender="Record carton" id="aspace_ddf7dac84d1d64792813b699fd33f88d" label="Mixed Materials [31142063277407]" type="box">3</container></did></c><c id="aspace_a07236ac173d4331242b0abe665dbcd4" level="file"><did><unittitle>Box 4</unittitle><container altrender="Record carton" id="aspace_a4d55bf048b1be520e3f5bcbe7af3f68" label="Mixed Materials [31142063277415]" type="box">4</container></did></c><c id="aspace_b1757da969394c9446d3bed1d9ffcaeb" level="file"><did><unittitle>Box 5</unittitle><container altrender="Record carton" id="aspace_4347565e71ee64212a5620057eb92995" label="Mixed Materials [31142063277423]" type="box">5</container></did></c><c id="aspace_3e9ef9c9ef13d802dcf134aa6758a736" level="file"><did><unittitle>Box 6</unittitle><container altrender="Record carton" id="aspace_1e42e1596db960b8a6dc527e4bf59e7e" label="Mixed Materials [31142063277431]" type="box">6</container></did></c><c id="aspace_92aead4adef27a1797bc5c7ad9b67827" level="file"><did><unittitle>Box 7</unittitle><container altrender="Record carton" id="aspace_409b0d21f4e419e3f0877a35764c5ec8" label="Mixed Materials [31142063277449]" type="box">7</container></did></c><c id="aspace_5dfe434d9af018f69ba476822553ef7d" level="file"><did><unittitle>Box 8</unittitle><container altrender="Record carton" id="aspace_fb29a5b2b26e6728f89e6a2c9dd98ea6" label="Mixed Materials [31142063277456]" type="box">8</container></did></c><c id="aspace_b6e2f5476a83e54f06277224db15e056" level="file"><did><unittitle>Box 9</unittitle><container altrender="Record carton" id="aspace_5ed48bac787016b1399d9d5b0aa6c2a2" label="Mixed Materials [31142063277464]" type="box">9</container></did></c><c id="aspace_e5fbd4216b0c2d8ba26d72e5ab962623" level="file"><did><unittitle>Box 10</unittitle><container altrender="Record carton" id="aspace_9d12d6a9f04e50e43a26c81df21c59b8" label="Mixed Materials [31142063277472]" type="box">10</container></did></c><c id="aspace_c0e305d00fee56002db2d7986e03418a" level="file"><did><unittitle>Box 11</unittitle><container altrender="Record carton" id="aspace_cbfe7efe6702fc7c37e9d6e6d72a0e15" label="Mixed Materials [31142063277480]" type="box">11</container></did></c></dsc>
+</archdesc>
+</ead>
